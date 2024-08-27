@@ -1,0 +1,5046 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!668709126 &-7132259548724836985
+BuiltAssetBundleInfoSet:
+  bundleInfos:
+  - bundleName: scene-android-vrcvirtualstudiosoundstage00.vrcw
+    bundleArchiveFile: 3
+    packagedFileIndices: 000000000100000002000000
+  - bundleName: VRChatSitComStudio00
+    bundleArchiveFile: 6
+    packagedFileIndices: 05000000
+--- !u!1521398425 &-3705755175480115633
+VideoBuildInfo:
+  m_VideoClipCount: 0
+  m_IsVideoModuleDisabled: 0
+--- !u!1126 &-3655174715728130632
+PackedAssets:
+  m_ShortPath: BuildPlayer-VRCVirtualStudioSoundstage00.resource
+  m_Overhead: 0
+  m_Contents:
+  - fileID: 0
+    classID: 83
+    packedSize: 18720
+    offset: 0
+    sourceAssetGUID: 0370725b4822d534c98eaf9789c3c7ea
+    buildTimeAssetPath: Assets/Sounds/253786__reitanna__glitchy-ruffle.wav
+  - fileID: 0
+    classID: 83
+    packedSize: 109760
+    offset: 0
+    sourceAssetGUID: 064b81677efcd8e4a9797166a49cc21a
+    buildTimeAssetPath: Assets/Sounds/audio/Samwise Aaron/Samwise Aaron - Reflections
+      - 30 sec.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 147136
+    offset: 0
+    sourceAssetGUID: 30d35463d6332c340b76e044d8d301e4
+    buildTimeAssetPath: Assets/Sounds/audio/Peter Gabriel/Peter Gabriel - Intruder
+      30 Sec.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 13344
+    offset: 0
+    sourceAssetGUID: 345c38b551bd9004db1feb58d710c1c0
+    buildTimeAssetPath: Assets/Sounds/Household/58452__sinatra314__chairscrape4.wav
+  - fileID: 0
+    classID: 83
+    packedSize: 26976
+    offset: 0
+    sourceAssetGUID: 3a1cd7bf7970f004a97b9eea8f97e57c
+    buildTimeAssetPath: Assets/Sounds/Household/325585__cbenci__sliding-noise-v2.ogg
+  - fileID: 0
+    classID: 83
+    packedSize: 162304
+    offset: 0
+    sourceAssetGUID: 44879eaa59b042c4894ad5d2d6a69c09
+    buildTimeAssetPath: Assets/Sounds/audio/Adrian Belew/Adrian Belew - Oh Daddy
+      30 Sec.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 149792
+    offset: 0
+    sourceAssetGUID: 4efd447eeef031149a442eb4d6e0a100
+    buildTimeAssetPath: Assets/Sounds/audio/WarrenZevon/Warren Zevon - Johnny Strikes
+      up the Band 30 Sec.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 10496
+    offset: 0
+    sourceAssetGUID: 57f4ca08b6cfa85439699dc4cde9904a
+    buildTimeAssetPath: Assets/Sounds/588242__magnuswaker__laser-charge-up.wav
+  - fileID: 0
+    classID: 83
+    packedSize: 449920
+    offset: 0
+    sourceAssetGUID: 59a079df586d60f4a933db169ab9eeec
+    buildTimeAssetPath: Assets/Sounds/540040__newlocknew__otherworld-industrial-ambience_1-35lrsmltprcssng.wav
+  - fileID: 0
+    classID: 83
+    packedSize: 163104
+    offset: 0
+    sourceAssetGUID: 61f84fb2d15c3a34bb0a29f7bb4b774f
+    buildTimeAssetPath: Assets/Sounds/audio/ACDC/ACDC - Thunderstruck (Official Video)
+      30 Sec.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 5760
+    offset: 0
+    sourceAssetGUID: 6a2cc3df305909b4d8dcaf5a4b52f097
+    buildTimeAssetPath: Assets/Sounds/588241__magnuswaker__calm-sine.wav
+  - fileID: 0
+    classID: 83
+    packedSize: 736
+    offset: 0
+    sourceAssetGUID: 6baa383659ad41640a0db93c952e5cef
+    buildTimeAssetPath: Assets/Sounds/Household/144291__dwoboyle__light_switch-0004-on-02.wav
+  - fileID: 0
+    classID: 83
+    packedSize: 28736
+    offset: 0
+    sourceAssetGUID: 6dfc9091e527e2d4ca9cb0f2b2c2b603
+    buildTimeAssetPath: Assets/Sounds/64447__nicstage__cameraclose.wav
+  - fileID: 0
+    classID: 83
+    packedSize: 161568
+    offset: 0
+    sourceAssetGUID: 70d1b6b24e5af2643878109830a7557b
+    buildTimeAssetPath: Assets/Sounds/239594__xtrgamr__unimpressedyay-01.wav
+  - fileID: 0
+    classID: 83
+    packedSize: 152320
+    offset: 0
+    sourceAssetGUID: 8ba9c6d5f8fca32409a3cca88e9c0b80
+    buildTimeAssetPath: Assets/Sounds/audio/Jethro Tull/Jethro Tull  Songs From The
+      Wood  (1977) 30 Sec.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 896
+    offset: 0
+    sourceAssetGUID: 954e038ed761aff459acfa8c52c58250
+    buildTimeAssetPath: Assets/Sounds/167329__willy-ineedthatapp-com__droplet4.ogg
+  - fileID: 0
+    classID: 83
+    packedSize: 16128
+    offset: 0
+    sourceAssetGUID: a346daaf06d473541a17a0914d1c2396
+    buildTimeAssetPath: Assets/Sounds/341341__jtuttle__rubberband-1.wav
+  - fileID: 0
+    classID: 83
+    packedSize: 4416
+    offset: 0
+    sourceAssetGUID: aa3a152edbd049a41b5605c80ccabaa1
+    buildTimeAssetPath: Assets/Sounds/Weapons/699940_artninja_best_custom_sword_hit_w_ringouts_25_12262022_shortened.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 14528
+    offset: 0
+    sourceAssetGUID: adfbd4659eb26074dbd70c6f1e59e297
+    buildTimeAssetPath: Assets/Sounds/105364__chimerical__mic-feedback-fx-short-mid.wav
+  - fileID: 0
+    classID: 83
+    packedSize: 2400
+    offset: 0
+    sourceAssetGUID: b49a09dd50d896141b2a8a7ae7f4d019
+    buildTimeAssetPath: Assets/Sounds/Household/369910__germanio__mug-hit.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 156864
+    offset: 0
+    sourceAssetGUID: bc1d94e9d1f2e354eaf8c13a8377128c
+    buildTimeAssetPath: Assets/Sounds/audio/Yes/YES - Owner of a Lonely Heart (Official
+      Music Video) 30 Sec.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 3360
+    offset: 0
+    sourceAssetGUID: c527d4a9966bf434d991f9b228a5a9c6
+    buildTimeAssetPath: Assets/Sounds/528730__alexhanj__ping.ogg
+  - fileID: 0
+    classID: 83
+    packedSize: 137632
+    offset: 0
+    sourceAssetGUID: c8170013ae3edfb4c9fdabb7b10fc9ec
+    buildTimeAssetPath: Assets/Sounds/audio/B-52s/B-52s - Planet Claire 30 Sec.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 145760
+    offset: 0
+    sourceAssetGUID: d31e0ee70e6226d42ab2d008df9fe32b
+    buildTimeAssetPath: Assets/Sounds/audio/Police/Police - Synchronicity I 30 Sec.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 150304
+    offset: 0
+    sourceAssetGUID: d47590591fe2de142bf759fa9549722c
+    buildTimeAssetPath: Assets/Sounds/Manamana Ringtone.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 150112
+    offset: 0
+    sourceAssetGUID: d4bf8e76ccf6edf4d942c8d7f65908c6
+    buildTimeAssetPath: Assets/Sounds/audio/Tom Petty/Tom Petty- Free Fallin 30 Sec.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 14304
+    offset: 0
+    sourceAssetGUID: d754fb2ede5cf3441a1ad4744fadda26
+    buildTimeAssetPath: Assets/Sounds/insanity_and_fruitcake_hotel.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 275840
+    offset: 0
+    sourceAssetGUID: da3b47cc28302c84f9c2092b70612164
+    buildTimeAssetPath: Assets/Sounds/audio/Beatles/Beatles - Taxman (1966) 30 sec.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 32928
+    offset: 0
+    sourceAssetGUID: f21ca65c9b6bb674696061bef4862d56
+    buildTimeAssetPath: Assets/Sounds/eject-cassette.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 189664
+    offset: 0
+    sourceAssetGUID: f690b99535fcb604fb3dd90fd19ca848
+    buildTimeAssetPath: Assets/Sounds/audio/Kraftwerk/Kraftwerk - Computer World
+      (2009 Remaster) 30 Sec.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 1312
+    offset: 0
+    sourceAssetGUID: f77f18669a16d114fb0108952739e2a1
+    buildTimeAssetPath: Assets/Sounds/19985__abdrtar__recording-start.ogg
+  - fileID: 0
+    classID: 83
+    packedSize: 141824
+    offset: 0
+    sourceAssetGUID: f9274698195468f43910f792dd1751b2
+    buildTimeAssetPath: Assets/Sounds/audio/Rush/Rush - Tom Sawyer 30 sec.mp3
+  - fileID: 0
+    classID: 83
+    packedSize: 123392
+    offset: 0
+    sourceAssetGUID: fe589648ddf5f7846ace28fd1420114d
+    buildTimeAssetPath: Assets/Sounds/460658_ddmyzik_story_logo.ogg
+--- !u!1125 &1
+BuildReport:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LastAndroidBuild
+  m_Summary:
+    buildStartTime:
+      serializedVersion: 2
+      ticks: 638598559489341181
+    buildGUID: 00000000000000000000000000000000
+    platformName: Android
+    platformGroupName: Android
+    subtarget: 6
+    options: 0
+    assetBundleOptions: 32
+    outputPath: C:/Users/ms/AppData/Local/Temp/DefaultCompany/VRChatSitComStudio00
+    crc: 2196508114
+    totalSize: 39197606
+    totalTimeTicks: 2164738455
+    totalErrors: 0
+    totalWarnings: 4
+    buildType: 2
+    buildResult: 1
+  m_Files:
+  - path: C:/Users/ms/Dropbox/vrchat/0Projects/VRChatVirtualStudioSoundstage00/scene-android-vrcvirtualstudiosoundstage00.vrcw/BuildPlayer-VRCVirtualStudioSoundstage00
+    role: Scene
+    id: 0
+    totalSize: 25194968
+  - path: C:/Users/ms/Dropbox/vrchat/0Projects/VRChatVirtualStudioSoundstage00/scene-android-vrcvirtualstudiosoundstage00.vrcw/BuildPlayer-VRCVirtualStudioSoundstage00.sharedAssets
+    role: SharedAssets
+    id: 1
+    totalSize: 66602032
+  - path: C:/Users/ms/Dropbox/vrchat/0Projects/VRChatVirtualStudioSoundstage00/scene-android-vrcvirtualstudiosoundstage00.vrcw/BuildPlayer-VRCVirtualStudioSoundstage00.resource
+    role: StreamingResourceFile
+    id: 2
+    totalSize: 3162336
+  - path: C:/Users/ms/Dropbox/vrchat/0Projects/VRChatVirtualStudioSoundstage00/scene-android-vrcvirtualstudiosoundstage00.vrcw
+    role: AssetBundle
+    id: 3
+    totalSize: 39191074
+  - path: C:/Users/ms/Dropbox/vrchat/0Projects/VRChatVirtualStudioSoundstage00/scene-android-vrcvirtualstudiosoundstage00.vrcw.manifest
+    role: AssetBundleTextManifest
+    id: 4
+    totalSize: 5300
+  - path: C:/Users/ms/Dropbox/vrchat/0Projects/VRChatVirtualStudioSoundstage00/VRChatSitComStudio00/CAB-a1de2f7129152604001e7012bbe9cb4d
+    role: ResourcesFile
+    id: 5
+    totalSize: 4252
+  - path: C:/Users/ms/Dropbox/vrchat/0Projects/VRChatVirtualStudioSoundstage00/VRChatSitComStudio00
+    role: ManifestAssetBundle
+    id: 6
+    totalSize: 1057
+  - path: C:/Users/ms/Dropbox/vrchat/0Projects/VRChatVirtualStudioSoundstage00/VRChatSitComStudio00.manifest
+    role: AssetBundleTextManifest
+    id: 7
+    totalSize: 175
+  m_BuildSteps:
+  - stepName: Build Asset Bundles
+    durationTicks: 2164738455
+    depth: 0
+    messages: []
+  - stepName: Calculate asset bundles to be built
+    durationTicks: 694178
+    depth: 1
+    messages: []
+  - stepName: Prebuild Cleanup and Recompile
+    durationTicks: 119052172
+    depth: 1
+    messages: []
+  - stepName: Compile scripts
+    durationTicks: 114736546
+    depth: 2
+    messages: []
+  - stepName: Generate and validate platform script types
+    durationTicks: 3974463
+    depth: 2
+    messages: []
+  - stepName: Build Scene AssetBundle(s)
+    durationTicks: 1878664871
+    depth: 1
+    messages: []
+  - stepName: 'Build bundle: scene-android-vrcvirtualstudiosoundstage00.vrcw'
+    durationTicks: 1858829340
+    depth: 2
+    messages:
+    - type: 2
+      content: Game scripts or other custom code contains OnMouse_ event handlers.
+        Presence of such handlers might impact performance on handheld devices.
+  - stepName: Verify Build setup
+    durationTicks: 5552159
+    depth: 3
+    messages: []
+  - stepName: Prepare assets for target platform
+    durationTicks: 14416749
+    depth: 3
+    messages:
+    - type: 2
+      content: Warning! Using more than 1 pixel lights on a mobile device may decrease
+        performance severely. You can change the mobile quality settings in 'Project
+        Settings -> Quality Settings'.
+  - stepName: Prepare splash screen
+    durationTicks: 8099124
+    depth: 3
+    messages:
+    - type: 3
+      content: Including Unity Splash Screen logo because 'Show Unity Logo' is enabled.
+  - stepName: Building scenes
+    durationTicks: 216628070
+    depth: 3
+    messages: []
+  - stepName: Building scene Assets/Scenes/VRCVirtualStudioSoundstage00.unity
+    durationTicks: 216627690
+    depth: 4
+    messages:
+    - type: 2
+      content: '[<color=#FF00FF>UdonSharp</color>] Empty UdonBehaviour found on Quad
+        (UnityEngine.GameObject)'
+    - type: 2
+      content: '[<color=#FF00FF>UdonSharp</color>] Empty UdonBehaviour found on Quad
+        (UnityEngine.GameObject)'
+  - stepName: Writing asset files
+    durationTicks: 727844910
+    depth: 3
+    messages: []
+  - stepName: Packaging assets - archive:/BuildPlayer-VRCVirtualStudioSoundstage00/BuildPlayer-VRCVirtualStudioSoundstage00.sharedAssets
+    durationTicks: 724590098
+    depth: 4
+    messages: []
+  - stepName: Creating compressed player package
+    durationTicks: 789158845
+    depth: 3
+    messages: []
+  - stepName: Postprocess built player
+    durationTicks: 892880
+    depth: 3
+    messages:
+    - type: 3
+      content: 'Default GameObject BitMask: InternalUI already registered'
+    - type: 3
+      content: 'Default GameObject BitMask: HardwareObjects already registered'
+  m_Appendices:
+  - {fileID: -7132259548724836985}
+  - {fileID: 6827065123614604031}
+  - {fileID: -3655174715728130632}
+  - {fileID: 5260057629477551296}
+  - {fileID: 3669522920169844382}
+  - {fileID: -3705755175480115633}
+  - {fileID: 127896159980242567}
+--- !u!1126 &127896159980242567
+PackedAssets:
+  m_ShortPath: CAB-a1de2f7129152604001e7012bbe9cb4d
+  m_Overhead: 4032
+  m_Contents:
+  - fileID: 1
+    classID: 142
+    packedSize: 104
+    offset: 4032
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: AssetBundle Object
+  - fileID: 2
+    classID: 290
+    packedSize: 116
+    offset: 4136
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 'Built-in AssetBundleManifest: AssetBundleManifest'
+--- !u!641289076 &3669522920169844382
+AudioBuildInfo:
+  m_IsAudioDisabled: 0
+  m_AudioClipCount: 33
+  m_AudioMixerCount: 0
+--- !u!382020655 &5260057629477551296
+PluginBuildInfo:
+  m_RuntimePlugins:
+  - VRC.Udon.VM
+  - VRC.SDK3.Dynamics.PhysBone
+  - VRC.Udon.Security
+  - Photon3Unity3D
+  - VRCEconomy
+  - xrmanifest
+  - libvrc_image_loader
+  - YamlDotNet
+  - VRCSDK3
+  - nunit.framework
+  - VRCCore-Editor
+  - Serilog.Sinks.File
+  - VRC.SDK3.Dynamics.Contact
+  - System.Collections.Immutable
+  - VRC.Udon.Wrapper
+  - websocket-sharp
+  - Unity.Burst.Unsafe
+  - SemanticVersioning
+  - librsync.net
+  - System.Runtime.CompilerServices.Unsafe
+  - Newtonsoft.Json
+  - Unity.Collections.LowLevel.ILSupport
+  - VRC.Udon.Common
+  - VRC.Udon.VRCWrapperModules
+  - VRC.Dynamics
+  - OculusUnity
+  - VRCSDKBase
+  - VRC.Utility
+  - VRC.Udon.ClientBindings
+  - libOculusXRPlugin
+  - SDKBase-Legacy
+  - Blake2Sharp
+  - VRC.SDK3.Dynamics.Constraint
+  - System.Text.Encoding.CodePages
+  - OVRPlugin
+  - Serilog
+  - Collections.Pooled
+  - libAudioPluginOculusSpatializer
+  - AudioPluginOculusSpatializer
+  m_EditorPlugins:
+  - VRC.Udon.VRCGraphModules
+  - VRC.Udon.EditorBindings
+  - 0Harmony
+  - VRC.SDK3.Dynamics.Contact.Editor
+  - libvrc_shader_compiler_plugin
+  - Mono.Cecil.Pdb
+  - JetBrains.Rider.PathLocator
+  - vrc_shader_compiler_plugin
+  - EasyNotes
+  - VRCSDKBase-Editor
+  - OculusXRPlugin
+  - Microsoft.CodeAnalysis.CSharp
+  - vrc_image_loader
+  - VRC.Udon.VRCTypeResolverModules
+  - VRCEconomy-Editor
+  - Ionic.Zip.Unity
+  - ICSharpCode.SharpZipLib
+  - VRC.SDK3.Dynamics.Constraint.Editor
+  - AppleEventIntegration
+  - Mono.Cecil
+  - GLTFSerialization
+  - VRC.Udon.Graph
+  - SketchfabPlugin
+  - Unity.Burst.Cecil.Pdb
+  - Mono.Cecil.Rocks
+  - Microsoft.CodeAnalysis
+  - portmidi
+  - VRC.Udon.Compiler
+  - System.Reflection.Metadata
+  - VRCSDK3-Editor
+  - Mono.Cecil.Mdb
+  - Serilog.Sinks.Unity3D
+  - Unity.Burst.Cecil.Mdb
+  - VRC.SDK3.Dynamics.PhysBone.Editor
+  - Unity.Burst.Cecil
+  - Unity.Burst.Cecil.Rocks
+  - vpm-core-lib
+  - VRC.Udon.UAssembly
+--- !u!1126 &6827065123614604031
+PackedAssets:
+  m_ShortPath: BuildPlayer-VRCVirtualStudioSoundstage00.sharedAssets
+  m_Overhead: 186739
+  m_Contents:
+  - fileID: 1
+    classID: 150
+    packedSize: 133
+    offset: 188888
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 
+  - fileID: 2
+    classID: 142
+    packedSize: 180
+    offset: 189024
+    sourceAssetGUID: 00000000000000000000000000000000
+    buildTimeAssetPath: 
+  - fileID: 3
+    classID: 21
+    packedSize: 900
+    offset: 189208
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 4
+    classID: 21
+    packedSize: 900
+    offset: 190112
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 5
+    classID: 21
+    packedSize: 904
+    offset: 191016
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 6
+    classID: 21
+    packedSize: 900
+    offset: 191920
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 7
+    classID: 21
+    packedSize: 904
+    offset: 192824
+    sourceAssetGUID: d60309966d45ca3408c73d40283230f6
+    buildTimeAssetPath: Assets/FBX/rabbits-set-david-lynch.fbx
+  - fileID: 8
+    classID: 21
+    packedSize: 904
+    offset: 193728
+    sourceAssetGUID: d60309966d45ca3408c73d40283230f6
+    buildTimeAssetPath: Assets/FBX/rabbits-set-david-lynch.fbx
+  - fileID: 9
+    classID: 21
+    packedSize: 904
+    offset: 194632
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 10
+    classID: 21
+    packedSize: 904
+    offset: 195536
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 11
+    classID: 21
+    packedSize: 904
+    offset: 196440
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 12
+    classID: 21
+    packedSize: 904
+    offset: 197344
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 13
+    classID: 21
+    packedSize: 904
+    offset: 198248
+    sourceAssetGUID: d60309966d45ca3408c73d40283230f6
+    buildTimeAssetPath: Assets/FBX/rabbits-set-david-lynch.fbx
+  - fileID: 14
+    classID: 21
+    packedSize: 904
+    offset: 199152
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 15
+    classID: 21
+    packedSize: 912
+    offset: 200056
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 16
+    classID: 21
+    packedSize: 900
+    offset: 200968
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 17
+    classID: 21
+    packedSize: 904
+    offset: 201872
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 18
+    classID: 21
+    packedSize: 908
+    offset: 202776
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 19
+    classID: 21
+    packedSize: 904
+    offset: 203688
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 20
+    classID: 21
+    packedSize: 1080
+    offset: 204592
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 21
+    classID: 21
+    packedSize: 304
+    offset: 205672
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 22
+    classID: 21
+    packedSize: 920
+    offset: 205976
+    sourceAssetGUID: 9ead486b2f11799428d6bdacf0e5aae2
+    buildTimeAssetPath: Assets/Blender/Materials/basement-Material.001.mat
+  - fileID: 23
+    classID: 21
+    packedSize: 916
+    offset: 206896
+    sourceAssetGUID: 3beaa03482ea66e49a0307276ee6c3a7
+    buildTimeAssetPath: Assets/Blender/Materials/basement-Material.mat
+  - fileID: 24
+    classID: 21
+    packedSize: 912
+    offset: 207816
+    sourceAssetGUID: 00fc5c601e4f15e4f992d8936d126603
+    buildTimeAssetPath: Assets/Blender/Materials/basement-arcade1.mat
+  - fileID: 25
+    classID: 21
+    packedSize: 912
+    offset: 208728
+    sourceAssetGUID: bf16abb6a0524624db05352de5d2ae56
+    buildTimeAssetPath: Assets/Blender/Materials/basement-arcade2.mat
+  - fileID: 26
+    classID: 21
+    packedSize: 912
+    offset: 209640
+    sourceAssetGUID: 604d1e497396bd44383c171ed519b7df
+    buildTimeAssetPath: Assets/Blender/Materials/basement-arm.001.mat
+  - fileID: 27
+    classID: 21
+    packedSize: 912
+    offset: 210552
+    sourceAssetGUID: f9c5e462a6f8f6147ae0e97db716ac9d
+    buildTimeAssetPath: Assets/Blender/Materials/basement-barrel.mat
+  - fileID: 28
+    classID: 21
+    packedSize: 908
+    offset: 211464
+    sourceAssetGUID: 46d572ba6151f6b4b8b28bb47d612bb7
+    buildTimeAssetPath: Assets/Blender/Materials/basement-bed.mat
+  - fileID: 29
+    classID: 21
+    packedSize: 920
+    offset: 212376
+    sourceAssetGUID: 2444bf0d1de9fec42afafa0c9dc30b6d
+    buildTimeAssetPath: Assets/Blender/Materials/basement-big_waterpipe.mat
+  - fileID: 30
+    classID: 21
+    packedSize: 916
+    offset: 213296
+    sourceAssetGUID: 747cd13724afceb4d91899bd64b008b7
+    buildTimeAssetPath: Assets/Blender/Materials/basement-body.001.mat
+  - fileID: 31
+    classID: 21
+    packedSize: 916
+    offset: 214216
+    sourceAssetGUID: bd31df4a7e12c4f44afb278dbf681d7e
+    buildTimeAssetPath: Assets/Blender/Materials/basement-can_graber.mat
+  - fileID: 32
+    classID: 21
+    packedSize: 916
+    offset: 215136
+    sourceAssetGUID: 98a8e70ce5fd9144fafa33ecffcaedfd
+    buildTimeAssetPath: Assets/Blender/Materials/basement-cartonbox.mat
+  - fileID: 33
+    classID: 21
+    packedSize: 916
+    offset: 216056
+    sourceAssetGUID: 7032d72465e1d6245be631dda51430f9
+    buildTimeAssetPath: Assets/Blender/Materials/basement-copper_wire.mat
+  - fileID: 34
+    classID: 21
+    packedSize: 920
+    offset: 216976
+    sourceAssetGUID: 5f9289ca973d69142af85d42a35eef31
+    buildTimeAssetPath: Assets/Blender/Materials/basement-door corners.mat
+  - fileID: 35
+    classID: 21
+    packedSize: 912
+    offset: 217896
+    sourceAssetGUID: 6bf02828930ac17448ddad54b77d3790
+    buildTimeAssetPath: Assets/Blender/Materials/basement-door.mat
+  - fileID: 36
+    classID: 21
+    packedSize: 920
+    offset: 218808
+    sourceAssetGUID: 687b4422709797147b030d504c76814b
+    buildTimeAssetPath: Assets/Blender/Materials/basement-food_can.001.mat
+  - fileID: 37
+    classID: 21
+    packedSize: 920
+    offset: 219728
+    sourceAssetGUID: 28d7e8afb7ab06c43971c1091deb93b7
+    buildTimeAssetPath: Assets/Blender/Materials/basement-food_can.002.mat
+  - fileID: 38
+    classID: 21
+    packedSize: 920
+    offset: 220648
+    sourceAssetGUID: b2fcbba02d4d7a14aa22c30544151fe5
+    buildTimeAssetPath: Assets/Blender/Materials/basement-food_can.003.mat
+  - fileID: 39
+    classID: 21
+    packedSize: 916
+    offset: 221568
+    sourceAssetGUID: de32fd8cd33ef1e4b99665d2d29896c3
+    buildTimeAssetPath: Assets/Blender/Materials/basement-food_can.mat
+  - fileID: 40
+    classID: 21
+    packedSize: 916
+    offset: 222488
+    sourceAssetGUID: 3eacf8c828a3ce14db77e04bd281ceca
+    buildTimeAssetPath: Assets/Blender/Materials/basement-foots.001.mat
+  - fileID: 41
+    classID: 21
+    packedSize: 916
+    offset: 223408
+    sourceAssetGUID: 637baff15a2b083489cc18b82f2ae118
+    buildTimeAssetPath: Assets/Blender/Materials/basement-gloves.001.mat
+  - fileID: 42
+    classID: 21
+    packedSize: 912
+    offset: 224328
+    sourceAssetGUID: 974a0a00c91027f4cb662baef36a804e
+    buildTimeAssetPath: Assets/Blender/Materials/basement-ground.mat
+  - fileID: 43
+    classID: 21
+    packedSize: 916
+    offset: 225240
+    sourceAssetGUID: 0eaa16417a2503d4aa6d1b41e4fd2e83
+    buildTimeAssetPath: Assets/Blender/Materials/basement-head.001.mat
+  - fileID: 44
+    classID: 21
+    packedSize: 916
+    offset: 226160
+    sourceAssetGUID: 8a46a4130ade77942b92efee06603e6b
+    buildTimeAssetPath: Assets/Blender/Materials/basement-hood.001.mat
+  - fileID: 45
+    classID: 21
+    packedSize: 916
+    offset: 227080
+    sourceAssetGUID: f9ca7651c0d53994ba66241264b694eb
+    buildTimeAssetPath: Assets/Blender/Materials/basement-legs.001.mat
+  - fileID: 46
+    classID: 21
+    packedSize: 916
+    offset: 228000
+    sourceAssetGUID: 5bb1d5863281beb42807eecf2a19ccc8
+    buildTimeAssetPath: Assets/Blender/Materials/basement-light.001.mat
+  - fileID: 47
+    classID: 21
+    packedSize: 912
+    offset: 228920
+    sourceAssetGUID: 7b7974330a0d13249bc6061dee627374
+    buildTimeAssetPath: Assets/Blender/Materials/basement-light.mat
+  - fileID: 48
+    classID: 21
+    packedSize: 920
+    offset: 229832
+    sourceAssetGUID: 5ce92fd0e4670c444889af1ec47f56d0
+    buildTimeAssetPath: Assets/Blender/Materials/basement-lil room wall.mat
+  - fileID: 49
+    classID: 21
+    packedSize: 920
+    offset: 230752
+    sourceAssetGUID: abe225284aa170f4faf29b5fed7f1460
+    buildTimeAssetPath: Assets/Blender/Materials/basement-machine_back.mat
+  - fileID: 50
+    classID: 21
+    packedSize: 920
+    offset: 231672
+    sourceAssetGUID: ded6cce3e5a90d047b1e0631d09404ba
+    buildTimeAssetPath: Assets/Blender/Materials/basement-machine_front.mat
+  - fileID: 51
+    classID: 21
+    packedSize: 916
+    offset: 232592
+    sourceAssetGUID: 2e14798202412c344a2c6acdf6e7a8e4
+    buildTimeAssetPath: Assets/Blender/Materials/basement-machine_up.mat
+  - fileID: 52
+    classID: 21
+    packedSize: 924
+    offset: 233512
+    sourceAssetGUID: 2c49e6d592a530b408595765ce7dcd31
+    buildTimeAssetPath: Assets/Blender/Materials/basement-metal_stairs handle.mat
+  - fileID: 53
+    classID: 21
+    packedSize: 912
+    offset: 234440
+    sourceAssetGUID: 24d65ef8b946eaa4e83e34607d75c103
+    buildTimeAssetPath: Assets/Blender/Materials/basement-oiltank.mat
+  - fileID: 54
+    classID: 21
+    packedSize: 916
+    offset: 235352
+    sourceAssetGUID: bd691cf791fb172448337f43e194fc4d
+    buildTimeAssetPath: Assets/Blender/Materials/basement-paintcan.mat
+  - fileID: 55
+    classID: 21
+    packedSize: 916
+    offset: 236272
+    sourceAssetGUID: 7836a16a77e4fe749843d4121816567b
+    buildTimeAssetPath: Assets/Blender/Materials/basement-plastic.001.mat
+  - fileID: 56
+    classID: 21
+    packedSize: 912
+    offset: 237192
+    sourceAssetGUID: df177c281df75274197f494ba05499e3
+    buildTimeAssetPath: Assets/Blender/Materials/basement-plastic.mat
+  - fileID: 57
+    classID: 21
+    packedSize: 916
+    offset: 238104
+    sourceAssetGUID: 4d3ed57e950569b4e956096adf1a3c3d
+    buildTimeAssetPath: Assets/Blender/Materials/basement-rusty can.mat
+  - fileID: 58
+    classID: 21
+    packedSize: 912
+    offset: 239024
+    sourceAssetGUID: 71cf6f79fe7df97449e9aabfd63609ec
+    buildTimeAssetPath: Assets/Blender/Materials/basement-screen.mat
+  - fileID: 59
+    classID: 21
+    packedSize: 916
+    offset: 239936
+    sourceAssetGUID: 280d35ae8df81cc47bbb9e46d03275fa
+    buildTimeAssetPath: Assets/Blender/Materials/basement-shelf_metal.mat
+  - fileID: 60
+    classID: 21
+    packedSize: 924
+    offset: 240856
+    sourceAssetGUID: 82fee0d71bdd973488daae5e1a4b32e4
+    buildTimeAssetPath: Assets/Blender/Materials/basement-skinlessmaterial.mat
+  - fileID: 61
+    classID: 21
+    packedSize: 912
+    offset: 241784
+    sourceAssetGUID: ab47ff6aff9b4ab43a19b0fbb12c30c0
+    buildTimeAssetPath: Assets/Blender/Materials/basement-spade.mat
+  - fileID: 62
+    classID: 21
+    packedSize: 912
+    offset: 242696
+    sourceAssetGUID: ad700db7a6c4a664f89324302d60b0c1
+    buildTimeAssetPath: Assets/Blender/Materials/basement-sprayer.mat
+  - fileID: 63
+    classID: 21
+    packedSize: 912
+    offset: 243608
+    sourceAssetGUID: a71e1c07ead815a4a894624c1d04a1c8
+    buildTimeAssetPath: Assets/Blender/Materials/basement-v_pipe.mat
+  - fileID: 64
+    classID: 21
+    packedSize: 912
+    offset: 244520
+    sourceAssetGUID: 8c8bf1a9d5f812c4bae287e7a24d7212
+    buildTimeAssetPath: Assets/Blender/Materials/basement-vaccum.mat
+  - fileID: 65
+    classID: 21
+    packedSize: 920
+    offset: 245432
+    sourceAssetGUID: 4ff3005234718fa49bf54721ee3a17ce
+    buildTimeAssetPath: Assets/Blender/Materials/basement-vaccum_sucker.mat
+  - fileID: 66
+    classID: 21
+    packedSize: 912
+    offset: 246352
+    sourceAssetGUID: be20a2041995ec24fbe145256399a0cc
+    buildTimeAssetPath: Assets/Blender/Materials/basement-walls.mat
+  - fileID: 67
+    classID: 21
+    packedSize: 916
+    offset: 247264
+    sourceAssetGUID: 2699358c61f02ee4ca14206db05083ca
+    buildTimeAssetPath: Assets/Blender/Materials/basement-water_pipe.mat
+  - fileID: 68
+    classID: 21
+    packedSize: 916
+    offset: 248184
+    sourceAssetGUID: bad1af819c666d24e9b3b8d6a4abafeb
+    buildTimeAssetPath: Assets/Blender/Materials/basement-wood_box.mat
+  - fileID: 69
+    classID: 21
+    packedSize: 916
+    offset: 249104
+    sourceAssetGUID: fe17954f29b41ce4089b1ed88f72e791
+    buildTimeAssetPath: Assets/Blender/Materials/basement-wood_planks.mat
+  - fileID: 70
+    classID: 21
+    packedSize: 916
+    offset: 250024
+    sourceAssetGUID: 452bb3a89aaeb724a853d3f94b8d06fe
+    buildTimeAssetPath: Assets/Blender/Materials/basement-wood_rouf.mat
+  - fileID: 71
+    classID: 21
+    packedSize: 1052
+    offset: 250944
+    sourceAssetGUID: debc07b2b50a93d4ea6e34258b1e04e7
+    buildTimeAssetPath: Assets/FBX/Materials/aiStandardSurface11.mat
+  - fileID: 72
+    classID: 21
+    packedSize: 1052
+    offset: 252000
+    sourceAssetGUID: 5a09b4bf54710494088a9601cd20afd9
+    buildTimeAssetPath: Assets/FBX/Materials/aiStandardSurface52.mat
+  - fileID: 73
+    classID: 21
+    packedSize: 1048
+    offset: 253056
+    sourceAssetGUID: 8ee63ecf67f013547b1cdae881058283
+    buildTimeAssetPath: Assets/FBX/Materials/bajo_escalera.mat
+  - fileID: 74
+    classID: 21
+    packedSize: 1040
+    offset: 254104
+    sourceAssetGUID: fbc5cf1cf197c7f44a6c748385f8f065
+    buildTimeAssetPath: Assets/FBX/Materials/barril1.mat
+  - fileID: 75
+    classID: 21
+    packedSize: 1048
+    offset: 255144
+    sourceAssetGUID: 37e3bde512025884bbde6d64984ba37d
+    buildTimeAssetPath: Assets/FBX/Materials/biga_escalera1.mat
+  - fileID: 76
+    classID: 21
+    packedSize: 1040
+    offset: 256192
+    sourceAssetGUID: 6864c86343fe68f489f85305a659de26
+    buildTimeAssetPath: Assets/FBX/Materials/botell3.mat
+  - fileID: 77
+    classID: 21
+    packedSize: 1040
+    offset: 257232
+    sourceAssetGUID: 67887b8f02167b840b60a2c8e9b47781
+    buildTimeAssetPath: Assets/FBX/Materials/botella3.mat
+  - fileID: 78
+    classID: 21
+    packedSize: 1040
+    offset: 258272
+    sourceAssetGUID: cac25f7abed46b645b6004880fe4dd0e
+    buildTimeAssetPath: Assets/FBX/Materials/botella4.mat
+  - fileID: 79
+    classID: 21
+    packedSize: 1048
+    offset: 259312
+    sourceAssetGUID: 45ce52865f9a0e348899b14520ed760d
+    buildTimeAssetPath: Assets/FBX/Materials/botella_vino1.mat
+  - fileID: 80
+    classID: 21
+    packedSize: 1048
+    offset: 260360
+    sourceAssetGUID: ba6ad0a33a6257340bccecf4609f672b
+    buildTimeAssetPath: Assets/FBX/Materials/caja_carton_1 1.mat
+  - fileID: 81
+    classID: 21
+    packedSize: 960
+    offset: 261408
+    sourceAssetGUID: 1e04a94940bd15544a088b9208eb124c
+    buildTimeAssetPath: Assets/FBX/Materials/caja_carton_1.mat
+  - fileID: 82
+    classID: 21
+    packedSize: 1052
+    offset: 262368
+    sourceAssetGUID: 6b44ae1e2b13bc34bad3e92b3dbbb2c8
+    buildTimeAssetPath: Assets/FBX/Materials/caja_de_carton2 1.mat
+  - fileID: 83
+    classID: 21
+    packedSize: 960
+    offset: 263424
+    sourceAssetGUID: 9633cfaffaa3e204d8993aab07ebd1f4
+    buildTimeAssetPath: Assets/FBX/Materials/caja_de_carton2.mat
+  - fileID: 84
+    classID: 21
+    packedSize: 1052
+    offset: 264384
+    sourceAssetGUID: 4307b076fbe9cf341bd9f85564d983b3
+    buildTimeAssetPath: Assets/FBX/Materials/caja_de_herramintas.mat
+  - fileID: 85
+    classID: 21
+    packedSize: 1048
+    offset: 265440
+    sourceAssetGUID: 4dda114ef94adf047a10eb0983b1b4fa
+    buildTimeAssetPath: Assets/FBX/Materials/caja_de_madera.mat
+  - fileID: 86
+    classID: 21
+    packedSize: 1044
+    offset: 266488
+    sourceAssetGUID: e13369072b5d72743bf53059f6197b3e
+    buildTimeAssetPath: Assets/FBX/Materials/calentador1.mat
+  - fileID: 87
+    classID: 21
+    packedSize: 1040
+    offset: 267536
+    sourceAssetGUID: b5923ebec0b91c34c9e7e0dee27e2442
+    buildTimeAssetPath: Assets/FBX/Materials/closet1.mat
+  - fileID: 88
+    classID: 21
+    packedSize: 1048
+    offset: 268576
+    sourceAssetGUID: e25733af12dbaa948b3c9b17d1919cad
+    buildTimeAssetPath: Assets/FBX/Materials/columna_techo.mat
+  - fileID: 89
+    classID: 21
+    packedSize: 1076
+    offset: 269624
+    sourceAssetGUID: b4a0fe12f5137f345bd6e0f5427aa57d
+    buildTimeAssetPath: Assets/FBX/Materials/contador_electrico.mat
+  - fileID: 90
+    classID: 21
+    packedSize: 1044
+    offset: 270704
+    sourceAssetGUID: e4e19eaaad9cad647be7e7ae0cda3022
+    buildTimeAssetPath: Assets/FBX/Materials/cuadro_pez1.mat
+  - fileID: 91
+    classID: 21
+    packedSize: 1052
+    offset: 271752
+    sourceAssetGUID: b993ddfb6f3d1134eaac755dd834b865
+    buildTimeAssetPath: Assets/FBX/Materials/cuadro_villadiego1.mat
+  - fileID: 92
+    classID: 21
+    packedSize: 1056
+    offset: 272808
+    sourceAssetGUID: 7ca87b3ff5a891c42a32d862e2fe6b6a
+    buildTimeAssetPath: Assets/FBX/Materials/escalera_de_mano_metal.mat
+  - fileID: 93
+    classID: 21
+    packedSize: 1040
+    offset: 273864
+    sourceAssetGUID: 6668382fd9f9bad41a8b266b7b7b5e76
+    buildTimeAssetPath: Assets/FBX/Materials/escalon.mat
+  - fileID: 94
+    classID: 21
+    packedSize: 1044
+    offset: 274904
+    sourceAssetGUID: a1e9e443d1eac15498acabcef643001d
+    buildTimeAssetPath: Assets/FBX/Materials/extintor1.mat
+  - fileID: 95
+    classID: 21
+    packedSize: 1040
+    offset: 275952
+    sourceAssetGUID: 6f973c9796f93f14aa7b030574e5be85
+    buildTimeAssetPath: Assets/FBX/Materials/frasco.mat
+  - fileID: 96
+    classID: 21
+    packedSize: 1040
+    offset: 276992
+    sourceAssetGUID: 80e92cd61d316f14382db096c0537940
+    buildTimeAssetPath: Assets/FBX/Materials/frasco_2.mat
+  - fileID: 97
+    classID: 21
+    packedSize: 1040
+    offset: 278032
+    sourceAssetGUID: 9fd59393a7acd7c44ba20c09812c9aa8
+    buildTimeAssetPath: Assets/FBX/Materials/galon1.mat
+  - fileID: 98
+    classID: 21
+    packedSize: 1040
+    offset: 279072
+    sourceAssetGUID: fcc2174bc585dc744afbe638e5024b84
+    buildTimeAssetPath: Assets/FBX/Materials/hacha1.mat
+  - fileID: 99
+    classID: 21
+    packedSize: 908
+    offset: 280112
+    sourceAssetGUID: ab4d21ecab2906c4abd425a3c07ad068
+    buildTimeAssetPath: Assets/FBX/Materials/lambert1 1.mat
+  - fileID: 100
+    classID: 21
+    packedSize: 1040
+    offset: 281024
+    sourceAssetGUID: 5d19b2d6c231bab4da86e43f95f2709a
+    buildTimeAssetPath: Assets/FBX/Materials/lampara.mat
+  - fileID: 101
+    classID: 21
+    packedSize: 1052
+    offset: 282064
+    sourceAssetGUID: 488780e8d9429404089098b750c806f5
+    buildTimeAssetPath: Assets/FBX/Materials/linea_tapa_piano1.mat
+  - fileID: 102
+    classID: 21
+    packedSize: 1052
+    offset: 283120
+    sourceAssetGUID: ca2b9c7caf2a5f94fbb089dc4dc2ee88
+    buildTimeAssetPath: Assets/FBX/Materials/linea_tecla_piano2.mat
+  - fileID: 103
+    classID: 21
+    packedSize: 1048
+    offset: 284176
+    sourceAssetGUID: 8415caa6a2c49054b8225ec6bba2b844
+    buildTimeAssetPath: Assets/FBX/Materials/liston_tecla 1.mat
+  - fileID: 104
+    classID: 21
+    packedSize: 1044
+    offset: 285224
+    sourceAssetGUID: fa6d615cceaf55f488f0f13234585c45
+    buildTimeAssetPath: Assets/FBX/Materials/liston_tecla.mat
+  - fileID: 105
+    classID: 21
+    packedSize: 916
+    offset: 286272
+    sourceAssetGUID: a566c91b303c86042a4431ffedac89a0
+    buildTimeAssetPath: Assets/FBX/Materials/llanta_tyre_lambert2.mat
+  - fileID: 106
+    classID: 21
+    packedSize: 1056
+    offset: 287192
+    sourceAssetGUID: 47dd52d6e21e1f04489f0ad9a59c969c
+    buildTimeAssetPath: Assets/FBX/Materials/llanta_tyre_rimchrome.mat
+  - fileID: 107
+    classID: 21
+    packedSize: 1052
+    offset: 288248
+    sourceAssetGUID: bb9de023d9e17694f9348e6cc63704e1
+    buildTimeAssetPath: Assets/FBX/Materials/llanta_tyre_rimscrew.mat
+  - fileID: 108
+    classID: 21
+    packedSize: 1052
+    offset: 289304
+    sourceAssetGUID: dde136bcdebaf0148a26244fcfcaefea
+    buildTimeAssetPath: Assets/FBX/Materials/llanta_tyre_tyres.mat
+  - fileID: 109
+    classID: 21
+    packedSize: 1052
+    offset: 290360
+    sourceAssetGUID: ccc46729b92ef6049a86838478fafb63
+    buildTimeAssetPath: Assets/FBX/Materials/madera_techo_horiz.mat
+  - fileID: 110
+    classID: 21
+    packedSize: 1052
+    offset: 291416
+    sourceAssetGUID: e336f02598dfa4947b5c9ebd37aae175
+    buildTimeAssetPath: Assets/FBX/Materials/madera_techo_vert.mat
+  - fileID: 111
+    classID: 21
+    packedSize: 1048
+    offset: 292472
+    sourceAssetGUID: 1cdedb9dbc9fac84f954d22e40eb8bfc
+    buildTimeAssetPath: Assets/FBX/Materials/paral_andamio 1.mat
+  - fileID: 112
+    classID: 21
+    packedSize: 908
+    offset: 293520
+    sourceAssetGUID: a8244e84a08283d49a7e8c0fdefebdf5
+    buildTimeAssetPath: Assets/FBX/Materials/pared_fuera.mat
+  - fileID: 113
+    classID: 21
+    packedSize: 1056
+    offset: 294432
+    sourceAssetGUID: ff6b9d90b32b1314fa36035b25ae806d
+    buildTimeAssetPath: Assets/FBX/Materials/pasamano_escalera_arriba.mat
+  - fileID: 114
+    classID: 21
+    packedSize: 1056
+    offset: 295488
+    sourceAssetGUID: 1d15a7109e91789459274c33434dc880
+    buildTimeAssetPath: Assets/FBX/Materials/pasamano_escalera_bajo.mat
+  - fileID: 115
+    classID: 21
+    packedSize: 1052
+    offset: 296544
+    sourceAssetGUID: 414e355994c828543979cf84b1a3c9fb
+    buildTimeAssetPath: Assets/FBX/Materials/piano_nuevo_lambert3.mat
+  - fileID: 116
+    classID: 21
+    packedSize: 960
+    offset: 297600
+    sourceAssetGUID: b35de2dae46e1c948b53b5f3dcb80e3e
+    buildTimeAssetPath: Assets/FBX/Materials/plancon_andamio.mat
+  - fileID: 117
+    classID: 21
+    packedSize: 964
+    offset: 298560
+    sourceAssetGUID: e3c3a5b9d2022754dbf14f443e4c54d8
+    buildTimeAssetPath: Assets/FBX/Materials/soporte_escalera1.mat
+  - fileID: 118
+    classID: 21
+    packedSize: 956
+    offset: 299528
+    sourceAssetGUID: 0a8f66527a6920045a38ce29056f3d71
+    buildTimeAssetPath: Assets/FBX/Materials/tecla_negra1.mat
+  - fileID: 119
+    classID: 21
+    packedSize: 960
+    offset: 300488
+    sourceAssetGUID: d655bc29671e39a46bad56a306e85c9c
+    buildTimeAssetPath: Assets/FBX/Materials/teclas_blancas1.mat
+  - fileID: 120
+    classID: 21
+    packedSize: 1048
+    offset: 301448
+    sourceAssetGUID: 42a34b8d129a6584a98be6569b3e9129
+    buildTimeAssetPath: Assets/FBX/Materials/valde_amarillo1.mat
+  - fileID: 121
+    classID: 21
+    packedSize: 1044
+    offset: 302496
+    sourceAssetGUID: d277001ce6631c845aedfdee2497eceb
+    buildTimeAssetPath: Assets/FBX/Materials/valde_azul1.mat
+  - fileID: 122
+    classID: 21
+    packedSize: 1044
+    offset: 303544
+    sourceAssetGUID: dc4c5f1e372919d469cf7b9e49d9e100
+    buildTimeAssetPath: Assets/FBX/Materials/valde_grande.mat
+  - fileID: 123
+    classID: 21
+    packedSize: 1048
+    offset: 304592
+    sourceAssetGUID: 6093c7fab75e3be48a34ecea9ef3b26a
+    buildTimeAssetPath: Assets/FBX/Materials/valde_pequeno.mat
+  - fileID: 124
+    classID: 21
+    packedSize: 908
+    offset: 305640
+    sourceAssetGUID: 62005f2759b6dc042a8c92ee168b9288
+    buildTimeAssetPath: Assets/FBX/Materials/valde_rojo.mat
+  - fileID: 125
+    classID: 21
+    packedSize: 1044
+    offset: 306552
+    sourceAssetGUID: 66c3c791dddaef14da8fe932ec53d2e1
+    buildTimeAssetPath: Assets/FBX/Materials/valde_rojo1.mat
+  - fileID: 126
+    classID: 21
+    packedSize: 904
+    offset: 307600
+    sourceAssetGUID: c7cb933a2ff83bc44b8e8044cf635a46
+    buildTimeAssetPath: Assets/FBX/basement0Exported/walls.mat
+  - fileID: 127
+    classID: 21
+    packedSize: 1048
+    offset: 308504
+    sourceAssetGUID: 7aa215afc9a70084f9d811adc5671161
+    buildTimeAssetPath: Assets/Import/Switches_And_Plugs/materials/Plug_Colour_1_0.mat
+  - fileID: 128
+    classID: 21
+    packedSize: 1048
+    offset: 309552
+    sourceAssetGUID: 77e495a44e5f82b41a9524abc0f10fbb
+    buildTimeAssetPath: Assets/Import/Switches_And_Plugs/materials/Plug_Colour_2_2.mat
+  - fileID: 129
+    classID: 21
+    packedSize: 1580
+    offset: 310600
+    sourceAssetGUID: 626fae2d54cc8134db6a416b8add54a3
+    buildTimeAssetPath: Assets/Import/materials/Scene_-_Root_0.mat
+  - fileID: 130
+    classID: 21
+    packedSize: 1468
+    offset: 312184
+    sourceAssetGUID: a8048158457294e4b8b3145c3e024780
+    buildTimeAssetPath: Assets/Import/materials/belt_m_3.mat
+  - fileID: 131
+    classID: 21
+    packedSize: 1472
+    offset: 313656
+    sourceAssetGUID: fbc114a15d1ca65418bd2441ec039b44
+    buildTimeAssetPath: Assets/Import/materials/boots_m_2.mat
+  - fileID: 132
+    classID: 21
+    packedSize: 1476
+    offset: 315128
+    sourceAssetGUID: e40d042599ae84740919eda3aa9cbe82
+    buildTimeAssetPath: Assets/Import/materials/coat_m_0_altered.mat
+  - fileID: 133
+    classID: 21
+    packedSize: 1472
+    offset: 316608
+    sourceAssetGUID: 6c681adcb8034cb47a588a45d235e3b0
+    buildTimeAssetPath: Assets/Import/materials/pants_m_1.mat
+  - fileID: 134
+    classID: 21
+    packedSize: 1468
+    offset: 318080
+    sourceAssetGUID: 9ec8267cc3d986d4c8e846b605a9dd31
+    buildTimeAssetPath: Assets/Import/materials/skin_m_4.mat
+  - fileID: 135
+    classID: 21
+    packedSize: 972
+    offset: 319552
+    sourceAssetGUID: cdcb281e20385fb4f9f33394b042c2fd
+    buildTimeAssetPath: Assets/Materials/ArrowDirectionGreen.mat
+  - fileID: 136
+    classID: 21
+    packedSize: 1108
+    offset: 320528
+    sourceAssetGUID: c4c32d878c147b544a2f2656e2b84387
+    buildTimeAssetPath: Assets/Materials/Art & Album Covers/BlankAlbumMaterial.mat
+  - fileID: 137
+    classID: 21
+    packedSize: 900
+    offset: 321640
+    sourceAssetGUID: d2f9fe139f6ff924193ef8bed7443f79
+    buildTimeAssetPath: Assets/Materials/Back.mat
+  - fileID: 138
+    classID: 21
+    packedSize: 908
+    offset: 322544
+    sourceAssetGUID: 47a2feae464b6f04a8dffaf1e82920d9
+    buildTimeAssetPath: Assets/Materials/BasementPrefabPIano/bar1_Samwise.mat
+  - fileID: 139
+    classID: 21
+    packedSize: 1056
+    offset: 323456
+    sourceAssetGUID: a3eb024aadcba6643a27310c1ac7112e
+    buildTimeAssetPath: Assets/Materials/BasementPrefabPIano/cojin_silla_Samwise
+      1.mat
+  - fileID: 140
+    classID: 21
+    packedSize: 964
+    offset: 324512
+    sourceAssetGUID: cd3c97938566c4f4a9966484e4748f06
+    buildTimeAssetPath: Assets/Materials/BasementPrefabPIano/cojin_silla_Samwise.mat
+  - fileID: 141
+    classID: 21
+    packedSize: 1056
+    offset: 325480
+    sourceAssetGUID: 3b7c8aca5abaf5b4687c25c99557fe5f
+    buildTimeAssetPath: Assets/Materials/BasementPrefabPIano/pata_piano3_Samwise
+      1.mat
+  - fileID: 142
+    classID: 21
+    packedSize: 944
+    offset: 326536
+    sourceAssetGUID: 23a8ddcb22fc93d42b7ede4d4dbd54fa
+    buildTimeAssetPath: Assets/Materials/BasementPrefabPIano/piano1_Samwise 1.mat
+  - fileID: 143
+    classID: 21
+    packedSize: 1048
+    offset: 327480
+    sourceAssetGUID: 665ccb6c52b366b448ce1c29d29587c7
+    buildTimeAssetPath: Assets/Materials/BasementPrefabPIano/silla1_Samwise 1.mat
+  - fileID: 144
+    classID: 21
+    packedSize: 696
+    offset: 328528
+    sourceAssetGUID: 361d0d8b1578ae84892e57f1c3fd044b
+    buildTimeAssetPath: Assets/Materials/BasicButton.mat
+  - fileID: 145
+    classID: 21
+    packedSize: 1404
+    offset: 329224
+    sourceAssetGUID: 532160fad7dbea841bcc1ef32ef6813f
+    buildTimeAssetPath: Assets/Materials/BlueTransparentE.mat
+  - fileID: 146
+    classID: 21
+    packedSize: 1064
+    offset: 330632
+    sourceAssetGUID: f7ade3aa472e02c49ac7865fa5d0938b
+    buildTimeAssetPath: Assets/Materials/BrickWall_Red.mat
+  - fileID: 147
+    classID: 21
+    packedSize: 5436
+    offset: 331696
+    sourceAssetGUID: 98489e4bb0062464eb11b54237aeee59
+    buildTimeAssetPath: Assets/Materials/Bulb light Green.mat
+  - fileID: 148
+    classID: 21
+    packedSize: 5436
+    offset: 337136
+    sourceAssetGUID: cbdf860f8ba78234bb65e397f287d64e
+    buildTimeAssetPath: Assets/Materials/Bulb light Red.mat
+  - fileID: 149
+    classID: 21
+    packedSize: 924
+    offset: 342576
+    sourceAssetGUID: 73b459c128ed9d8428124845e6547589
+    buildTimeAssetPath: Assets/Materials/Default-Materia White-STD.mat
+  - fileID: 150
+    classID: 21
+    packedSize: 968
+    offset: 343504
+    sourceAssetGUID: 14b7451f0d286f842a0a632a38752efb
+    buildTimeAssetPath: Assets/Materials/Default-Materia_Emissive Red-STD.mat
+  - fileID: 151
+    classID: 21
+    packedSize: 1092
+    offset: 344472
+    sourceAssetGUID: f6ad226b346bde341aa1d5cc47ab9d86
+    buildTimeAssetPath: Assets/Materials/Default-Materia_NonEmissiveRed-STD.mat
+  - fileID: 152
+    classID: 21
+    packedSize: 916
+    offset: 345568
+    sourceAssetGUID: df79b94b04b2d1f4ab73518c5ac517af
+    buildTimeAssetPath: Assets/Materials/Default-Material-STD.mat
+  - fileID: 153
+    classID: 21
+    packedSize: 540
+    offset: 346488
+    sourceAssetGUID: 14532bba8ff693640af0dba3a70be115
+    buildTimeAssetPath: Assets/Materials/FireMaterial.mat
+  - fileID: 154
+    classID: 21
+    packedSize: 932
+    offset: 347032
+    sourceAssetGUID: 0a2e981ac3d35064ebe3bc6af1e5c7ac
+    buildTimeAssetPath: Assets/Materials/GreenGripMaterial.mat
+  - fileID: 155
+    classID: 21
+    packedSize: 1096
+    offset: 347968
+    sourceAssetGUID: 0e85b774f51d9e94f9ead11c0d02840e
+    buildTimeAssetPath: Assets/Materials/GreenTeleportEmissive.mat
+  - fileID: 156
+    classID: 21
+    packedSize: 952
+    offset: 349064
+    sourceAssetGUID: 91feeafc247cda743bd1880fa9b16fc9
+    buildTimeAssetPath: Assets/Materials/GreenUnLit.mat
+  - fileID: 157
+    classID: 21
+    packedSize: 956
+    offset: 350016
+    sourceAssetGUID: 81b3358de1f369949b1d8be095ee3f8c
+    buildTimeAssetPath: Assets/Materials/GreenUnLitLow.mat
+  - fileID: 158
+    classID: 21
+    packedSize: 1104
+    offset: 350976
+    sourceAssetGUID: 75b61dedc08e2534bb1eb9d50e6b2165
+    buildTimeAssetPath: Assets/Materials/Material.001_0_Samwise.mat
+  - fileID: 159
+    classID: 21
+    packedSize: 1108
+    offset: 352080
+    sourceAssetGUID: 483d3f71fadfe1840bd543fbef0bb2e1
+    buildTimeAssetPath: Assets/Materials/Material.002_1_Samwise Emissive Red.mat
+  - fileID: 160
+    classID: 21
+    packedSize: 1104
+    offset: 353192
+    sourceAssetGUID: 187ce164149f8fc47a5e437e41628aac
+    buildTimeAssetPath: Assets/Materials/Material.002_1_Samwise Emissive.mat
+  - fileID: 161
+    classID: 21
+    packedSize: 1092
+    offset: 354296
+    sourceAssetGUID: b1b99a39a512603459043d37ea66eb18
+    buildTimeAssetPath: Assets/Materials/Material.002_1_Samwise NonEmissive.mat
+  - fileID: 162
+    classID: 21
+    packedSize: 912
+    offset: 355392
+    sourceAssetGUID: 0fd3042462c54bb479a42ec3fa5d8f55
+    buildTimeAssetPath: Assets/Materials/Microphone-Radio.mat
+  - fileID: 163
+    classID: 21
+    packedSize: 972
+    offset: 356304
+    sourceAssetGUID: 511f09ccd6dea88419f5df089b105e42
+    buildTimeAssetPath: Assets/Materials/RedTeleportEmissive.mat
+  - fileID: 164
+    classID: 21
+    packedSize: 1096
+    offset: 357280
+    sourceAssetGUID: da496897677afb04da7ac5ff189fe920
+    buildTimeAssetPath: Assets/Materials/RedUnLit.mat
+  - fileID: 165
+    classID: 21
+    packedSize: 556
+    offset: 358376
+    sourceAssetGUID: 1d1e2e98d8863ca4f87be13bb00a90a0
+    buildTimeAssetPath: Assets/Materials/Skybox/SkyBoxStudio.mat
+  - fileID: 166
+    classID: 21
+    packedSize: 1096
+    offset: 358936
+    sourceAssetGUID: 02b6abf9db9079e44a887c10cc168000
+    buildTimeAssetPath: Assets/Materials/SonyCameraLeft.mat
+  - fileID: 167
+    classID: 21
+    packedSize: 1208
+    offset: 360032
+    sourceAssetGUID: c16e0dabae74d594db23e9145ddf284b
+    buildTimeAssetPath: Assets/Materials/SonyCameraRight.mat
+  - fileID: 168
+    classID: 21
+    packedSize: 964
+    offset: 361240
+    sourceAssetGUID: 99d4cd5fac548e34b937c1555702b882
+    buildTimeAssetPath: Assets/Materials/Switch_Colour_3_SamwiseOff.mat
+  - fileID: 169
+    classID: 21
+    packedSize: 964
+    offset: 362208
+    sourceAssetGUID: 8d77dcd4c1fdafc418479c12642c9cae
+    buildTimeAssetPath: Assets/Materials/Switch_Colour_3_SamwiseOn.mat
+  - fileID: 170
+    classID: 21
+    packedSize: 920
+    offset: 363176
+    sourceAssetGUID: 015980be87de2bd41a1573b01289a916
+    buildTimeAssetPath: Assets/Materials/TeleprompterMaterials/TeleprompterBackground.mat
+  - fileID: 171
+    classID: 21
+    packedSize: 1064
+    offset: 364096
+    sourceAssetGUID: f56e297c4d79d854295e2047536db3f0
+    buildTimeAssetPath: Assets/Materials/VRCBlue.mat
+  - fileID: 172
+    classID: 21
+    packedSize: 1096
+    offset: 365160
+    sourceAssetGUID: b0ed01596dc985542a92e394fbcd4e1b
+    buildTimeAssetPath: Assets/Materials/VRCEmissiveSpecularWhite.mat
+  - fileID: 173
+    classID: 21
+    packedSize: 540
+    offset: 366256
+    sourceAssetGUID: c40de1bc32ad4e9449095e66bed675fe
+    buildTimeAssetPath: Assets/Materials/VRCGlassBlue.mat
+  - fileID: 174
+    classID: 21
+    packedSize: 544
+    offset: 366800
+    sourceAssetGUID: c69736a9b56b0f045bd65a0f2b7c8877
+    buildTimeAssetPath: Assets/Materials/VRCGlassYellow.mat
+  - fileID: 175
+    classID: 21
+    packedSize: 976
+    offset: 367344
+    sourceAssetGUID: 556be9611daedd3489b693ab6f87b1e0
+    buildTimeAssetPath: Assets/Materials/VRCMetalCoveringGrate2.mat
+  - fileID: 176
+    classID: 21
+    packedSize: 1068
+    offset: 368320
+    sourceAssetGUID: ecec628846a458a41b9e436060d416ab
+    buildTimeAssetPath: Assets/Materials/VRChat Black.mat
+  - fileID: 177
+    classID: 21
+    packedSize: 1040
+    offset: 369392
+    sourceAssetGUID: 260a05d3124eb7f43b56eba648636aee
+    buildTimeAssetPath: Assets/Materials/VRChat Blue Button.mat
+  - fileID: 178
+    classID: 21
+    packedSize: 1068
+    offset: 370432
+    sourceAssetGUID: e55ebd25f6a5e9346ad7928a11a00d2b
+    buildTimeAssetPath: Assets/Materials/VRChat Blue.mat
+  - fileID: 179
+    classID: 21
+    packedSize: 1136
+    offset: 371504
+    sourceAssetGUID: 72d45289e46bbfa45aaa1cb5fde76823
+    buildTimeAssetPath: Assets/Materials/VRChat Button Blue.mat
+  - fileID: 180
+    classID: 21
+    packedSize: 1152
+    offset: 372640
+    sourceAssetGUID: f61144ba78d033d40bfbb7a4cb19ffab
+    buildTimeAssetPath: Assets/Materials/VRChat Default-Standard-Lite Gold Fine.mat
+  - fileID: 181
+    classID: 21
+    packedSize: 1096
+    offset: 373792
+    sourceAssetGUID: 889545e8a4eb3db45af61839991865d0
+    buildTimeAssetPath: Assets/Materials/VRChat Default-Standard-Lite Off White.mat
+  - fileID: 182
+    classID: 21
+    packedSize: 568
+    offset: 374888
+    sourceAssetGUID: 3abb3e798352d174a97304f0cd5f8448
+    buildTimeAssetPath: Assets/Materials/VRChat Diffuse.mat
+  - fileID: 183
+    classID: 21
+    packedSize: 1144
+    offset: 375456
+    sourceAssetGUID: c4f5a098f8938ae48b8093bfdc23da74
+    buildTimeAssetPath: Assets/Materials/VRChat SquareButtonsBlueLightSingle.mat
+  - fileID: 184
+    classID: 21
+    packedSize: 1140
+    offset: 376600
+    sourceAssetGUID: 559658b5c1dd4e04ba0969b17755965d
+    buildTimeAssetPath: Assets/Materials/VRChat SquareButtonsBlueSingle.mat
+  - fileID: 185
+    classID: 21
+    packedSize: 1136
+    offset: 377744
+    sourceAssetGUID: 043172d1b39b2be4dbcc94f6909b44e5
+    buildTimeAssetPath: Assets/Materials/VRChat SquareButtonsGreen.mat
+  - fileID: 186
+    classID: 21
+    packedSize: 1212
+    offset: 378880
+    sourceAssetGUID: cfd26b1c496e4ac47819ec1bb1801fb7
+    buildTimeAssetPath: Assets/Materials/VRChat-Mobile-Stand Lite.mat
+  - fileID: 187
+    classID: 21
+    packedSize: 1124
+    offset: 380096
+    sourceAssetGUID: 2cadf8b8343ae264a9b9575e73c8d420
+    buildTimeAssetPath: Assets/Materials/VRChatNumbersSpanning.mat
+  - fileID: 188
+    classID: 21
+    packedSize: 1108
+    offset: 381224
+    sourceAssetGUID: 27b0a7ccb289b4a44be93a1c663b3429
+    buildTimeAssetPath: Assets/Materials/VRChatNumbersWrapping.mat
+  - fileID: 189
+    classID: 21
+    packedSize: 1080
+    offset: 382336
+    sourceAssetGUID: 5151a73ca5c02234395125b0cd997376
+    buildTimeAssetPath: Assets/Materials/VRChatTransporterHandle.mat
+  - fileID: 190
+    classID: 21
+    packedSize: 1012
+    offset: 383416
+    sourceAssetGUID: 3b78f2d32806d204e9e0fd0cc2f990d9
+    buildTimeAssetPath: Assets/Materials/WaterRedTransparent.mat
+  - fileID: 191
+    classID: 21
+    packedSize: 1052
+    offset: 384432
+    sourceAssetGUID: fd3a4a57c3c00ec49893496fb07d3736
+    buildTimeAssetPath: Assets/Materials/WhiteVRCStandardLite.mat
+  - fileID: 192
+    classID: 21
+    packedSize: 968
+    offset: 385488
+    sourceAssetGUID: fe1f2564832903a4f95ad568ebc8d811
+    buildTimeAssetPath: Assets/Materials/YellowEmissive.mat
+  - fileID: 193
+    classID: 21
+    packedSize: 1040
+    offset: 386456
+    sourceAssetGUID: 7c92ea5c47d213349aa2e46a5a54412d
+    buildTimeAssetPath: Assets/Materials/YellowTransparentHorizonalLines.mat
+  - fileID: 194
+    classID: 21
+    packedSize: 928
+    offset: 387496
+    sourceAssetGUID: ea392b27e41ba3e48b2cecb07f8e47f8
+    buildTimeAssetPath: Assets/Materials/basement/ConferenceRoom1-lambert1_Samwise.mat
+  - fileID: 195
+    classID: 21
+    packedSize: 920
+    offset: 388424
+    sourceAssetGUID: ecbdcd69dbcc8394f9db13d2abbdd02c
+    buildTimeAssetPath: Assets/Materials/basement/big_waterpipe_Samwise.mat
+  - fileID: 196
+    classID: 21
+    packedSize: 916
+    offset: 389344
+    sourceAssetGUID: d190aedfd3b7df44f9270e7087a796dd
+    buildTimeAssetPath: Assets/Materials/basement/wood_planks_Samwise.mat
+  - fileID: 197
+    classID: 21
+    packedSize: 1228
+    offset: 390264
+    sourceAssetGUID: dc4a5c86300a477488da791d682667a0
+    buildTimeAssetPath: Assets/Materials/mat_AudioLinkMiniPlayerScreen - Flashlight.mat
+  - fileID: 198
+    classID: 21
+    packedSize: 1112
+    offset: 391496
+    sourceAssetGUID: 83252f9a84685c242afd305455635d04
+    buildTimeAssetPath: Assets/Materials/metal_metalic.mat
+  - fileID: 199
+    classID: 21
+    packedSize: 920
+    offset: 392608
+    sourceAssetGUID: ca2ec4f3c71dccc49b84b9d31a047c30
+    buildTimeAssetPath: Assets/Materials/silent_hill_2_baldwin_study_room_normal/BulbOn.mat
+  - fileID: 200
+    classID: 21
+    packedSize: 1456
+    offset: 393528
+    sourceAssetGUID: c4129eb3e4252ac4bb7eef916d327b5e
+    buildTimeAssetPath: Assets/Materials/silent_hill_2_baldwin_study_room_normal/Hilt_Inside.mat
+  - fileID: 201
+    classID: 21
+    packedSize: 1456
+    offset: 394984
+    sourceAssetGUID: 46dbbc9dd976c314fbd3b88149dda05e
+    buildTimeAssetPath: Assets/Materials/silent_hill_2_baldwin_study_room_normal/Hilt_Outside.mat
+  - fileID: 202
+    classID: 21
+    packedSize: 1060
+    offset: 396440
+    sourceAssetGUID: 1fdeb0623d7346548891fb1706315751
+    buildTimeAssetPath: Assets/Materials/silent_hill_2_baldwin_study_room_normal/auto.mat
+  - fileID: 203
+    classID: 21
+    packedSize: 1064
+    offset: 397504
+    sourceAssetGUID: aa6b1ef0bffa95440a4ae9eb22401c15
+    buildTimeAssetPath: Assets/Materials/silent_hill_2_baldwin_study_room_normal/auto_1.mat
+  - fileID: 204
+    classID: 21
+    packedSize: 1064
+    offset: 398568
+    sourceAssetGUID: 143aed70fcfadf14199b5e0661594d8f
+    buildTimeAssetPath: Assets/Materials/silent_hill_2_baldwin_study_room_normal/auto_2.mat
+  - fileID: 205
+    classID: 21
+    packedSize: 1064
+    offset: 399632
+    sourceAssetGUID: 9bd443180277d7c4e9123e86d5fc1163
+    buildTimeAssetPath: Assets/Materials/silent_hill_2_baldwin_study_room_normal/auto_3.mat
+  - fileID: 206
+    classID: 21
+    packedSize: 1064
+    offset: 400696
+    sourceAssetGUID: 326b77c26df146a498f13c05c1d41c61
+    buildTimeAssetPath: Assets/Materials/silent_hill_2_baldwin_study_room_normal/auto_4.mat
+  - fileID: 207
+    classID: 21
+    packedSize: 1064
+    offset: 401760
+    sourceAssetGUID: 1257fe931abb9c742a5068805d7dd4f8
+    buildTimeAssetPath: Assets/Materials/silent_hill_2_baldwin_study_room_normal/auto_5.mat
+  - fileID: 208
+    classID: 21
+    packedSize: 1064
+    offset: 402824
+    sourceAssetGUID: 1306ec865c3f24e4f970d5f457d80c8f
+    buildTimeAssetPath: Assets/Materials/silent_hill_2_baldwin_study_room_normal/auto_6.mat
+  - fileID: 209
+    classID: 21
+    packedSize: 1064
+    offset: 403888
+    sourceAssetGUID: 3448478afbb3bb946ab64fcc399999b4
+    buildTimeAssetPath: Assets/Materials/silent_hill_2_baldwin_study_room_normal/auto_8.mat
+  - fileID: 210
+    classID: 21
+    packedSize: 1064
+    offset: 404952
+    sourceAssetGUID: 864e4cceadf93b6498d16cfd651ded43
+    buildTimeAssetPath: Assets/Materials/silent_hill_2_baldwin_study_room_normal/auto_9.mat
+  - fileID: 211
+    classID: 21
+    packedSize: 1068
+    offset: 406016
+    sourceAssetGUID: 8128eae2521aeb84b8c7c4645b752297
+    buildTimeAssetPath: Assets/Materials/silent_hill_2_baldwin_study_room_normal/material_1.mat
+  - fileID: 212
+    classID: 21
+    packedSize: 988
+    offset: 407088
+    sourceAssetGUID: 02f0f69994ce7d34a86b5fbb2a3127fe
+    buildTimeAssetPath: Assets/Mega Fantasy Props Pack/Materials/dark_wood.mat
+  - fileID: 213
+    classID: 21
+    packedSize: 624
+    offset: 408080
+    sourceAssetGUID: 004b6d0217cf1c6478ba54c2f7883ae4
+    buildTimeAssetPath: Assets/RenderTexture/Materials/VideoCamera Render Texture
+      (0).mat
+  - fileID: 214
+    classID: 21
+    packedSize: 624
+    offset: 408704
+    sourceAssetGUID: e434183a43c9dce46a429f8563192866
+    buildTimeAssetPath: Assets/RenderTexture/Materials/VideoCamera Render Texture
+      (1).mat
+  - fileID: 215
+    classID: 21
+    packedSize: 624
+    offset: 409328
+    sourceAssetGUID: e675854a05b7b4743bdff1b1766f48ba
+    buildTimeAssetPath: Assets/RenderTexture/Materials/VideoCamera Render Texture
+      (2).mat
+  - fileID: 216
+    classID: 21
+    packedSize: 624
+    offset: 409952
+    sourceAssetGUID: c1357194658a46e4191d0fd69b6d1010
+    buildTimeAssetPath: Assets/RenderTexture/Materials/VideoCamera Render Texture
+      (3).mat
+  - fileID: 217
+    classID: 21
+    packedSize: 624
+    offset: 410576
+    sourceAssetGUID: e06844e218dc97445ad125782715c1d9
+    buildTimeAssetPath: Assets/RenderTexture/Materials/VideoCamera Render Texture
+      (4).mat
+  - fileID: 218
+    classID: 21
+    packedSize: 620
+    offset: 411200
+    sourceAssetGUID: bf45f2c9a3481434ca23bb624c404d0c
+    buildTimeAssetPath: Assets/RenderTexture/Materials/VideoCamera Render Texture.mat
+  - fileID: 219
+    classID: 21
+    packedSize: 912
+    offset: 411824
+    sourceAssetGUID: c8a5dda2638fb4f49a29525cf2e6dcd4
+    buildTimeAssetPath: Assets/Scenes/VRCDefaultWorldScene/GridFloor_udon.mat
+  - fileID: 220
+    classID: 21
+    packedSize: 1384
+    offset: 412736
+    sourceAssetGUID: aadd5a709a48466c887296bb5b1b8110
+    buildTimeAssetPath: Assets/TextMesh Pro/Examples & Extras/Materials/Ground -
+      Surface Shader Scene.mat
+  - fileID: 221
+    classID: 21
+    packedSize: 1680
+    offset: 414120
+    sourceAssetGUID: e73a58f6e2794ae7b1b7e50b7fb811b0
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF - Drop Shadow.mat
+  - fileID: 222
+    classID: 21
+    packedSize: 1608
+    offset: 415800
+    sourceAssetGUID: 79459efec17a4d00a321bdcc27bbc385
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF - Outline.mat
+  - fileID: 223
+    classID: 21
+    packedSize: 196
+    offset: 417408
+    sourceAssetGUID: ae1e47fbab3b44c40a3d09c599e57f3d
+    buildTimeAssetPath: Packages/com.llealloo.audiolink/Runtime/Materials/mat_AudioLinkMiniPlayerOut.mat
+  - fileID: 224
+    classID: 21
+    packedSize: 920
+    offset: 417608
+    sourceAssetGUID: b6099d83d6f02e34ea589e768df4173b
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Materials/Green.mat
+  - fileID: 225
+    classID: 21
+    packedSize: 1152
+    offset: 418528
+    sourceAssetGUID: c815f7613a04b724089c206857e57c6a
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Materials/MirrorReflection.mat
+  - fileID: 226
+    classID: 21
+    packedSize: 916
+    offset: 419680
+    sourceAssetGUID: 7a2568654af4bef4cad7a3dfa02c31b2
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Materials/Red.mat
+  - fileID: 227
+    classID: 21
+    packedSize: 708
+    offset: 420600
+    sourceAssetGUID: 35630e38b4e5ffb40b44ec5348b4333f
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Editor/VRCSDK/SDK3/VRCSuperSampledUIMaterial.mat
+  - fileID: 228
+    classID: 21
+    packedSize: 600
+    offset: 421312
+    sourceAssetGUID: 506771de2b6f16f4494d9cad34491466
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Samples/UdonExampleScene/Materials/AVProVideoScreen.mat
+  - fileID: 229
+    classID: 21
+    packedSize: 148
+    offset: 421912
+    sourceAssetGUID: 4beb055f07aaff244873dec698d0363e
+    buildTimeAssetPath: Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf
+  - fileID: 230
+    classID: 21
+    packedSize: 148
+    offset: 422064
+    sourceAssetGUID: 98baae691215eb546a697ff7d942a5bb
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/Fonts/Lato-Regular.ttf
+  - fileID: 231
+    classID: 21
+    packedSize: 148
+    offset: 422216
+    sourceAssetGUID: d8a7948bc83b01f45ab5078c10dd8e04
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/Fonts/Lato-Bold.ttf
+  - fileID: 232
+    classID: 21
+    packedSize: 148
+    offset: 422368
+    sourceAssetGUID: e3265ab4bf004d28a9537516768c1c75
+    buildTimeAssetPath: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  - fileID: 233
+    classID: 21
+    packedSize: 2016
+    offset: 422520
+    sourceAssetGUID: 2e498d1c8094910479dc3e1b768306a4
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF - Fallback.asset
+  - fileID: 234
+    classID: 21
+    packedSize: 956
+    offset: 424536
+    sourceAssetGUID: 8f586378b4e144a9851e7b34d9b748ee
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF.asset
+  - fileID: 235
+    classID: 21
+    packedSize: 904
+    offset: 425496
+    sourceAssetGUID: d60309966d45ca3408c73d40283230f6
+    buildTimeAssetPath: Assets/FBX/rabbits-set-david-lynch.fbx
+  - fileID: 236
+    classID: 21
+    packedSize: 904
+    offset: 426400
+    sourceAssetGUID: d60309966d45ca3408c73d40283230f6
+    buildTimeAssetPath: Assets/FBX/rabbits-set-david-lynch.fbx
+  - fileID: 237
+    classID: 21
+    packedSize: 900
+    offset: 427304
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 238
+    classID: 21
+    packedSize: 904
+    offset: 428208
+    sourceAssetGUID: d60309966d45ca3408c73d40283230f6
+    buildTimeAssetPath: Assets/FBX/rabbits-set-david-lynch.fbx
+  - fileID: 239
+    classID: 21
+    packedSize: 904
+    offset: 429112
+    sourceAssetGUID: d60309966d45ca3408c73d40283230f6
+    buildTimeAssetPath: Assets/FBX/rabbits-set-david-lynch.fbx
+  - fileID: 240
+    classID: 21
+    packedSize: 900
+    offset: 430016
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 241
+    classID: 21
+    packedSize: 904
+    offset: 430920
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 242
+    classID: 21
+    packedSize: 908
+    offset: 431824
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 243
+    classID: 21
+    packedSize: 904
+    offset: 432736
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 244
+    classID: 21
+    packedSize: 900
+    offset: 433640
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 245
+    classID: 21
+    packedSize: 904
+    offset: 434544
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 246
+    classID: 21
+    packedSize: 904
+    offset: 435448
+    sourceAssetGUID: d60309966d45ca3408c73d40283230f6
+    buildTimeAssetPath: Assets/FBX/rabbits-set-david-lynch.fbx
+  - fileID: 247
+    classID: 21
+    packedSize: 904
+    offset: 436352
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 248
+    classID: 21
+    packedSize: 900
+    offset: 437256
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 249
+    classID: 21
+    packedSize: 904
+    offset: 438160
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 250
+    classID: 21
+    packedSize: 904
+    offset: 439064
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 251
+    classID: 21
+    packedSize: 904
+    offset: 439968
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 252
+    classID: 21
+    packedSize: 900
+    offset: 440872
+    sourceAssetGUID: d60309966d45ca3408c73d40283230f6
+    buildTimeAssetPath: Assets/FBX/rabbits-set-david-lynch.fbx
+  - fileID: 253
+    classID: 21
+    packedSize: 904
+    offset: 441776
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 254
+    classID: 21
+    packedSize: 904
+    offset: 442680
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 255
+    classID: 21
+    packedSize: 904
+    offset: 443584
+    sourceAssetGUID: d60309966d45ca3408c73d40283230f6
+    buildTimeAssetPath: Assets/FBX/rabbits-set-david-lynch.fbx
+  - fileID: 256
+    classID: 21
+    packedSize: 900
+    offset: 444488
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 257
+    classID: 21
+    packedSize: 904
+    offset: 445392
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 258
+    classID: 28
+    packedSize: 21972
+    offset: 446296
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 259
+    classID: 28
+    packedSize: 5584
+    offset: 468272
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 260
+    classID: 28
+    packedSize: 5588
+    offset: 473856
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 261
+    classID: 28
+    packedSize: 5596
+    offset: 479448
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 262
+    classID: 28
+    packedSize: 21964
+    offset: 485048
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 263
+    classID: 28
+    packedSize: 21976
+    offset: 507016
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 264
+    classID: 28
+    packedSize: 5584
+    offset: 528992
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 265
+    classID: 28
+    packedSize: 40228
+    offset: 534576
+    sourceAssetGUID: 00be15cc7ea85394b80ac1aa2ff80c13
+    buildTimeAssetPath: Assets/FBX/basement0Exported/hoodie_back_256.png
+  - fileID: 266
+    classID: 28
+    packedSize: 40220
+    offset: 574808
+    sourceAssetGUID: 020f209d318a3f542aae2f07112a4ea3
+    buildTimeAssetPath: Assets/FBX/basement0Exported/door_256.png
+  - fileID: 267
+    classID: 28
+    packedSize: 158564
+    offset: 615032
+    sourceAssetGUID: 04238b38e70e93e4083a5e3779b3a7da
+    buildTimeAssetPath: Assets/Import/textures/pants_m_normal_5.png
+  - fileID: 268
+    classID: 28
+    packedSize: 79848
+    offset: 773600
+    sourceAssetGUID: 0433c440288630c4ca6155e4e210f320
+    buildTimeAssetPath: Assets/FBX/basement0Exported/seven-roadtrips-RIG1irm8si4-unsplash.jpg
+  - fileID: 269
+    classID: 28
+    packedSize: 20652
+    offset: 853448
+    sourceAssetGUID: 044eda18d11607d4b96186082ee9b07f
+    buildTimeAssetPath: Assets/FBX/basement0Exported/images.png
+  - fileID: 270
+    classID: 28
+    packedSize: 158576
+    offset: 874104
+    sourceAssetGUID: 07cc86d97f136354bbca4c0e9ec45e7b
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/Yes - 90125 - Album Front.png
+  - fileID: 271
+    classID: 28
+    packedSize: 158564
+    offset: 1032680
+    sourceAssetGUID: 09174f56b4162ab4e882d8d7b5085442
+    buildTimeAssetPath: Assets/Textures/silent_hill_2_baldwin_study_room_normal/auto_8_baseColor.png
+  - fileID: 272
+    classID: 28
+    packedSize: 5524
+    offset: 1191248
+    sourceAssetGUID: 0b8bfcec392960145b53af7afd1455af
+    buildTimeAssetPath: Assets/Textures/microphone-radio.png
+  - fileID: 273
+    classID: 28
+    packedSize: 199704
+    offset: 1196776
+    sourceAssetGUID: 0f8134642733ab540b761d702e1c511d
+    buildTimeAssetPath: Assets/Textures/button-152243_640_blue.png
+  - fileID: 274
+    classID: 28
+    packedSize: 699196
+    offset: 1396480
+    sourceAssetGUID: 0ffbc97afd988e84face0ff016b93291
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-5_comp_shadowmask.png
+  - fileID: 275
+    classID: 28
+    packedSize: 158572
+    offset: 2095680
+    sourceAssetGUID: 1094b33551131d24fadb1d0a80f61e02
+    buildTimeAssetPath: Assets/Import/textures/Scene_-_Root_baseColor_0.png
+  - fileID: 276
+    classID: 28
+    packedSize: 79828
+    offset: 2254256
+    sourceAssetGUID: 125a13d412e8a5941b7ba65439e54d70
+    buildTimeAssetPath: Assets/Textures/arrow-145761_640.png
+  - fileID: 277
+    classID: 28
+    packedSize: 40224
+    offset: 2334088
+    sourceAssetGUID: 130689626fc758d4fb66911cca853bd0
+    buildTimeAssetPath: Assets/FBX/basement0Exported/arcade2_256.png
+  - fileID: 278
+    classID: 28
+    packedSize: 626412
+    offset: 2374312
+    sourceAssetGUID: 135fd72f6bfdaee4cad86f11330455c1
+    buildTimeAssetPath: Assets/Import/textures/Basement0/closet.jpg
+  - fileID: 279
+    classID: 28
+    packedSize: 40936
+    offset: 3000728
+    sourceAssetGUID: 142ca638d13be4646b277995016e7eb3
+    buildTimeAssetPath: Assets/Textures/button-152243_641.png
+  - fileID: 280
+    classID: 28
+    packedSize: 158564
+    offset: 3041664
+    sourceAssetGUID: 14acffa023aafb243a4cfe417d5eb202
+    buildTimeAssetPath: Assets/Import/textures/belt_m_normal_11.png
+  - fileID: 281
+    classID: 28
+    packedSize: 42928
+    offset: 3200232
+    sourceAssetGUID: 157b312036150ba4f813a3543877a3c9
+    buildTimeAssetPath: Assets/Textures/2d-Sprite-UI/button-2d.png
+  - fileID: 282
+    classID: 28
+    packedSize: 158572
+    offset: 3243160
+    sourceAssetGUID: 16aa24f3cfd57d448bd5108526fe7d32
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-11_comp_light.exr
+  - fileID: 283
+    classID: 28
+    packedSize: 158576
+    offset: 3401736
+    sourceAssetGUID: 17a5ded9550973b4ba05d2f0606f891d
+    buildTimeAssetPath: Assets/FBX/basement0Exported/Annotation 2023-05-20 093439.png
+  - fileID: 284
+    classID: 28
+    packedSize: 158592
+    offset: 3560312
+    sourceAssetGUID: 181327dff7773264a9958ec0598bd32a
+    buildTimeAssetPath: Assets/FBX/basement0Exported/dh35fs-1b9dad04-91f2-4439-8968-928de37d148e.png
+  - fileID: 285
+    classID: 28
+    packedSize: 20660
+    offset: 3718904
+    sourceAssetGUID: 1961d361a3728a242b3df8b3d101dc66
+    buildTimeAssetPath: Assets/FBX/basement0Exported/washin_machine.png
+  - fileID: 286
+    classID: 28
+    packedSize: 158572
+    offset: 3739568
+    sourceAssetGUID: 19c9f6e5bc26dde43a4917d060017fbe
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-4_comp_light.exr
+  - fileID: 287
+    classID: 28
+    packedSize: 158568
+    offset: 3898144
+    sourceAssetGUID: 1bf5d6715ac1b2a418a0250c18df3602
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-3_comp_dir.png
+  - fileID: 288
+    classID: 28
+    packedSize: 699196
+    offset: 4056712
+    sourceAssetGUID: 1c0d47d3a8f1bc849a3a74c14dce2e30
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-8_comp_shadowmask.png
+  - fileID: 289
+    classID: 28
+    packedSize: 158568
+    offset: 4755912
+    sourceAssetGUID: 1c1c756a9a7cffd46ada23307134136a
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-9_comp_dir.png
+  - fileID: 290
+    classID: 28
+    packedSize: 40224
+    offset: 4914480
+    sourceAssetGUID: 1d80f1dd5fbe36d43b096f47a9f5b9a3
+    buildTimeAssetPath: Assets/FBX/basement0Exported/hoodie.256px.png
+  - fileID: 291
+    classID: 28
+    packedSize: 40228
+    offset: 4954704
+    sourceAssetGUID: 1fe5b1dfb65dd7a4594bf79e6e3453c5
+    buildTimeAssetPath: Assets/Textures/silent_hill_2_baldwin_study_room_normal/auto_baseColor.png
+  - fileID: 292
+    classID: 28
+    packedSize: 158572
+    offset: 4994936
+    sourceAssetGUID: 2100213a973cc7949822b1dd8c9af673
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-2_comp_light.exr
+  - fileID: 293
+    classID: 28
+    packedSize: 79832
+    offset: 5153512
+    sourceAssetGUID: 23280ea9fd4b9b6409a3dd9adba361bf
+    buildTimeAssetPath: Assets/Textures/water-1057484_640.jpg
+  - fileID: 294
+    classID: 28
+    packedSize: 158588
+    offset: 5233344
+    sourceAssetGUID: 236edcf4519a5e6459f9c83f7029f838
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/Adrian Belew - Mr. Music
+      Head - Front.jpg
+  - fileID: 295
+    classID: 28
+    packedSize: 158568
+    offset: 5391936
+    sourceAssetGUID: 24568032f26fe194f9ba78684de953ee
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-6_comp_dir.png
+  - fileID: 296
+    classID: 28
+    packedSize: 158572
+    offset: 5550504
+    sourceAssetGUID: 25886862f9ea8c840a6bdc05af256981
+    buildTimeAssetPath: Assets/Mega Fantasy Props Pack/Textures/wooden-boards-texture_m.png
+  - fileID: 297
+    classID: 28
+    packedSize: 158568
+    offset: 5709080
+    sourceAssetGUID: 26e3c5fae3583ed49a4cc2edc4006cab
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-7_comp_dir.png
+  - fileID: 298
+    classID: 28
+    packedSize: 626424
+    offset: 5867648
+    sourceAssetGUID: 26fc22fa626c86c4e9987154a296532d
+    buildTimeAssetPath: Assets/Textures/green-2661271_1280.png
+  - fileID: 299
+    classID: 28
+    packedSize: 158580
+    offset: 6494072
+    sourceAssetGUID: 2776792a9a764364b808b2a6b2f730ae
+    buildTimeAssetPath: Assets/FBX/basement0Exported/wet-vacuum-cleaner-1000x1000-3.png
+  - fileID: 300
+    classID: 28
+    packedSize: 699196
+    offset: 6652656
+    sourceAssetGUID: 27bb2afe498862849997bbfa3b7f2f02
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-10_comp_shadowmask.png
+  - fileID: 301
+    classID: 28
+    packedSize: 158564
+    offset: 7351856
+    sourceAssetGUID: 2b36625e45ba3404799d8956fc22b848
+    buildTimeAssetPath: Assets/Import/textures/boots_m_normal_8.png
+  - fileID: 302
+    classID: 28
+    packedSize: 158568
+    offset: 7510424
+    sourceAssetGUID: 2cffc1ba32a8c2b4aa3b11751d15ba71
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-8_comp_dir.png
+  - fileID: 303
+    classID: 28
+    packedSize: 10648
+    offset: 7668992
+    sourceAssetGUID: 307d625f65fedc74199fce078389342f
+    buildTimeAssetPath: Assets/FBX/basement0Exported/IMG_20230404_115149.png
+  - fileID: 304
+    classID: 28
+    packedSize: 40228
+    offset: 7679640
+    sourceAssetGUID: 30ea6fe17b0c8c04db60c2b9c79c1b1c
+    buildTimeAssetPath: Assets/FBX/basement0Exported/glove_256px (1).png
+  - fileID: 305
+    classID: 28
+    packedSize: 148
+    offset: 7719872
+    sourceAssetGUID: 318cbcd94840f1d48aca4d86234dc2e7
+    buildTimeAssetPath: Packages/com.unity.postprocessing/PostProcessing/Textures/SpectralLUTs/SpectralLut_BlueRed.tga
+  - fileID: 306
+    classID: 28
+    packedSize: 10640
+    offset: 7720024
+    sourceAssetGUID: 33369c7539e8072429d0cd12959ae9cd
+    buildTimeAssetPath: Assets/Textures/Colors/Red-255-0-0.png
+  - fileID: 307
+    classID: 28
+    packedSize: 158588
+    offset: 7730664
+    sourceAssetGUID: 336a27d386f7d6541b8c7c729b9ac545
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/Tom Petty - Full Moon
+      Fever (1989) Front.jpg
+  - fileID: 308
+    classID: 28
+    packedSize: 40224
+    offset: 7889256
+    sourceAssetGUID: 34e7cb0abf10adb44868108ed5af369f
+    buildTimeAssetPath: Assets/FBX/basement0Exported/Dirty canvas.png
+  - fileID: 309
+    classID: 28
+    packedSize: 10140
+    offset: 7929480
+    sourceAssetGUID: 36a5439bc864b8e478e20b5290dcc71f
+    buildTimeAssetPath: Assets/Textures/PlayButtons/blue-158731_640 - Blank.png
+  - fileID: 310
+    classID: 28
+    packedSize: 158568
+    offset: 7939624
+    sourceAssetGUID: 380886b9a0dc26c4c898ea21aa1dee67
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-11_comp_dir.png
+  - fileID: 311
+    classID: 28
+    packedSize: 158564
+    offset: 8098192
+    sourceAssetGUID: 3bae9d8c7d4205945b41837a6647f720
+    buildTimeAssetPath: Assets/Textures/silent_hill_2_baldwin_study_room_normal/auto_9_baseColor.png
+  - fileID: 312
+    classID: 28
+    packedSize: 158572
+    offset: 8256760
+    sourceAssetGUID: 3c00bbd05c5b2884e86f3d46e27b8d7e
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-3_comp_light.exr
+  - fileID: 313
+    classID: 28
+    packedSize: 158552
+    offset: 8415336
+    sourceAssetGUID: 3f8923f33fa0dac428ceb53b00fe165d
+    buildTimeAssetPath: Assets/FBX/basement0Exported/4826.jpg
+  - fileID: 314
+    classID: 28
+    packedSize: 158584
+    offset: 8573888
+    sourceAssetGUID: 3f91814e0ee72be4291ac9f5ad67da35
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/Adrian Belew - Mr. Music
+      Head - Back.jpg
+  - fileID: 315
+    classID: 28
+    packedSize: 158572
+    offset: 8732472
+    sourceAssetGUID: 3fd3ba3520f7a2f468478878eb6ee05e
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-6_comp_light.exr
+  - fileID: 316
+    classID: 28
+    packedSize: 158592
+    offset: 8891048
+    sourceAssetGUID: 404e71d050222fc409e48471de7b36c4
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/Peter Gabriel - 3 Melting
+      Face (1980) Front.jpg
+  - fileID: 317
+    classID: 28
+    packedSize: 40220
+    offset: 9049640
+    sourceAssetGUID: 40a995b072215a245b14fc57d4f1c524
+    buildTimeAssetPath: Assets/FBX/basement0Exported/paintcan.png
+  - fileID: 318
+    classID: 28
+    packedSize: 158580
+    offset: 9089864
+    sourceAssetGUID: 4161018f53f7c064e84c1063692bf19f
+    buildTimeAssetPath: Assets/Textures/pattern-MetalPatternGrateBlue.jpg
+  - fileID: 319
+    classID: 28
+    packedSize: 158568
+    offset: 9248448
+    sourceAssetGUID: 443fd913d247d5449a641fc01723c7b0
+    buildTimeAssetPath: Assets/Import/textures/pants_m_baseColor_3.png
+  - fileID: 320
+    classID: 28
+    packedSize: 158596
+    offset: 9407016
+    sourceAssetGUID: 449ad515b732e2e4682719045a987d63
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/Jethro Tull - Songs From
+      The Wood (1977) Front.jpg
+  - fileID: 321
+    classID: 28
+    packedSize: 158572
+    offset: 9565616
+    sourceAssetGUID: 46d5f3ede3689f646a4bee3d33ba91c3
+    buildTimeAssetPath: Assets/Textures/silver_1_fixed_d_samwise.png
+  - fileID: 322
+    classID: 28
+    packedSize: 158568
+    offset: 9724192
+    sourceAssetGUID: 47bb90c19a06e4142814b713d11fa24e
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-10_comp_dir.png
+  - fileID: 323
+    classID: 28
+    packedSize: 158572
+    offset: 9882760
+    sourceAssetGUID: 483f4f807f1c7b249b50b30d59d47961
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-8_comp_light.exr
+  - fileID: 324
+    classID: 28
+    packedSize: 158596
+    offset: 10041336
+    sourceAssetGUID: 4888a5a5ad0230b4e867e1a5eea36619
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/Jethro Tull - Songs From
+      The Wood (1977) Back.jpg
+  - fileID: 325
+    classID: 28
+    packedSize: 128
+    offset: 10199936
+    sourceAssetGUID: 4beb055f07aaff244873dec698d0363e
+    buildTimeAssetPath: Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf
+  - fileID: 326
+    classID: 28
+    packedSize: 699196
+    offset: 10200064
+    sourceAssetGUID: 4cb3360a44c7ffc448af049891577a34
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-0_comp_shadowmask.png
+  - fileID: 327
+    classID: 28
+    packedSize: 158564
+    offset: 10899264
+    sourceAssetGUID: 4cba40c9f7d32254585baf3702bf4507
+    buildTimeAssetPath: Assets/BloodDecalsAndEffects/BloodGushFX/brainsAndBlood/Textures/Brains_Normal.png
+  - fileID: 328
+    classID: 28
+    packedSize: 626424
+    offset: 11057832
+    sourceAssetGUID: 4f6edc49ebe6bab4badf4b22721ec5df
+    buildTimeAssetPath: Assets/Import/textures/Basement0/cajade_carton1_fin.png
+  - fileID: 329
+    classID: 28
+    packedSize: 158584
+    offset: 11684256
+    sourceAssetGUID: 50974ef1273c70c4bb6eb63092e13a53
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/The Police - Synchronicit
+      1983 Front.jpg
+  - fileID: 330
+    classID: 28
+    packedSize: 40228
+    offset: 11842840
+    sourceAssetGUID: 50e79fde872274640964130b2e2fa18a
+    buildTimeAssetPath: Assets/FBX/basement0Exported/pants_256x256px.png
+  - fileID: 331
+    classID: 28
+    packedSize: 158564
+    offset: 11883072
+    sourceAssetGUID: 50ef21f7917d67a45801096a09c698d0
+    buildTimeAssetPath: Assets/Textures/silent_hill_2_baldwin_study_room_normal/auto_1_baseColor.png
+  - fileID: 332
+    classID: 28
+    packedSize: 626428
+    offset: 12041640
+    sourceAssetGUID: 5249ab5d908fcf241ac885489fc90732
+    buildTimeAssetPath: Assets/Textures/sony-1455032_1280_Right.jpg
+  - fileID: 333
+    classID: 28
+    packedSize: 158572
+    offset: 12668072
+    sourceAssetGUID: 52599f68c2439094dbf98fceec2bc544
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-12_comp_light.exr
+  - fileID: 334
+    classID: 28
+    packedSize: 626420
+    offset: 12826648
+    sourceAssetGUID: 52be0869d0eff2548b2175a5db2da9b9
+    buildTimeAssetPath: Assets/Import/textures/Basement0/soporte_vertical.png
+  - fileID: 335
+    classID: 28
+    packedSize: 158568
+    offset: 13453072
+    sourceAssetGUID: 53c2ca3db692c3a47aa5437c7f86a094
+    buildTimeAssetPath: Assets/Import/textures/skin_m_baseColor_12.png
+  - fileID: 336
+    classID: 28
+    packedSize: 158572
+    offset: 13611640
+    sourceAssetGUID: 5791644fbc4b0af44a1a9e379b44bdeb
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-9_comp_light.exr
+  - fileID: 337
+    classID: 28
+    packedSize: 10140
+    offset: 13770216
+    sourceAssetGUID: 57e6c8e0b5cc968408789b19cd1fc453
+    buildTimeAssetPath: Assets/Textures/PlayButtons/blue-158731_640 - Pause.png
+  - fileID: 338
+    classID: 28
+    packedSize: 158592
+    offset: 13780360
+    sourceAssetGUID: 585643f95b3838d498f2d63cb4e0f81d
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/SamwiseAaron - Ideas 8
+      - January 2023 Back.jpg
+  - fileID: 339
+    classID: 28
+    packedSize: 158572
+    offset: 13938952
+    sourceAssetGUID: 5b5c70465a6767946af65384d49f32dd
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-0_comp_light.exr
+  - fileID: 340
+    classID: 28
+    packedSize: 158576
+    offset: 14097528
+    sourceAssetGUID: 5ba1fd6697ccc294a9a3caa8faab204c
+    buildTimeAssetPath: Assets/FBX/basement0Exported/Annotation 2023-05-20 093410.png
+  - fileID: 341
+    classID: 28
+    packedSize: 79816
+    offset: 14256104
+    sourceAssetGUID: 5c680a042b286fe47a531283b5fa2505
+    buildTimeAssetPath: Assets/FBX/basement0Exported/con1.png
+  - fileID: 342
+    classID: 28
+    packedSize: 40216
+    offset: 14335920
+    sourceAssetGUID: 5fbc51bc06c63c84cbeb82fb217db259
+    buildTimeAssetPath: Assets/FBX/basement0Exported/can4.png
+  - fileID: 343
+    classID: 28
+    packedSize: 79820
+    offset: 14376136
+    sourceAssetGUID: 611c79b6dab83e24bb466709ffe00654
+    buildTimeAssetPath: Assets/FBX/basement0Exported/pj0dx4ni.jpg
+  - fileID: 344
+    classID: 28
+    packedSize: 699196
+    offset: 14455960
+    sourceAssetGUID: 648a4d982b7bb1b4881631a57d6fce0b
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-12_comp_shadowmask.png
+  - fileID: 345
+    classID: 28
+    packedSize: 79832
+    offset: 15155160
+    sourceAssetGUID: 6574dc842ac37c04d8d52e8979adaee0
+    buildTimeAssetPath: Assets/FBX/basement0Exported/jihun-park-mattress2.jpg
+  - fileID: 346
+    classID: 28
+    packedSize: 158588
+    offset: 15234992
+    sourceAssetGUID: 659cfd99a692a0243b3540aa7486b97a
+    buildTimeAssetPath: Assets/Import/textures/Scene_-_Root_metallicRoughness_1_metal.png
+  - fileID: 347
+    classID: 28
+    packedSize: 158584
+    offset: 15393584
+    sourceAssetGUID: 672af9170a0f56d479d4ca46054acbc6
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/Rush - Moving Pictures
+      (1981) Front.jpg
+  - fileID: 348
+    classID: 28
+    packedSize: 79856
+    offset: 15552168
+    sourceAssetGUID: 691a961895f9f4446ae4caebd920249a
+    buildTimeAssetPath: Assets/FBX/basement0Exported/daniele-levis-pelusi-rWtBTCAGqXs-unsplash.jpg
+  - fileID: 349
+    classID: 28
+    packedSize: 158564
+    offset: 15632024
+    sourceAssetGUID: 695073afee98e2f43b0378a37e4ce14b
+    buildTimeAssetPath: Assets/Textures/gate-3356122_640.jpg
+  - fileID: 350
+    classID: 28
+    packedSize: 20660
+    offset: 15790592
+    sourceAssetGUID: 698b9d564ff368b489f63baae443e243
+    buildTimeAssetPath: Assets/FBX/basement0Exported/rouf wooden_256.png
+  - fileID: 351
+    classID: 28
+    packedSize: 158568
+    offset: 15811256
+    sourceAssetGUID: 6c81ae25169297543bbefce9be961568
+    buildTimeAssetPath: Assets/Import/textures/boots_m_baseColor_6.png
+  - fileID: 352
+    classID: 28
+    packedSize: 315124
+    offset: 15969824
+    sourceAssetGUID: 6d731ee7601e16d4bbb27a3c29860b5f
+    buildTimeAssetPath: Assets/Textures/FlatSurfaces/BrickWallNormal.jpg
+  - fileID: 353
+    classID: 28
+    packedSize: 183320
+    offset: 16284952
+    sourceAssetGUID: 6e3cab45dcca3ea49917febb4d9afd7f
+    buildTimeAssetPath: Assets/Textures/PlayButtons/cancel-153645_640.png
+  - fileID: 354
+    classID: 28
+    packedSize: 40224
+    offset: 16468272
+    sourceAssetGUID: 71dd2e00d35eb7c458f7afcf941b9059
+    buildTimeAssetPath: Assets/FBX/basement0Exported/gas_tank256.png
+  - fileID: 355
+    classID: 28
+    packedSize: 158584
+    offset: 16508496
+    sourceAssetGUID: 724ffe3bb152eee4a9f93e3321c350cb
+    buildTimeAssetPath: Assets/Import/textures/belt_m_metallicRoughness_10_metal.png
+  - fileID: 356
+    classID: 28
+    packedSize: 158572
+    offset: 16667080
+    sourceAssetGUID: 74f75eb024f2f3a47bfee451a6837652
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/Yes - 90125 - Album Back.jpg
+  - fileID: 357
+    classID: 28
+    packedSize: 158588
+    offset: 16825656
+    sourceAssetGUID: 7552548c5b491ab4d804189e8c2e5969
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/Tom Petty - Full Moon
+      Fever (1989) Back.jpg
+  - fileID: 358
+    classID: 28
+    packedSize: 10140
+    offset: 16984248
+    sourceAssetGUID: 772f19a88dbad7d44b302c54b38a4aed
+    buildTimeAssetPath: Assets/Textures/PlayButtons/blue-158731_640 - Rewind.png
+  - fileID: 359
+    classID: 28
+    packedSize: 40224
+    offset: 16994392
+    sourceAssetGUID: 7811bc04f4bf3444980f597bc54e6789
+    buildTimeAssetPath: Assets/FBX/basement0Exported/arcade256.png
+  - fileID: 360
+    classID: 28
+    packedSize: 699196
+    offset: 17034616
+    sourceAssetGUID: 791b55e5563e4a248991664a5b91ccae
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-1_comp_shadowmask.png
+  - fileID: 361
+    classID: 28
+    packedSize: 699196
+    offset: 17733816
+    sourceAssetGUID: 7c213f27e64a81b4d8f3cec2942f8bfa
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-9_comp_shadowmask.png
+  - fileID: 362
+    classID: 28
+    packedSize: 626428
+    offset: 18433016
+    sourceAssetGUID: 7cb9dd35b9660ae4ba9e6b99764eef4c
+    buildTimeAssetPath: Assets/Textures/sony-1455032_1280_Left.jpg
+  - fileID: 363
+    classID: 28
+    packedSize: 158568
+    offset: 19059448
+    sourceAssetGUID: 7cf49967f57153044b0ea0002df3f263
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-1_comp_dir.png
+  - fileID: 364
+    classID: 28
+    packedSize: 626424
+    offset: 19218016
+    sourceAssetGUID: 7cfd9c30df9d82747bb3c3f042335bff
+    buildTimeAssetPath: Assets/Import/textures/Basement0/caja_herramientas.png
+  - fileID: 365
+    classID: 28
+    packedSize: 40232
+    offset: 19844440
+    sourceAssetGUID: 7e1a5e7ad1ad97a4e8af9fdd901ce0af
+    buildTimeAssetPath: Assets/FBX/basement0Exported/barrel_dithered_256.png
+  - fileID: 366
+    classID: 28
+    packedSize: 158576
+    offset: 19884672
+    sourceAssetGUID: 7f00bcb5c0331d04e9c52b8ce859adf3
+    buildTimeAssetPath: Assets/Textures/seamless_metal-chrome_640.jpg
+  - fileID: 367
+    classID: 28
+    packedSize: 626428
+    offset: 20043248
+    sourceAssetGUID: 7f5247cfdee16654198937ebfb04246e
+    buildTimeAssetPath: Assets/Import/textures/Basement0/Normal_paral_andamio2.jpg
+  - fileID: 368
+    classID: 28
+    packedSize: 626420
+    offset: 20669680
+    sourceAssetGUID: 7f9898d32f2a48b4aae3f51ed6d7f33d
+    buildTimeAssetPath: Assets/Import/textures/Basement0/bajo_escalera2.jpg
+  - fileID: 369
+    classID: 28
+    packedSize: 158568
+    offset: 21296104
+    sourceAssetGUID: 809ae50192cdbbc4180875585c858582
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-2_comp_dir.png
+  - fileID: 370
+    classID: 28
+    packedSize: 40236
+    offset: 21454672
+    sourceAssetGUID: 80c7d9c0e16e84241ba170451bb5a7a4
+    buildTimeAssetPath: Assets/FBX/basement0Exported/cartonbox_dithered_256px.png
+  - fileID: 371
+    classID: 28
+    packedSize: 158584
+    offset: 21494912
+    sourceAssetGUID: 85abb9646d134f8409bc5ef6eb96b8d4
+    buildTimeAssetPath: Assets/Import/textures/skin_m_metallicRoughness_13_metal.png
+  - fileID: 372
+    classID: 28
+    packedSize: 158572
+    offset: 21653496
+    sourceAssetGUID: 85ac55597b97403c82fc6601a93cf241
+    buildTimeAssetPath: Assets/TextMesh Pro/Examples & Extras/Textures/Floor Tiles
+      1 - diffuse.jpg
+  - fileID: 373
+    classID: 28
+    packedSize: 626436
+    offset: 21812072
+    sourceAssetGUID: 86a1ae3c6d07d504c8e3b1694a34d9d8
+    buildTimeAssetPath: Assets/Textures/19_-_Default_baseColor_1_glass.png
+  - fileID: 374
+    classID: 28
+    packedSize: 158568
+    offset: 22438512
+    sourceAssetGUID: 878979f87e4962941a25857e5946a914
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-4_comp_dir.png
+  - fileID: 375
+    classID: 28
+    packedSize: 40216
+    offset: 22597080
+    sourceAssetGUID: 87e37642fda9f914d992468457bc61ef
+    buildTimeAssetPath: Assets/FBX/basement0Exported/can1.png
+  - fileID: 376
+    classID: 28
+    packedSize: 626416
+    offset: 22637296
+    sourceAssetGUID: 8920266d47f106b40b5d648351584304
+    buildTimeAssetPath: Assets/Import/textures/Basement0/caja_carton2.jpg
+  - fileID: 377
+    classID: 28
+    packedSize: 158584
+    offset: 23263712
+    sourceAssetGUID: 8c83860580548534294896074c27916a
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/Rush - Moving Pictures
+      (1981) Back.jpg
+  - fileID: 378
+    classID: 28
+    packedSize: 158584
+    offset: 23422296
+    sourceAssetGUID: 8d8400988ef331f40b0e913225bab18b
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/The Police - Synchronicit
+      1983 Back.jpg
+  - fileID: 379
+    classID: 28
+    packedSize: 158584
+    offset: 23580880
+    sourceAssetGUID: 8dec73991f0b4714787d6e896c17f034
+    buildTimeAssetPath: Assets/Import/textures/pants_m_metallicRoughness_4_metal.png
+  - fileID: 380
+    classID: 28
+    packedSize: 18528
+    offset: 23739464
+    sourceAssetGUID: 90bc6f0e8c42f4ee79932b2b22edff3d
+    buildTimeAssetPath: Assets/Archimatix/Scenes Runtime/SpaceshipShop/UIBackground.psd
+  - fileID: 381
+    classID: 28
+    packedSize: 158572
+    offset: 23757992
+    sourceAssetGUID: 90ee640b3ed2de947ac015c0d0d787da
+    buildTimeAssetPath: Assets/Textures/silver_1_fixed_s_samwise.png
+  - fileID: 382
+    classID: 28
+    packedSize: 158652
+    offset: 23916568
+    sourceAssetGUID: 93fd15ffb6e416b4eb248d3d0b27198b
+    buildTimeAssetPath: Assets/Textures/1stdibs Wall-Mounted Sculpture - Sculptural
+      Round Concave Blue Wall Art Italy 2022 Italian Brass, Mirror.jpg
+  - fileID: 383
+    classID: 28
+    packedSize: 626412
+    offset: 24075224
+    sourceAssetGUID: 94c639b09d8400b47a86fec8988fd806
+    buildTimeAssetPath: Assets/Import/textures/Basement0/barril.png
+  - fileID: 384
+    classID: 28
+    packedSize: 626420
+    offset: 24701640
+    sourceAssetGUID: 94c70cba01f0f5640ae27b050f2705ba
+    buildTimeAssetPath: Assets/Scenes/VRCDefaultWorldScene/GridFloor_udon.png
+  - fileID: 385
+    classID: 28
+    packedSize: 40248
+    offset: 25328064
+    sourceAssetGUID: 9607f517faf06ed49a87b75d074c8999
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/Beatles - Revolver - (1966)
+      Front.jpg
+  - fileID: 386
+    classID: 28
+    packedSize: 128
+    offset: 25368312
+    sourceAssetGUID: 98baae691215eb546a697ff7d942a5bb
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/Fonts/Lato-Regular.ttf
+  - fileID: 387
+    classID: 28
+    packedSize: 626420
+    offset: 25368440
+    sourceAssetGUID: 98e68850eff36824f9b8b5443bd3ef1a
+    buildTimeAssetPath: Assets/Import/textures/Basement0/cajaca_madera.png
+  - fileID: 388
+    classID: 28
+    packedSize: 79832
+    offset: 25994864
+    sourceAssetGUID: 9bd99bce32f4c7e41bf16fbd53106c48
+    buildTimeAssetPath: Assets/Textures/frosted-glass-normal.jpg
+  - fileID: 389
+    classID: 28
+    packedSize: 626428
+    offset: 26074696
+    sourceAssetGUID: 9dcce25742ee3d6439250b3f1732b14d
+    buildTimeAssetPath: Assets/Import/textures/Scene_-_Root_normal_2.png
+  - fileID: 390
+    classID: 28
+    packedSize: 79840
+    offset: 26701128
+    sourceAssetGUID: 9ea0d0d4e5f1e134895a8bc15386af6a
+    buildTimeAssetPath: Assets/Textures/19423371-bubble-wrap-texture.jpg
+  - fileID: 391
+    classID: 28
+    packedSize: 158572
+    offset: 26780968
+    sourceAssetGUID: a08454d29f748a0419d37130db27ba95
+    buildTimeAssetPath: Assets/Textures/silver_1_fixed_n_samwise.png
+  - fileID: 392
+    classID: 28
+    packedSize: 79872
+    offset: 26939544
+    sourceAssetGUID: a18fe8beba1981341bf1c471c90c5c45
+    buildTimeAssetPath: Assets/Textures/blue-bubble-Removed-Background-Removed-Sharp-Edges-texture.png
+  - fileID: 393
+    classID: 28
+    packedSize: 158572
+    offset: 27019416
+    sourceAssetGUID: a35216cf1895fac409b4d89c3def4cac
+    buildTimeAssetPath: Assets/Mega Fantasy Props Pack/Textures/wooden-boards-texture_d.png
+  - fileID: 394
+    classID: 28
+    packedSize: 20660
+    offset: 27177992
+    sourceAssetGUID: a3fcf1d56792957488c499d3f08b28f5
+    buildTimeAssetPath: Assets/Textures/silent_hill_2_baldwin_study_room_normal/auto_2_baseColor.png
+  - fileID: 395
+    classID: 28
+    packedSize: 158564
+    offset: 27198656
+    sourceAssetGUID: a403d11dd2cc9c542b09d7951c1d0d6e
+    buildTimeAssetPath: Assets/FBX/basement0Exported/vaccum pipe256.jpg
+  - fileID: 396
+    classID: 28
+    packedSize: 10140
+    offset: 27357224
+    sourceAssetGUID: a742139d7a863af40ad01c0c457ec7f1
+    buildTimeAssetPath: Assets/Textures/PlayButtons/blue-158731_640 - Play.png
+  - fileID: 397
+    classID: 28
+    packedSize: 626416
+    offset: 27367368
+    sourceAssetGUID: a8293bd3379c25947b523c2b4fbfb4be
+    buildTimeAssetPath: Assets/Import/textures/Basement0/calentador.png
+  - fileID: 398
+    classID: 28
+    packedSize: 40228
+    offset: 27993784
+    sourceAssetGUID: a9843e446891afb4ba27ec203f767b9c
+    buildTimeAssetPath: Assets/FBX/basement0Exported/cleaner_bottlz.png
+  - fileID: 399
+    classID: 28
+    packedSize: 158572
+    offset: 28034016
+    sourceAssetGUID: a9c3fb84bda3d4b47a377a35f10cf766
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-7_comp_light.exr
+  - fileID: 400
+    classID: 28
+    packedSize: 158588
+    offset: 28192592
+    sourceAssetGUID: aa3ad26e84fbd3c45b93f2c07da1ac12
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/ACDC - The Razord Edge
+      - (1990) - Front.jpg
+  - fileID: 401
+    classID: 28
+    packedSize: 40256
+    offset: 28351184
+    sourceAssetGUID: ab89d33154c62674999b2014e4a93afa
+    buildTimeAssetPath: Assets/FBX/basement0Exported/Concrete bare dirty texture
+      seamless 01538.png
+  - fileID: 402
+    classID: 28
+    packedSize: 158592
+    offset: 28391440
+    sourceAssetGUID: ac728b6ff288fb542b62a93f38a9577e
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/Warren Zevon - Excitable
+      Boy (1978) - Back.jpg
+  - fileID: 403
+    classID: 28
+    packedSize: 158576
+    offset: 28550032
+    sourceAssetGUID: ad408351d93c44745a9691f21e71d3f4
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/Kraftwerk - Computer World.png
+  - fileID: 404
+    classID: 28
+    packedSize: 158568
+    offset: 28708608
+    sourceAssetGUID: ad471ed7ada740a4cb23df3cc6b0b7ea
+    buildTimeAssetPath: Assets/Import/textures/belt_m_baseColor_9.png
+  - fileID: 405
+    classID: 28
+    packedSize: 158592
+    offset: 28867176
+    sourceAssetGUID: adfe6e15b0d92524097fa7650ec84e35
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/SamwiseAaron - Ideas 8
+      - January 2023 Front.jpg
+  - fileID: 406
+    classID: 28
+    packedSize: 626436
+    offset: 29025768
+    sourceAssetGUID: aeff3a4d32f89b24ca385b4def06b62e
+    buildTimeAssetPath: Assets/Textures/17_-_Default_baseColor_0_glass.png
+  - fileID: 407
+    classID: 28
+    packedSize: 158564
+    offset: 29652208
+    sourceAssetGUID: b247c2491c1dd3a4193c8e70e6d2697c
+    buildTimeAssetPath: Assets/Textures/silent_hill_2_baldwin_study_room_normal/auto_5_baseColor.png
+  - fileID: 408
+    classID: 28
+    packedSize: 699196
+    offset: 29810776
+    sourceAssetGUID: b30d5f55e5f404947a1640f9f0639e5d
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-3_comp_shadowmask.png
+  - fileID: 409
+    classID: 28
+    packedSize: 626420
+    offset: 30509976
+    sourceAssetGUID: b411e0660fcc13643a13b42e5214a437
+    buildTimeAssetPath: Assets/Import/textures/Basement0/biga_escalera.jpg
+  - fileID: 410
+    classID: 28
+    packedSize: 626436
+    offset: 31136400
+    sourceAssetGUID: b4f4400a4f4b85343ab396e4375a30d3
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/B-52s - The B-52s (1979)
+      Back.jpg
+  - fileID: 411
+    classID: 28
+    packedSize: 158572
+    offset: 31762840
+    sourceAssetGUID: b52771e929ec9e24bad1c73c71c886fd
+    buildTimeAssetPath: Assets/Textures/flame_transparent_640.png
+  - fileID: 412
+    classID: 28
+    packedSize: 158592
+    offset: 31921416
+    sourceAssetGUID: b7310cd8d4736674494ebce8d6299630
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/Peter Gabriel - 3 Melting
+      Face (1980) Back.jpg
+  - fileID: 413
+    classID: 28
+    packedSize: 158572
+    offset: 32080008
+    sourceAssetGUID: b75cf78b01f621544a2d77e808e3fb5c
+    buildTimeAssetPath: Assets/Mega Fantasy Props Pack/Textures/wooden-boards-texture_n.png
+  - fileID: 414
+    classID: 28
+    packedSize: 699196
+    offset: 32238584
+    sourceAssetGUID: b90678948ead3f942a80f9544b84187e
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-4_comp_shadowmask.png
+  - fileID: 415
+    classID: 28
+    packedSize: 158588
+    offset: 32937784
+    sourceAssetGUID: b91cb86cf66ae2e47a0e7c38579a1f2e
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/ACDC - The Razord Edge
+      - (1990) - Back.jpg
+  - fileID: 416
+    classID: 28
+    packedSize: 158580
+    offset: 33096376
+    sourceAssetGUID: bc36cfbf64c7ce54da1ba840db862981
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/Kraftwerk - Computer World
+      Back.png
+  - fileID: 417
+    classID: 28
+    packedSize: 158572
+    offset: 33254960
+    sourceAssetGUID: bf122d93289c34a4497812a2e2ee773c
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-10_comp_light.exr
+  - fileID: 418
+    classID: 28
+    packedSize: 699196
+    offset: 33413536
+    sourceAssetGUID: c1c1bf1151b2e6e4ca62ee64d323816c
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-6_comp_shadowmask.png
+  - fileID: 419
+    classID: 28
+    packedSize: 158572
+    offset: 34112736
+    sourceAssetGUID: c2258fe45f48b5d4fbbc94468e9a57d5
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-5_comp_light.exr
+  - fileID: 420
+    classID: 28
+    packedSize: 20668
+    offset: 34271312
+    sourceAssetGUID: c39970c1726977c48ba8cb2e24ead039
+    buildTimeAssetPath: Assets/Textures/game-number-2518747_640.png
+  - fileID: 421
+    classID: 28
+    packedSize: 40224
+    offset: 34291984
+    sourceAssetGUID: c683e19be0f782645964be5173d162dc
+    buildTimeAssetPath: Assets/FBX/basement0Exported/spade_2586.png
+  - fileID: 422
+    classID: 28
+    packedSize: 158584
+    offset: 34332208
+    sourceAssetGUID: c805ff4811186174eae4afbc3c1b4cf7
+    buildTimeAssetPath: Assets/Textures/pattern-MetalPatternGrateBlueNormal.jpg
+  - fileID: 423
+    classID: 28
+    packedSize: 315120
+    offset: 34490792
+    sourceAssetGUID: cb42c235f4d888545816b7ebb4729328
+    buildTimeAssetPath: Assets/Textures/FlatSurfaces/BrickWall.jpg
+  - fileID: 424
+    classID: 28
+    packedSize: 20664
+    offset: 34805912
+    sourceAssetGUID: d0a980bf06e9e7d4dae18a251a4d3eab
+    buildTimeAssetPath: Assets/FBX/basement0Exported/box_fithered_256px.png
+  - fileID: 425
+    classID: 28
+    packedSize: 40232
+    offset: 34826576
+    sourceAssetGUID: d12534674685b9943a1699b7a5a4dce6
+    buildTimeAssetPath: Assets/FBX/basement0Exported/SkinlessHuman_LowRes.png
+  - fileID: 426
+    classID: 28
+    packedSize: 158572
+    offset: 34866808
+    sourceAssetGUID: d1c5d20e80169274e9181f7a26f4eb72
+    buildTimeAssetPath: Assets/Mega Fantasy Props Pack/Textures/wooden-boards-texture_o.png
+  - fileID: 427
+    classID: 28
+    packedSize: 158592
+    offset: 35025384
+    sourceAssetGUID: d345c57cc4497fe4aa65971c60542bb1
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/Warren Zevon - Excitable
+      Boy (1978) - Front.jpg
+  - fileID: 428
+    classID: 28
+    packedSize: 10144
+    offset: 35183976
+    sourceAssetGUID: d43054641f081b94ba5bb647a2467f60
+    buildTimeAssetPath: Assets/Textures/PlayButtons/blue-158731_640 - Forward.png
+  - fileID: 429
+    classID: 28
+    packedSize: 128
+    offset: 35194120
+    sourceAssetGUID: d8a7948bc83b01f45ab5078c10dd8e04
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/Fonts/Lato-Bold.ttf
+  - fileID: 430
+    classID: 28
+    packedSize: 158584
+    offset: 35194248
+    sourceAssetGUID: d8c9924445f7bdb4aa69d50865ead92d
+    buildTimeAssetPath: Assets/Import/textures/boots_m_metallicRoughness_7_metal.png
+  - fileID: 431
+    classID: 28
+    packedSize: 158580
+    offset: 35352832
+    sourceAssetGUID: db03557de3d48284f87ffc88070fbf8b
+    buildTimeAssetPath: Assets/FBX/basement0Exported/wet-vacuum-cleaner-1000x1000-2.png
+  - fileID: 432
+    classID: 28
+    packedSize: 158556
+    offset: 35511416
+    sourceAssetGUID: db249f86694c46a44b21056adda1a515
+    buildTimeAssetPath: Assets/Mega Fantasy Props Pack/Textures/canvas_o.png
+  - fileID: 433
+    classID: 28
+    packedSize: 468008
+    offset: 35669976
+    sourceAssetGUID: dd5235a6c8cdfc14396997b7c21e7b26
+    buildTimeAssetPath: Assets/Textures/19_-_Default_baseColor_1_glassSprite.png
+  - fileID: 434
+    classID: 28
+    packedSize: 699196
+    offset: 36137984
+    sourceAssetGUID: de19e003a88eef4419854a623efc2a13
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-7_comp_shadowmask.png
+  - fileID: 435
+    classID: 28
+    packedSize: 158568
+    offset: 36837184
+    sourceAssetGUID: dfc26cd55c6563844b932594696890b0
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-12_comp_dir.png
+  - fileID: 436
+    classID: 28
+    packedSize: 158564
+    offset: 36995752
+    sourceAssetGUID: e143149787f017645857fc7217e3b1c0
+    buildTimeAssetPath: Assets/Textures/silent_hill_2_baldwin_study_room_normal/auto_6_baseColor.png
+  - fileID: 437
+    classID: 28
+    packedSize: 40244
+    offset: 37154320
+    sourceAssetGUID: e19fecb805ef64346b956b69ab1b6260
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/Beatles - Revolver - (1966)
+      Back.jpg
+  - fileID: 438
+    classID: 28
+    packedSize: 158564
+    offset: 37194568
+    sourceAssetGUID: e20d9f9a0b352074a933f3eb0f7fa8bb
+    buildTimeAssetPath: Assets/Textures/silent_hill_2_baldwin_study_room_normal/auto_3_baseColor.png
+  - fileID: 439
+    classID: 28
+    packedSize: 158564
+    offset: 37353136
+    sourceAssetGUID: e231e4c02c48ee14aafa55f7b1a843c1
+    buildTimeAssetPath: Assets/ExampleAssets/Textures/Drywall/Drywall_Normal.tif
+  - fileID: 440
+    classID: 28
+    packedSize: 128
+    offset: 37511704
+    sourceAssetGUID: e3265ab4bf004d28a9537516768c1c75
+    buildTimeAssetPath: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  - fileID: 441
+    classID: 28
+    packedSize: 626412
+    offset: 37511832
+    sourceAssetGUID: e5f03b7400922d040bed687a4704153b
+    buildTimeAssetPath: Assets/Import/textures/Basement0/galon.png
+  - fileID: 442
+    classID: 28
+    packedSize: 626420
+    offset: 38138248
+    sourceAssetGUID: e62a10b6cdd6cb241a51ac73e3e7bb20
+    buildTimeAssetPath: Assets/Import/textures/Basement0/base_patas_pia.jpg
+  - fileID: 443
+    classID: 28
+    packedSize: 158584
+    offset: 38764672
+    sourceAssetGUID: e68ba04cfb95bc644b6f28d84d222f6a
+    buildTimeAssetPath: Assets/Textures/cobblestone_wall_1_fixed_m Samwise.png
+  - fileID: 444
+    classID: 28
+    packedSize: 158568
+    offset: 38923256
+    sourceAssetGUID: e8b7a73e96830974a827752cd9f94d10
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-0_comp_dir.png
+  - fileID: 445
+    classID: 28
+    packedSize: 158564
+    offset: 39081824
+    sourceAssetGUID: eae496078d11426448124eaf8b285e6b
+    buildTimeAssetPath: Assets/ExampleAssets/Textures/Drywall/Drywall_Albedo.tif
+  - fileID: 446
+    classID: 28
+    packedSize: 40216
+    offset: 39240392
+    sourceAssetGUID: ebb848117d3e29e449b203bbe4dc84b0
+    buildTimeAssetPath: Assets/FBX/basement0Exported/can2.png
+  - fileID: 447
+    classID: 28
+    packedSize: 626420
+    offset: 39280608
+    sourceAssetGUID: ec4f0c08c1c9a51408ebcd9754c67bef
+    buildTimeAssetPath: Assets/Import/textures/Basement0/botella_larga.jpg
+  - fileID: 448
+    classID: 28
+    packedSize: 158572
+    offset: 39907032
+    sourceAssetGUID: edb8d64c1f9b07d41bf3cbf1e7d92cd0
+    buildTimeAssetPath: Assets/Textures/silver_1_fixed_o_samwise.png
+  - fileID: 449
+    classID: 28
+    packedSize: 626424
+    offset: 40065608
+    sourceAssetGUID: ee46adea5ee0523439d6aa77717f6776
+    buildTimeAssetPath: Assets/Import/textures/Basement0/soporte_techo_horiz.png
+  - fileID: 450
+    classID: 28
+    packedSize: 158572
+    offset: 40692032
+    sourceAssetGUID: f09457c64807ac74e8da71e4e6763753
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-1_comp_light.exr
+  - fileID: 451
+    classID: 28
+    packedSize: 158568
+    offset: 40850608
+    sourceAssetGUID: f27c1f84da94a2b47be0b5a5e337e096
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-5_comp_dir.png
+  - fileID: 452
+    classID: 28
+    packedSize: 79824
+    offset: 41009176
+    sourceAssetGUID: f419a4dbe40d461409404cfd71624a76
+    buildTimeAssetPath: Assets/FBX/basement0Exported/waterpipe.png
+  - fileID: 453
+    classID: 28
+    packedSize: 626412
+    offset: 41089000
+    sourceAssetGUID: f47c6295aa4d2d047901ca1c887a4940
+    buildTimeAssetPath: Assets/Import/textures/Basement0/columna1.png
+  - fileID: 454
+    classID: 28
+    packedSize: 40240
+    offset: 41715416
+    sourceAssetGUID: f763c827754d61f4ba4989acafff95e1
+    buildTimeAssetPath: Assets/FBX/basement0Exported/Rusty metallic_stairs_256.png
+  - fileID: 455
+    classID: 28
+    packedSize: 79828
+    offset: 41755656
+    sourceAssetGUID: f88677df267a41d6be1e7a6133e7d227
+    buildTimeAssetPath: Assets/TextMesh Pro/Examples & Extras/Textures/Brushed Metal
+      3.jpg
+  - fileID: 456
+    classID: 28
+    packedSize: 699196
+    offset: 41835488
+    sourceAssetGUID: f966016fa031a2f418b519840654f885
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-2_comp_shadowmask.png
+  - fileID: 457
+    classID: 28
+    packedSize: 79868
+    offset: 42534688
+    sourceAssetGUID: fa5c17a085337a04394f387f91ed9f47
+    buildTimeAssetPath: Assets/FBX/basement0Exported/spray-paint-can-4k-and-2k-textures-3d-model-39e7bb0537.jpg
+  - fileID: 458
+    classID: 28
+    packedSize: 158564
+    offset: 42614560
+    sourceAssetGUID: fabe82a4d869b3f4dbc1537843deb0d5
+    buildTimeAssetPath: Assets/Textures/silent_hill_2_baldwin_study_room_normal/auto_4_baseColor.png
+  - fileID: 459
+    classID: 28
+    packedSize: 699196
+    offset: 42773128
+    sourceAssetGUID: fb7a382dc27113f40b03e0e904122542
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/Lightmap-11_comp_shadowmask.png
+  - fileID: 460
+    classID: 28
+    packedSize: 158580
+    offset: 43472328
+    sourceAssetGUID: fbd42b033fc42f1409fe45a8337c4798
+    buildTimeAssetPath: Assets/Textures/Art & Album Covers/B-52s - The B-52s (1979)
+      Front.jpg
+  - fileID: 461
+    classID: 28
+    packedSize: 158552
+    offset: 43630912
+    sourceAssetGUID: fd75d4089fe459b4dbb3c0ddd9219fb1
+    buildTimeAssetPath: Assets/FBX/basement0Exported/hkhj.png
+  - fileID: 462
+    classID: 28
+    packedSize: 158564
+    offset: 43789464
+    sourceAssetGUID: fe5dd5b3bb9fafe4b865e39507341cfe
+    buildTimeAssetPath: Assets/Import/textures/skin_m_normal_14.png
+  - fileID: 463
+    classID: 28
+    packedSize: 854004
+    offset: 43948032
+    sourceAssetGUID: feedbdce6b1b293419815cbab6b7818c
+    buildTimeAssetPath: Assets/Textures/button-149480_1280.png
+  - fileID: 464
+    classID: 28
+    packedSize: 40216
+    offset: 44802040
+    sourceAssetGUID: ff7bca40865984249b944dc71984702e
+    buildTimeAssetPath: Assets/FBX/basement0Exported/can3.png
+  - fileID: 465
+    classID: 28
+    packedSize: 2072
+    offset: 44842256
+    sourceAssetGUID: ffb07229ea989cf4587e9b54a0ec625b
+    buildTimeAssetPath: Assets/ArchiTechAnon/ProTV/UI/Retro/Retro_Button_pushed.png
+  - fileID: 466
+    classID: 28
+    packedSize: 262284
+    offset: 44844328
+    sourceAssetGUID: 2e498d1c8094910479dc3e1b768306a4
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF - Fallback.asset
+  - fileID: 467
+    classID: 28
+    packedSize: 1048716
+    offset: 45106616
+    sourceAssetGUID: 8f586378b4e144a9851e7b34d9b748ee
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF.asset
+  - fileID: 468
+    classID: 43
+    packedSize: 17532
+    offset: 46155336
+    sourceAssetGUID: 2807ee06db17b824f95e47496f494ffe
+    buildTimeAssetPath: Assets/FBX/BasementPiano.fbx
+  - fileID: 469
+    classID: 43
+    packedSize: 5748
+    offset: 46172872
+    sourceAssetGUID: d60309966d45ca3408c73d40283230f6
+    buildTimeAssetPath: Assets/FBX/rabbits-set-david-lynch.fbx
+  - fileID: 470
+    classID: 43
+    packedSize: 580
+    offset: 46178624
+    sourceAssetGUID: d60309966d45ca3408c73d40283230f6
+    buildTimeAssetPath: Assets/FBX/rabbits-set-david-lynch.fbx
+  - fileID: 471
+    classID: 43
+    packedSize: 110868
+    offset: 46179208
+    sourceAssetGUID: b436850f79586464baf0a0cdf542a1ba
+    buildTimeAssetPath: Assets/Models/silent_hill_2_baldwin_study_room_normal.fbx
+  - fileID: 472
+    classID: 43
+    packedSize: 684
+    offset: 46290080
+    sourceAssetGUID: b436850f79586464baf0a0cdf542a1ba
+    buildTimeAssetPath: Assets/Models/silent_hill_2_baldwin_study_room_normal.fbx
+  - fileID: 473
+    classID: 43
+    packedSize: 59260
+    offset: 46290768
+    sourceAssetGUID: 1dea77366a4b571489486c05389e8d02
+    buildTimeAssetPath: Assets/FBX/ConferenceRoom1.fbx
+  - fileID: 474
+    classID: 43
+    packedSize: 5320
+    offset: 46350032
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 475
+    classID: 43
+    packedSize: 14064
+    offset: 46355352
+    sourceAssetGUID: b436850f79586464baf0a0cdf542a1ba
+    buildTimeAssetPath: Assets/Models/silent_hill_2_baldwin_study_room_normal.fbx
+  - fileID: 476
+    classID: 43
+    packedSize: 38720
+    offset: 46369416
+    sourceAssetGUID: 9adef299049900345899ced550c04604
+    buildTimeAssetPath: Assets/Blender/basement0Exported.fbx
+  - fileID: 477
+    classID: 43
+    packedSize: 78768
+    offset: 46408136
+    sourceAssetGUID: c93f145faa93b224a869cd50eb6b172e
+    buildTimeAssetPath: Assets/Blender/basement.blend
+  - fileID: 478
+    classID: 43
+    packedSize: 584
+    offset: 46486904
+    sourceAssetGUID: d60309966d45ca3408c73d40283230f6
+    buildTimeAssetPath: Assets/FBX/rabbits-set-david-lynch.fbx
+  - fileID: 479
+    classID: 43
+    packedSize: 416
+    offset: 46487488
+    sourceAssetGUID: b436850f79586464baf0a0cdf542a1ba
+    buildTimeAssetPath: Assets/Models/silent_hill_2_baldwin_study_room_normal.fbx
+  - fileID: 480
+    classID: 43
+    packedSize: 3156
+    offset: 46487904
+    sourceAssetGUID: 2807ee06db17b824f95e47496f494ffe
+    buildTimeAssetPath: Assets/FBX/BasementPiano.fbx
+  - fileID: 481
+    classID: 43
+    packedSize: 939028
+    offset: 46491064
+    sourceAssetGUID: b436850f79586464baf0a0cdf542a1ba
+    buildTimeAssetPath: Assets/Models/silent_hill_2_baldwin_study_room_normal.fbx
+  - fileID: 482
+    classID: 43
+    packedSize: 16228
+    offset: 47430096
+    sourceAssetGUID: b436850f79586464baf0a0cdf542a1ba
+    buildTimeAssetPath: Assets/Models/silent_hill_2_baldwin_study_room_normal.fbx
+  - fileID: 483
+    classID: 43
+    packedSize: 29996
+    offset: 47446328
+    sourceAssetGUID: 907c49663c6af524282b0e0c6c7d354a
+    buildTimeAssetPath: Assets/Import/Switches_And_Plugs/meshes/Object_18_18_0.asset
+  - fileID: 484
+    classID: 43
+    packedSize: 848
+    offset: 47476328
+    sourceAssetGUID: c53dff067cde55648ad0e42d6378c0d2
+    buildTimeAssetPath: Assets/Import/Switches_And_Plugs/meshes/Object_19_19_0.asset
+  - fileID: 485
+    classID: 43
+    packedSize: 262280
+    offset: 47477176
+    sourceAssetGUID: d83545630775247458c98b13158d37d2
+    buildTimeAssetPath: Assets/Import/Switches_And_Plugs/meshes/Object_20_20_0.asset
+  - fileID: 486
+    classID: 43
+    packedSize: 60016
+    offset: 47739456
+    sourceAssetGUID: 60a6177d750a3f3408271bd7d22678b5
+    buildTimeAssetPath: Assets/Import/bulb_with_light/meshes/Object_0_0_0.asset
+  - fileID: 487
+    classID: 43
+    packedSize: 37708
+    offset: 47799472
+    sourceAssetGUID: 010c0bafc65c58848ba497442b83a685
+    buildTimeAssetPath: Assets/Import/bulb_with_light/meshes/Object_1_1_0.asset
+  - fileID: 488
+    classID: 43
+    packedSize: 14868
+    offset: 47837184
+    sourceAssetGUID: 8146fe21555bc3a468964633c92fadac
+    buildTimeAssetPath: Assets/Import/meshes/Palace Guard_belt_m_0_3_0.asset
+  - fileID: 489
+    classID: 43
+    packedSize: 37988
+    offset: 47852056
+    sourceAssetGUID: 9c5e5e03b67999e4099b2ea14af8d3c0
+    buildTimeAssetPath: Assets/Import/meshes/Palace Guard_boots_m_0_2_0.asset
+  - fileID: 490
+    classID: 43
+    packedSize: 156868
+    offset: 47890048
+    sourceAssetGUID: 2e43c1eff5f22e94c8186547154bdc55
+    buildTimeAssetPath: Assets/Import/meshes/Palace Guard_coat_m_0_0_0.asset
+  - fileID: 491
+    classID: 43
+    packedSize: 18428
+    offset: 48046920
+    sourceAssetGUID: bc37a4d70eb6aa147b222270f442be1f
+    buildTimeAssetPath: Assets/Import/meshes/Palace Guard_pants_m_0_1_0.asset
+  - fileID: 492
+    classID: 43
+    packedSize: 303116
+    offset: 48065352
+    sourceAssetGUID: b0e31be8489cfc84e93c5fa6fc95119d
+    buildTimeAssetPath: Assets/Import/meshes/Palace Guard_skin_m_0_4_0.asset
+  - fileID: 493
+    classID: 43
+    packedSize: 140260
+    offset: 48368472
+    sourceAssetGUID: ae9a2d249967d6748b5d25197bf8c73e
+    buildTimeAssetPath: Assets/Import/meshes/cup__0_0_0.asset
+  - fileID: 494
+    classID: 43
+    packedSize: 59036
+    offset: 48508736
+    sourceAssetGUID: 9f4d87c84fd960a47b83415c27af8789
+    buildTimeAssetPath: Assets/Mesh/Torch-Flashlight - body_low_02 - Default_0 -
+      Extracted.mesh
+  - fileID: 495
+    classID: 43
+    packedSize: 5448
+    offset: 48567776
+    sourceAssetGUID: 3d471643500ebe94ba0fda0cdcbfc1af
+    buildTimeAssetPath: Assets/Meshes/pianoBenchLegs.mesh
+  - fileID: 496
+    classID: 43
+    packedSize: 1256
+    offset: 48573224
+    sourceAssetGUID: 5e2af727ca6615642a1991d22e7445eb
+    buildTimeAssetPath: Assets/Meshes/pianoBenchSeat.mesh
+  - fileID: 497
+    classID: 43
+    packedSize: 105544
+    offset: 48574480
+    sourceAssetGUID: b436850f79586464baf0a0cdf542a1ba
+    buildTimeAssetPath: Assets/Models/silent_hill_2_baldwin_study_room_normal.fbx
+  - fileID: 498
+    classID: 43
+    packedSize: 5988
+    offset: 48680024
+    sourceAssetGUID: c93f145faa93b224a869cd50eb6b172e
+    buildTimeAssetPath: Assets/Blender/basement.blend
+  - fileID: 499
+    classID: 43
+    packedSize: 676
+    offset: 48686016
+    sourceAssetGUID: b436850f79586464baf0a0cdf542a1ba
+    buildTimeAssetPath: Assets/Models/silent_hill_2_baldwin_study_room_normal.fbx
+  - fileID: 500
+    classID: 43
+    packedSize: 584
+    offset: 48686696
+    sourceAssetGUID: d60309966d45ca3408c73d40283230f6
+    buildTimeAssetPath: Assets/FBX/rabbits-set-david-lynch.fbx
+  - fileID: 501
+    classID: 43
+    packedSize: 101952
+    offset: 48687280
+    sourceAssetGUID: 2807ee06db17b824f95e47496f494ffe
+    buildTimeAssetPath: Assets/FBX/BasementPiano.fbx
+  - fileID: 502
+    classID: 43
+    packedSize: 604
+    offset: 48789232
+    sourceAssetGUID: 2807ee06db17b824f95e47496f494ffe
+    buildTimeAssetPath: Assets/FBX/BasementPiano.fbx
+  - fileID: 503
+    classID: 43
+    packedSize: 27092
+    offset: 48789840
+    sourceAssetGUID: b436850f79586464baf0a0cdf542a1ba
+    buildTimeAssetPath: Assets/Models/silent_hill_2_baldwin_study_room_normal.fbx
+  - fileID: 504
+    classID: 43
+    packedSize: 17108
+    offset: 48816936
+    sourceAssetGUID: b436850f79586464baf0a0cdf542a1ba
+    buildTimeAssetPath: Assets/Models/silent_hill_2_baldwin_study_room_normal.fbx
+  - fileID: 505
+    classID: 43
+    packedSize: 584
+    offset: 48834048
+    sourceAssetGUID: d60309966d45ca3408c73d40283230f6
+    buildTimeAssetPath: Assets/FBX/rabbits-set-david-lynch.fbx
+  - fileID: 506
+    classID: 43
+    packedSize: 240772
+    offset: 48834632
+    sourceAssetGUID: b436850f79586464baf0a0cdf542a1ba
+    buildTimeAssetPath: Assets/Models/silent_hill_2_baldwin_study_room_normal.fbx
+  - fileID: 507
+    classID: 43
+    packedSize: 58740
+    offset: 49075408
+    sourceAssetGUID: b436850f79586464baf0a0cdf542a1ba
+    buildTimeAssetPath: Assets/Models/silent_hill_2_baldwin_study_room_normal.fbx
+  - fileID: 508
+    classID: 43
+    packedSize: 404
+    offset: 49134152
+    sourceAssetGUID: 2b3d07e2339de5044928d2e406ee272e
+    buildTimeAssetPath: Assets/FBX/modern-scandinavian-kitchen-island.fbx
+  - fileID: 509
+    classID: 43
+    packedSize: 4636
+    offset: 49134560
+    sourceAssetGUID: c93f145faa93b224a869cd50eb6b172e
+    buildTimeAssetPath: Assets/Blender/basement.blend
+  - fileID: 510
+    classID: 43
+    packedSize: 7632
+    offset: 49139200
+    sourceAssetGUID: c93f145faa93b224a869cd50eb6b172e
+    buildTimeAssetPath: Assets/Blender/basement.blend
+  - fileID: 511
+    classID: 43
+    packedSize: 1524
+    offset: 49146832
+    sourceAssetGUID: 2807ee06db17b824f95e47496f494ffe
+    buildTimeAssetPath: Assets/FBX/BasementPiano.fbx
+  - fileID: 512
+    classID: 43
+    packedSize: 203664
+    offset: 49148360
+    sourceAssetGUID: c93f145faa93b224a869cd50eb6b172e
+    buildTimeAssetPath: Assets/Blender/basement.blend
+  - fileID: 513
+    classID: 43
+    packedSize: 1884
+    offset: 49352024
+    sourceAssetGUID: 2807ee06db17b824f95e47496f494ffe
+    buildTimeAssetPath: Assets/FBX/BasementPiano.fbx
+  - fileID: 514
+    classID: 48
+    packedSize: 23372
+    offset: 49353912
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 515
+    classID: 48
+    packedSize: 38448
+    offset: 49377288
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 516
+    classID: 48
+    packedSize: 18932
+    offset: 49415736
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 517
+    classID: 48
+    packedSize: 207332
+    offset: 49434672
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 518
+    classID: 48
+    packedSize: 1929468
+    offset: 49642008
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 519
+    classID: 48
+    packedSize: 164820
+    offset: 51571480
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 520
+    classID: 48
+    packedSize: 6328
+    offset: 51736304
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 521
+    classID: 48
+    packedSize: 863704
+    offset: 51742632
+    sourceAssetGUID: 0b7113dea2069fc4e8943843eff19f70
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Shaders/Mobile/VRChat-Mobile-StandardLite.shader
+  - fileID: 522
+    classID: 48
+    packedSize: 9660
+    offset: 52606336
+    sourceAssetGUID: 2dcd9e0568e0a6f45b92c60ba2eb16a0
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Shaders/Mobile/VRChat-Mobile-Diffuse.shader
+  - fileID: 523
+    classID: 48
+    packedSize: 7236
+    offset: 52616000
+    sourceAssetGUID: 44c1b7c3827912f45b473dbe106c1ecf
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Shaders/Mobile/VRChat-Mobile-SupersampledUnlit.shader
+  - fileID: 524
+    classID: 48
+    packedSize: 4716
+    offset: 52623240
+    sourceAssetGUID: 693137b858e4dc64c83be531351f45e6
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Shaders/Mirror.shader
+  - fileID: 525
+    classID: 48
+    packedSize: 6064
+    offset: 52627960
+    sourceAssetGUID: 86d8eb0815b7371488af356039443e4d
+    buildTimeAssetPath: Packages/com.llealloo.audiolink/Runtime/Shaders/AudioLinkMiniPlayerOut.shader
+  - fileID: 526
+    classID: 48
+    packedSize: 4516
+    offset: 52634024
+    sourceAssetGUID: 8b39b95ac85682040beff730e0cfc77a
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Shaders/Mobile/VRChat-Mobile-Particle-Alpha.shader
+  - fileID: 527
+    classID: 48
+    packedSize: 4508
+    offset: 52638544
+    sourceAssetGUID: 9200bec112b65ec4fbbbd33fa89c20f4
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Shaders/Mobile/VRChat-Mobile-Particle-Add.shader
+  - fileID: 528
+    classID: 48
+    packedSize: 247356
+    offset: 52643056
+    sourceAssetGUID: 9788d723ed7eac946a9a599e4a6ba940
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Shaders/Video-RealtimeEmissiveGamma.shader
+  - fileID: 529
+    classID: 48
+    packedSize: 47000
+    offset: 52890416
+    sourceAssetGUID: 9ae8ad653e1d98940bbc79866b9170f3
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Shaders/VRChat-Sprites-Diffuse.shader
+  - fileID: 530
+    classID: 48
+    packedSize: 4476
+    offset: 52937416
+    sourceAssetGUID: c0d3cb006bb294142bef136f492f2568
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Sample Assets/Shaders/Mobile/VRChat-Mobile-Skybox.shader
+  - fileID: 531
+    classID: 48
+    packedSize: 15416
+    offset: 52941896
+    sourceAssetGUID: fe393ace9b354375a9cb14cdbbc28be4
+    buildTimeAssetPath: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+  - fileID: 532
+    classID: 74
+    packedSize: 2584
+    offset: 52957312
+    sourceAssetGUID: 2fb6fdf84bd40974284f38ba9c679fa8
+    buildTimeAssetPath: Assets/Animations/AdjustPositionHide.anim
+  - fileID: 533
+    classID: 74
+    packedSize: 2364
+    offset: 52959896
+    sourceAssetGUID: 8e844629ec57f784d9faac2913bbcf2a
+    buildTimeAssetPath: Assets/Animations/AdjustPositionInitial.anim
+  - fileID: 534
+    classID: 74
+    packedSize: 2584
+    offset: 52962264
+    sourceAssetGUID: a744a7d951974b54c817ce9bfec47be9
+    buildTimeAssetPath: Assets/Animations/AdjustPositionShow.anim
+  - fileID: 535
+    classID: 74
+    packedSize: 2516
+    offset: 52964848
+    sourceAssetGUID: c2a118caf37c57746a1ecea91c24caa1
+    buildTimeAssetPath: Assets/Animations/AnimateVerticleAscend.anim
+  - fileID: 536
+    classID: 74
+    packedSize: 2516
+    offset: 52967368
+    sourceAssetGUID: bd0e5b4224adedb4d97ac57129ce9948
+    buildTimeAssetPath: Assets/Animations/AnimateVerticleDescend.anim
+  - fileID: 537
+    classID: 74
+    packedSize: 2988
+    offset: 52969888
+    sourceAssetGUID: e950fb2234424cb43b95490e77ba9400
+    buildTimeAssetPath: Assets/Animations/BodyMoveForwardAndFlyUp.anim
+  - fileID: 538
+    classID: 74
+    packedSize: 2320
+    offset: 52972880
+    sourceAssetGUID: 1594bc77a97c143448cfe0790210c8af
+    buildTimeAssetPath: Assets/Animations/DollyTrackBackToOneB.anim
+  - fileID: 539
+    classID: 74
+    packedSize: 2320
+    offset: 52975200
+    sourceAssetGUID: f624faff9b7973b408f22d5534e6f9fb
+    buildTimeAssetPath: Assets/Animations/DollyTrackBackToOneF.anim
+  - fileID: 540
+    classID: 74
+    packedSize: 2512
+    offset: 52977520
+    sourceAssetGUID: 967cae5d24991ea49b3d67f4abc9dea8
+    buildTimeAssetPath: Assets/Animations/DollyTrackBackward.anim
+  - fileID: 541
+    classID: 74
+    packedSize: 2512
+    offset: 52980032
+    sourceAssetGUID: 02f945fdee1e61e4687fab5519a680b4
+    buildTimeAssetPath: Assets/Animations/DollyTrackForward.anim
+  - fileID: 542
+    classID: 74
+    packedSize: 2504
+    offset: 52982544
+    sourceAssetGUID: cfa67b232669cc44fa3f46039706b71e
+    buildTimeAssetPath: Assets/Animations/EjectAlbum.anim
+  - fileID: 543
+    classID: 74
+    packedSize: 2508
+    offset: 52985048
+    sourceAssetGUID: f97fb5820a9d5574b8840ea849d96e97
+    buildTimeAssetPath: Assets/Animations/FourthWallClose.anim
+  - fileID: 544
+    classID: 74
+    packedSize: 2508
+    offset: 52987560
+    sourceAssetGUID: 02613c6d4fb3ccb4aa80bc2ad5c8d248
+    buildTimeAssetPath: Assets/Animations/FourthWallOpen.anim
+  - fileID: 545
+    classID: 74
+    packedSize: 2504
+    offset: 52990072
+    sourceAssetGUID: bcb9d0ee2ab3d7c4886d61a1e7aa6ba4
+    buildTimeAssetPath: Assets/Animations/ResetEject.anim
+  - fileID: 546
+    classID: 74
+    packedSize: 2504
+    offset: 52992576
+    sourceAssetGUID: 4c0a79158b7148f42a38d53e3d138a12
+    buildTimeAssetPath: Assets/Animations/SlideBack.anim
+  - fileID: 547
+    classID: 74
+    packedSize: 2504
+    offset: 52995080
+    sourceAssetGUID: 08372475ccfbc6e44a7f1032728cbe2e
+    buildTimeAssetPath: Assets/Animations/SlideForward.anim
+  - fileID: 548
+    classID: 74
+    packedSize: 2756
+    offset: 52997584
+    sourceAssetGUID: 670afc0b6f65b5a4ebbb6c675dbc0857
+    buildTimeAssetPath: Assets/Animations/TeleportAreaAnimation.anim
+  - fileID: 549
+    classID: 83
+    packedSize: 192
+    offset: 53000344
+    sourceAssetGUID: 0370725b4822d534c98eaf9789c3c7ea
+    buildTimeAssetPath: Assets/Sounds/253786__reitanna__glitchy-ruffle.wav
+  - fileID: 550
+    classID: 83
+    packedSize: 196
+    offset: 53000536
+    sourceAssetGUID: 064b81677efcd8e4a9797166a49cc21a
+    buildTimeAssetPath: Assets/Sounds/audio/Samwise Aaron/Samwise Aaron - Reflections
+      - 30 sec.mp3
+  - fileID: 551
+    classID: 83
+    packedSize: 192
+    offset: 53000736
+    sourceAssetGUID: 30d35463d6332c340b76e044d8d301e4
+    buildTimeAssetPath: Assets/Sounds/audio/Peter Gabriel/Peter Gabriel - Intruder
+      30 Sec.mp3
+  - fileID: 552
+    classID: 83
+    packedSize: 192
+    offset: 53000928
+    sourceAssetGUID: 345c38b551bd9004db1feb58d710c1c0
+    buildTimeAssetPath: Assets/Sounds/Household/58452__sinatra314__chairscrape4.wav
+  - fileID: 553
+    classID: 83
+    packedSize: 192
+    offset: 53001120
+    sourceAssetGUID: 3a1cd7bf7970f004a97b9eea8f97e57c
+    buildTimeAssetPath: Assets/Sounds/Household/325585__cbenci__sliding-noise-v2.ogg
+  - fileID: 554
+    classID: 83
+    packedSize: 192
+    offset: 53001312
+    sourceAssetGUID: 44879eaa59b042c4894ad5d2d6a69c09
+    buildTimeAssetPath: Assets/Sounds/audio/Adrian Belew/Adrian Belew - Oh Daddy
+      30 Sec.mp3
+  - fileID: 555
+    classID: 83
+    packedSize: 208
+    offset: 53001504
+    sourceAssetGUID: 4efd447eeef031149a442eb4d6e0a100
+    buildTimeAssetPath: Assets/Sounds/audio/WarrenZevon/Warren Zevon - Johnny Strikes
+      up the Band 30 Sec.mp3
+  - fileID: 556
+    classID: 83
+    packedSize: 196
+    offset: 53001712
+    sourceAssetGUID: 57f4ca08b6cfa85439699dc4cde9904a
+    buildTimeAssetPath: Assets/Sounds/588242__magnuswaker__laser-charge-up.wav
+  - fileID: 557
+    classID: 83
+    packedSize: 228
+    offset: 53001912
+    sourceAssetGUID: 59a079df586d60f4a933db169ab9eeec
+    buildTimeAssetPath: Assets/Sounds/540040__newlocknew__otherworld-industrial-ambience_1-35lrsmltprcssng.wav
+  - fileID: 558
+    classID: 83
+    packedSize: 204
+    offset: 53002144
+    sourceAssetGUID: 61f84fb2d15c3a34bb0a29f7bb4b774f
+    buildTimeAssetPath: Assets/Sounds/audio/ACDC/ACDC - Thunderstruck (Official Video)
+      30 Sec.mp3
+  - fileID: 559
+    classID: 83
+    packedSize: 192
+    offset: 53002352
+    sourceAssetGUID: 6a2cc3df305909b4d8dcaf5a4b52f097
+    buildTimeAssetPath: Assets/Sounds/588241__magnuswaker__calm-sine.wav
+  - fileID: 560
+    classID: 83
+    packedSize: 204
+    offset: 53002544
+    sourceAssetGUID: 6baa383659ad41640a0db93c952e5cef
+    buildTimeAssetPath: Assets/Sounds/Household/144291__dwoboyle__light_switch-0004-on-02.wav
+  - fileID: 561
+    classID: 83
+    packedSize: 188
+    offset: 53002752
+    sourceAssetGUID: 6dfc9091e527e2d4ca9cb0f2b2c2b603
+    buildTimeAssetPath: Assets/Sounds/64447__nicstage__cameraclose.wav
+  - fileID: 562
+    classID: 83
+    packedSize: 196
+    offset: 53002944
+    sourceAssetGUID: 70d1b6b24e5af2643878109830a7557b
+    buildTimeAssetPath: Assets/Sounds/239594__xtrgamr__unimpressedyay-01.wav
+  - fileID: 563
+    classID: 83
+    packedSize: 208
+    offset: 53003144
+    sourceAssetGUID: 8ba9c6d5f8fca32409a3cca88e9c0b80
+    buildTimeAssetPath: Assets/Sounds/audio/Jethro Tull/Jethro Tull  Songs From The
+      Wood  (1977) 30 Sec.mp3
+  - fileID: 564
+    classID: 83
+    packedSize: 200
+    offset: 53003352
+    sourceAssetGUID: 954e038ed761aff459acfa8c52c58250
+    buildTimeAssetPath: Assets/Sounds/167329__willy-ineedthatapp-com__droplet4.ogg
+  - fileID: 565
+    classID: 83
+    packedSize: 192
+    offset: 53003552
+    sourceAssetGUID: a346daaf06d473541a17a0914d1c2396
+    buildTimeAssetPath: Assets/Sounds/341341__jtuttle__rubberband-1.wav
+  - fileID: 566
+    classID: 83
+    packedSize: 232
+    offset: 53003744
+    sourceAssetGUID: aa3a152edbd049a41b5605c80ccabaa1
+    buildTimeAssetPath: Assets/Sounds/Weapons/699940_artninja_best_custom_sword_hit_w_ringouts_25_12262022_shortened.mp3
+  - fileID: 567
+    classID: 83
+    packedSize: 208
+    offset: 53003976
+    sourceAssetGUID: adfbd4659eb26074dbd70c6f1e59e297
+    buildTimeAssetPath: Assets/Sounds/105364__chimerical__mic-feedback-fx-short-mid.wav
+  - fileID: 568
+    classID: 83
+    packedSize: 188
+    offset: 53004184
+    sourceAssetGUID: b49a09dd50d896141b2a8a7ae7f4d019
+    buildTimeAssetPath: Assets/Sounds/Household/369910__germanio__mug-hit.mp3
+  - fileID: 569
+    classID: 83
+    packedSize: 220
+    offset: 53004376
+    sourceAssetGUID: bc1d94e9d1f2e354eaf8c13a8377128c
+    buildTimeAssetPath: Assets/Sounds/audio/Yes/YES - Owner of a Lonely Heart (Official
+      Music Video) 30 Sec.mp3
+  - fileID: 570
+    classID: 83
+    packedSize: 184
+    offset: 53004600
+    sourceAssetGUID: c527d4a9966bf434d991f9b228a5a9c6
+    buildTimeAssetPath: Assets/Sounds/528730__alexhanj__ping.ogg
+  - fileID: 571
+    classID: 83
+    packedSize: 188
+    offset: 53004784
+    sourceAssetGUID: c8170013ae3edfb4c9fdabb7b10fc9ec
+    buildTimeAssetPath: Assets/Sounds/audio/B-52s/B-52s - Planet Claire 30 Sec.mp3
+  - fileID: 572
+    classID: 83
+    packedSize: 192
+    offset: 53004976
+    sourceAssetGUID: d31e0ee70e6226d42ab2d008df9fe32b
+    buildTimeAssetPath: Assets/Sounds/audio/Police/Police - Synchronicity I 30 Sec.mp3
+  - fileID: 573
+    classID: 83
+    packedSize: 180
+    offset: 53005168
+    sourceAssetGUID: d47590591fe2de142bf759fa9549722c
+    buildTimeAssetPath: Assets/Sounds/Manamana Ringtone.mp3
+  - fileID: 574
+    classID: 83
+    packedSize: 192
+    offset: 53005352
+    sourceAssetGUID: d4bf8e76ccf6edf4d942c8d7f65908c6
+    buildTimeAssetPath: Assets/Sounds/audio/Tom Petty/Tom Petty- Free Fallin 30 Sec.mp3
+  - fileID: 575
+    classID: 83
+    packedSize: 188
+    offset: 53005544
+    sourceAssetGUID: d754fb2ede5cf3441a1ad4744fadda26
+    buildTimeAssetPath: Assets/Sounds/insanity_and_fruitcake_hotel.mp3
+  - fileID: 576
+    classID: 83
+    packedSize: 192
+    offset: 53005736
+    sourceAssetGUID: da3b47cc28302c84f9c2092b70612164
+    buildTimeAssetPath: Assets/Sounds/audio/Beatles/Beatles - Taxman (1966) 30 sec.mp3
+  - fileID: 577
+    classID: 83
+    packedSize: 176
+    offset: 53005928
+    sourceAssetGUID: f21ca65c9b6bb674696061bef4862d56
+    buildTimeAssetPath: Assets/Sounds/eject-cassette.mp3
+  - fileID: 578
+    classID: 83
+    packedSize: 212
+    offset: 53006104
+    sourceAssetGUID: f690b99535fcb604fb3dd90fd19ca848
+    buildTimeAssetPath: Assets/Sounds/audio/Kraftwerk/Kraftwerk - Computer World
+      (2009 Remaster) 30 Sec.mp3
+  - fileID: 579
+    classID: 83
+    packedSize: 192
+    offset: 53006320
+    sourceAssetGUID: f77f18669a16d114fb0108952739e2a1
+    buildTimeAssetPath: Assets/Sounds/19985__abdrtar__recording-start.ogg
+  - fileID: 580
+    classID: 83
+    packedSize: 184
+    offset: 53006512
+    sourceAssetGUID: f9274698195468f43910f792dd1751b2
+    buildTimeAssetPath: Assets/Sounds/audio/Rush/Rush - Tom Sawyer 30 sec.mp3
+  - fileID: 581
+    classID: 83
+    packedSize: 188
+    offset: 53006696
+    sourceAssetGUID: fe589648ddf5f7846ace28fd1420114d
+    buildTimeAssetPath: Assets/Sounds/460658_ddmyzik_story_logo.ogg
+  - fileID: 582
+    classID: 84
+    packedSize: 112
+    offset: 53006888
+    sourceAssetGUID: 62d8d49c81fc9274791f6602f8a2fe02
+    buildTimeAssetPath: Assets/RenderTexture/VideoCamera Render Texture (0).renderTexture
+  - fileID: 583
+    classID: 84
+    packedSize: 112
+    offset: 53007000
+    sourceAssetGUID: 40ca01fc2c905324eac722b8cec7c8a8
+    buildTimeAssetPath: Assets/RenderTexture/VideoCamera Render Texture (1).renderTexture
+  - fileID: 584
+    classID: 84
+    packedSize: 112
+    offset: 53007112
+    sourceAssetGUID: 90840af8d728ce94a9f0b234f58c462b
+    buildTimeAssetPath: Assets/RenderTexture/VideoCamera Render Texture (2).renderTexture
+  - fileID: 585
+    classID: 84
+    packedSize: 112
+    offset: 53007224
+    sourceAssetGUID: 6d33e4bce3d2b15479bd371eb5008b27
+    buildTimeAssetPath: Assets/RenderTexture/VideoCamera Render Texture (3).renderTexture
+  - fileID: 586
+    classID: 84
+    packedSize: 112
+    offset: 53007336
+    sourceAssetGUID: 167dd315cf647a8439223d9de9236e76
+    buildTimeAssetPath: Assets/RenderTexture/VideoCamera Render Texture (4).renderTexture
+  - fileID: 587
+    classID: 84
+    packedSize: 108
+    offset: 53007448
+    sourceAssetGUID: 03d2b20d8a0c07f48aaff96454e663ca
+    buildTimeAssetPath: Assets/RenderTexture/VideoCamera Render Texture.renderTexture
+  - fileID: 588
+    classID: 86
+    packedSize: 192
+    offset: 53007560
+    sourceAssetGUID: 2e981d14dfe30c84abf5301472248842
+    buildTimeAssetPath: Packages/com.llealloo.audiolink/Runtime/RenderTextures/rt_MiniPlayer.asset
+  - fileID: 589
+    classID: 89
+    packedSize: 63284
+    offset: 53007752
+    sourceAssetGUID: 92305e2565239d54496e3c8b89134604
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/ReflectionProbe-0.exr
+  - fileID: 590
+    classID: 89
+    packedSize: 2807356
+    offset: 53071040
+    sourceAssetGUID: a07d293fe0fa8464f833d42ccd48d9f7
+    buildTimeAssetPath: Assets/_DLNK/_DLNK Source/_DLNK Libraries/[dlnk Texture Library]/FXs/Skies/Old
+      Factory Ruins_2BWSamwise.jpg
+  - fileID: 591
+    classID: 89
+    packedSize: 2807356
+    offset: 55878400
+    sourceAssetGUID: aa2f0ad53bb746f40bcc00442377a651
+    buildTimeAssetPath: Assets/_DLNK/_DLNK Source/_DLNK Libraries/[dlnk Texture Library]/FXs/Skies/Old
+      Factory Ruins_2Samwiseb.jpg
+  - fileID: 592
+    classID: 89
+    packedSize: 2807360
+    offset: 58685760
+    sourceAssetGUID: ad326c1cf5cc2a54cb022cdcc628a69b
+    buildTimeAssetPath: Assets/_DLNK/_DLNK Source/_DLNK Libraries/[dlnk Texture Library]/FXs/Skies/Old
+      Factory Ruins_2Night2Samwise.jpg
+  - fileID: 593
+    classID: 89
+    packedSize: 2807364
+    offset: 61493120
+    sourceAssetGUID: e94dc4944a1dd3f4d9863be00212d7f9
+    buildTimeAssetPath: Assets/_DLNK/_DLNK Source/_DLNK Libraries/[dlnk Texture Library]/FXs/Skies/Old
+      Factory Ruins_2Night2BWSamwise.jpg
+  - fileID: 594
+    classID: 91
+    packedSize: 1264
+    offset: 64300488
+    sourceAssetGUID: 80c2f4b9b1e997742b1e8a324d98471f
+    buildTimeAssetPath: Assets/Animations/AdjustPositionCanvas.controller
+  - fileID: 595
+    classID: 91
+    packedSize: 944
+    offset: 64301752
+    sourceAssetGUID: 9acd74103e63a26469a5f7de744a1752
+    buildTimeAssetPath: Assets/Animations/AlbumHolder.controller
+  - fileID: 596
+    classID: 91
+    packedSize: 1000
+    offset: 64302696
+    sourceAssetGUID: 30223e6919a48a14183496a8d9fb1f5f
+    buildTimeAssetPath: Assets/Animations/FourthWall.controller
+  - fileID: 597
+    classID: 91
+    packedSize: 956
+    offset: 64303696
+    sourceAssetGUID: a539e43a34440354681e233f3950eb4a
+    buildTimeAssetPath: Assets/Animations/PianoBench.controller
+  - fileID: 598
+    classID: 91
+    packedSize: 448
+    offset: 64304656
+    sourceAssetGUID: a4884422d49b81347850ace19ef6bb90
+    buildTimeAssetPath: Assets/Animations/TeleportFromArea.controller
+  - fileID: 599
+    classID: 91
+    packedSize: 932
+    offset: 64305104
+    sourceAssetGUID: 764cda8f18174e745889e2726854c98a
+    buildTimeAssetPath: Assets/Animations/TeleportToBody.controller
+  - fileID: 600
+    classID: 91
+    packedSize: 3148
+    offset: 64306040
+    sourceAssetGUID: 39ec7b2680e4838488e6b51ab2972fa9
+    buildTimeAssetPath: Assets/Animations/TrackingBase.controller
+  - fileID: 601
+    classID: 91
+    packedSize: 1360
+    offset: 64309192
+    sourceAssetGUID: 6fdd54f5ffd536e499e4a45875cc024c
+    buildTimeAssetPath: Assets/Animations/VRCAnimateVerticalParentObject.controller
+  - fileID: 602
+    classID: 115
+    packedSize: 120
+    offset: 185200
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 603
+    classID: 115
+    packedSize: 100
+    offset: 185320
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 604
+    classID: 115
+    packedSize: 120
+    offset: 185424
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 605
+    classID: 115
+    packedSize: 92
+    offset: 185544
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 606
+    classID: 115
+    packedSize: 96
+    offset: 185640
+    sourceAssetGUID: 4ecd63eff847044b68db9453ce219299
+    buildTimeAssetPath: Packages/com.vrchat.base/Runtime/VRCSDK/Plugins/VRCCore-Editor.dll
+  - fileID: 607
+    classID: 115
+    packedSize: 116
+    offset: 185736
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 608
+    classID: 115
+    packedSize: 116
+    offset: 185856
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 609
+    classID: 115
+    packedSize: 100
+    offset: 185976
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 610
+    classID: 115
+    packedSize: 108
+    offset: 186080
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 611
+    classID: 115
+    packedSize: 108
+    offset: 186192
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 612
+    classID: 115
+    packedSize: 132
+    offset: 186304
+    sourceAssetGUID: 01614664b831546d2ae94a42149d80ac
+    buildTimeAssetPath: Packages/com.unity.inputsystem/InputSystem/Plugins/UI/InputSystemUIInputModule.cs
+  - fileID: 613
+    classID: 115
+    packedSize: 92
+    offset: 186440
+    sourceAssetGUID: 0cd44c1031e13a943bb63640046fad76
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Layout/CanvasScaler.cs
+  - fileID: 614
+    classID: 115
+    packedSize: 84
+    offset: 186536
+    sourceAssetGUID: 0d0b652f32a2cc243917e4028fa0f046
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Dropdown.cs
+  - fileID: 615
+    classID: 115
+    packedSize: 92
+    offset: 186624
+    sourceAssetGUID: 1aa08ab6e0800fa44ae55d278d1423e3
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/ScrollRect.cs
+  - fileID: 616
+    classID: 115
+    packedSize: 92
+    offset: 186720
+    sourceAssetGUID: 2a4db7a114972834c8e4117be1d82ba3
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Scrollbar.cs
+  - fileID: 617
+    classID: 115
+    packedSize: 76
+    offset: 186816
+    sourceAssetGUID: 31a19414c41e5ae4aae2af33fee712f6
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Mask.cs
+  - fileID: 618
+    classID: 115
+    packedSize: 108
+    offset: 186896
+    sourceAssetGUID: 3245ec927659c4140ac4f8d17403cc18
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Layout/ContentSizeFitter.cs
+  - fileID: 619
+    classID: 115
+    packedSize: 112
+    offset: 187008
+    sourceAssetGUID: 39fa3d8997a24136984ca6e2c99902bc
+    buildTimeAssetPath: Packages/com.unity.inputsystem/InputSystem/Actions/InputActionAsset.cs
+  - fileID: 620
+    classID: 115
+    packedSize: 84
+    offset: 187120
+    sourceAssetGUID: 45115577ef41a5b4ca741ed302693907
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/UdonBehaviour.cs
+  - fileID: 621
+    classID: 115
+    packedSize: 84
+    offset: 187208
+    sourceAssetGUID: 4e29b1a8efbd4b44bb3f3716e73f07ff
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Button.cs
+  - fileID: 622
+    classID: 115
+    packedSize: 76
+    offset: 187296
+    sourceAssetGUID: 5f7201a12d95ffc409449d95f23cf332
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Text.cs
+  - fileID: 623
+    classID: 115
+    packedSize: 84
+    offset: 187376
+    sourceAssetGUID: 67db9e8f0e2ae9c40bc1e2b64352a6b4
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Slider.cs
+  - fileID: 624
+    classID: 115
+    packedSize: 96
+    offset: 187464
+    sourceAssetGUID: 71c1514a6bd24e1e882cebbe1904ce04
+    buildTimeAssetPath: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs
+  - fileID: 625
+    classID: 115
+    packedSize: 100
+    offset: 187560
+    sourceAssetGUID: 76c392e42b5098c458856cdf6ecaaaa1
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/EventSystem/EventSystem.cs
+  - fileID: 626
+    classID: 115
+    packedSize: 88
+    offset: 187664
+    sourceAssetGUID: 7b743370ac3e4ec2a1668f5455a8ef8a
+    buildTimeAssetPath: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_Dropdown.cs
+  - fileID: 627
+    classID: 115
+    packedSize: 84
+    offset: 187752
+    sourceAssetGUID: 9085046f02f69544eb97fd06b6048fe2
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Toggle.cs
+  - fileID: 628
+    classID: 115
+    packedSize: 124
+    offset: 187840
+    sourceAssetGUID: bf61d954ecb803046953c666facfb904
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/ProgramSources/SerializedUdonProgramAsset.cs
+  - fileID: 629
+    classID: 115
+    packedSize: 92
+    offset: 187968
+    sourceAssetGUID: d199490a83bb2b844b9695cbf13b01ef
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/InputField.cs
+  - fileID: 630
+    classID: 115
+    packedSize: 100
+    offset: 188064
+    sourceAssetGUID: dc42784cf147c0c48a680349fa168899
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/GraphicRaycaster.cs
+  - fileID: 631
+    classID: 115
+    packedSize: 96
+    offset: 188168
+    sourceAssetGUID: f4688fdb7df04437aeb418b961361dc5
+    buildTimeAssetPath: Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs
+  - fileID: 632
+    classID: 115
+    packedSize: 120
+    offset: 188264
+    sourceAssetGUID: fc1515ab76e54f068e2f2207940fab32
+    buildTimeAssetPath: Packages/com.unity.inputsystem/InputSystem/Actions/InputActionReference.cs
+  - fileID: 633
+    classID: 115
+    packedSize: 84
+    offset: 188384
+    sourceAssetGUID: fe87c0e1cc204ed48ad3b37840f39efc
+    buildTimeAssetPath: Packages/com.unity.ugui/Runtime/UI/Core/Image.cs
+  - fileID: 634
+    classID: 115
+    packedSize: 100
+    offset: 188472
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 635
+    classID: 115
+    packedSize: 92
+    offset: 188576
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 636
+    classID: 115
+    packedSize: 120
+    offset: 188672
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 637
+    classID: 115
+    packedSize: 92
+    offset: 188792
+    sourceAssetGUID: 661092b4961be7145bfbe56e1e62337b
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/VRCSDK/Plugins/VRCSDK3.dll
+  - fileID: 638
+    classID: 128
+    packedSize: 170882
+    offset: 64310552
+    sourceAssetGUID: 4beb055f07aaff244873dec698d0363e
+    buildTimeAssetPath: Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf
+  - fileID: 639
+    classID: 128
+    packedSize: 656686
+    offset: 64481440
+    sourceAssetGUID: 98baae691215eb546a697ff7d942a5bb
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/Fonts/Lato-Regular.ttf
+  - fileID: 640
+    classID: 128
+    packedSize: 656674
+    offset: 65138128
+    sourceAssetGUID: d8a7948bc83b01f45ab5078c10dd8e04
+    buildTimeAssetPath: Packages/com.vrchat.worlds/Runtime/Udon/Fonts/Lato-Bold.ttf
+  - fileID: 641
+    classID: 128
+    packedSize: 352462
+    offset: 65794808
+    sourceAssetGUID: e3265ab4bf004d28a9537516768c1c75
+    buildTimeAssetPath: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  - fileID: 642
+    classID: 134
+    packedSize: 52
+    offset: 66147272
+    sourceAssetGUID: 5e5cc2f6be0293448ac43b8970399659
+    buildTimeAssetPath: Assets/PhysicsMaterials/Physic Material 0 Minimum.physicMaterial
+  - fileID: 643
+    classID: 134
+    packedSize: 52
+    offset: 66147328
+    sourceAssetGUID: 527ee394b384b2a4d8f2a7c4f185aee5
+    buildTimeAssetPath: Assets/PhysicsMaterials/Physic Material 1 Maximum.physicMaterial
+  - fileID: 644
+    classID: 134
+    packedSize: 44
+    offset: 66147384
+    sourceAssetGUID: 2b4c1a3cee9cbf641ab069081bb30a03
+    buildTimeAssetPath: Assets/PhysicsMaterials/SwordPhysicMaterial.physicMaterial
+  - fileID: 645
+    classID: 213
+    packedSize: 624
+    offset: 66147432
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 646
+    classID: 213
+    packedSize: 568
+    offset: 66148056
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 647
+    classID: 213
+    packedSize: 572
+    offset: 66148624
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 648
+    classID: 213
+    packedSize: 580
+    offset: 66149200
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 649
+    classID: 213
+    packedSize: 632
+    offset: 66149784
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 650
+    classID: 213
+    packedSize: 544
+    offset: 66150416
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 651
+    classID: 213
+    packedSize: 516
+    offset: 66150960
+    sourceAssetGUID: 0000000000000000f000000000000000
+    buildTimeAssetPath: Resources/unity_builtin_extra
+  - fileID: 652
+    classID: 213
+    packedSize: 1208
+    offset: 66151480
+    sourceAssetGUID: 157b312036150ba4f813a3543877a3c9
+    buildTimeAssetPath: Assets/Textures/2d-Sprite-UI/button-2d.png
+  - fileID: 653
+    classID: 213
+    packedSize: 704
+    offset: 66152688
+    sourceAssetGUID: 36a5439bc864b8e478e20b5290dcc71f
+    buildTimeAssetPath: Assets/Textures/PlayButtons/blue-158731_640 - Blank.png
+  - fileID: 654
+    classID: 213
+    packedSize: 716
+    offset: 66153392
+    sourceAssetGUID: 57e6c8e0b5cc968408789b19cd1fc453
+    buildTimeAssetPath: Assets/Textures/PlayButtons/blue-158731_640 - Pause.png
+  - fileID: 655
+    classID: 213
+    packedSize: 4192
+    offset: 66154112
+    sourceAssetGUID: 6e3cab45dcca3ea49917febb4d9afd7f
+    buildTimeAssetPath: Assets/Textures/PlayButtons/cancel-153645_640.png
+  - fileID: 656
+    classID: 213
+    packedSize: 716
+    offset: 66158304
+    sourceAssetGUID: 772f19a88dbad7d44b302c54b38a4aed
+    buildTimeAssetPath: Assets/Textures/PlayButtons/blue-158731_640 - Rewind.png
+  - fileID: 657
+    classID: 213
+    packedSize: 640
+    offset: 66159024
+    sourceAssetGUID: 90bc6f0e8c42f4ee79932b2b22edff3d
+    buildTimeAssetPath: Assets/Archimatix/Scenes Runtime/SpaceshipShop/UIBackground.psd
+  - fileID: 658
+    classID: 213
+    packedSize: 808
+    offset: 66159664
+    sourceAssetGUID: a742139d7a863af40ad01c0c457ec7f1
+    buildTimeAssetPath: Assets/Textures/PlayButtons/blue-158731_640 - Play.png
+  - fileID: 659
+    classID: 213
+    packedSize: 752
+    offset: 66160472
+    sourceAssetGUID: d43054641f081b94ba5bb647a2467f60
+    buildTimeAssetPath: Assets/Textures/PlayButtons/blue-158731_640 - Forward.png
+  - fileID: 660
+    classID: 213
+    packedSize: 488
+    offset: 66161224
+    sourceAssetGUID: dd5235a6c8cdfc14396997b7c21e7b26
+    buildTimeAssetPath: Assets/Textures/19_-_Default_baseColor_1_glassSprite.png
+  - fileID: 661
+    classID: 213
+    packedSize: 436
+    offset: 66161712
+    sourceAssetGUID: ffb07229ea989cf4587e9b54a0ec625b
+    buildTimeAssetPath: Assets/ArchiTechAnon/ProTV/UI/Retro/Retro_Button_pushed.png
+  - fileID: 662
+    classID: 258
+    packedSize: 40
+    offset: 66162152
+    sourceAssetGUID: c2310c865e011104c96b2922e04c785a
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/LightingData.asset
+  - fileID: 663
+    classID: 363
+    packedSize: 10960
+    offset: 66162192
+    sourceAssetGUID: 022d90b0122f78543ad78faf8ff6557c
+    buildTimeAssetPath: Assets/Scenes/VRCVirtualStudioSoundstage00/OcclusionCullingData.asset
+  - fileID: 664
+    classID: 850595691
+    packedSize: 48
+    offset: 66173152
+    sourceAssetGUID: 6f3d04f02c6e4064f9d41b7384c5cf6d
+    buildTimeAssetPath: Assets/Lighting/Lighting Settings.lighting
+  - fileID: 665
+    classID: 114
+    packedSize: 96
+    offset: 66173200
+    sourceAssetGUID: ca9f5fa95ffab41fb9a615ab714db018
+    buildTimeAssetPath: Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+  - fileID: 666
+    classID: 114
+    packedSize: 100
+    offset: 66173296
+    sourceAssetGUID: ca9f5fa95ffab41fb9a615ab714db018
+    buildTimeAssetPath: Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+  - fileID: 667
+    classID: 114
+    packedSize: 100
+    offset: 66173400
+    sourceAssetGUID: ca9f5fa95ffab41fb9a615ab714db018
+    buildTimeAssetPath: Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+  - fileID: 668
+    classID: 114
+    packedSize: 92
+    offset: 66173504
+    sourceAssetGUID: ca9f5fa95ffab41fb9a615ab714db018
+    buildTimeAssetPath: Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+  - fileID: 669
+    classID: 114
+    packedSize: 7980
+    offset: 66173600
+    sourceAssetGUID: ca9f5fa95ffab41fb9a615ab714db018
+    buildTimeAssetPath: Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+  - fileID: 670
+    classID: 114
+    packedSize: 2608
+    offset: 66181584
+    sourceAssetGUID: 66fbd6a955c52d04bafad58833d120d9
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/045e3ee3bacd8cc498170a9b683bce9f.asset
+  - fileID: 671
+    classID: 114
+    packedSize: 1872
+    offset: 66184192
+    sourceAssetGUID: ca0093b16c769ec408ee6bb3dd8a448a
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/046cd5d67d2b5194c81f0e7376127cac.asset
+  - fileID: 672
+    classID: 114
+    packedSize: 5444
+    offset: 66186064
+    sourceAssetGUID: 7bfb44a7cc9d77b428f8d076d81461a7
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/0688522c82b813d47b1ccd19b643d194.asset
+  - fileID: 673
+    classID: 114
+    packedSize: 9200
+    offset: 66191512
+    sourceAssetGUID: e50b695d9cc952a418b2745740b2d6ea
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/07b79913ef8315d4f932bddcdd21a9b2.asset
+  - fileID: 674
+    classID: 114
+    packedSize: 2752
+    offset: 66200712
+    sourceAssetGUID: b4cacc8c13f61ff49bdd6296c2da0a4d
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/088a721ffede3b9489328da11384aa10.asset
+  - fileID: 675
+    classID: 114
+    packedSize: 14816
+    offset: 66203464
+    sourceAssetGUID: dd9345963275ebd45b274edde38f2c8c
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/08d003e2fefaf094a9e4d89a3aff186a.asset
+  - fileID: 676
+    classID: 114
+    packedSize: 12004
+    offset: 66218280
+    sourceAssetGUID: b68f6d00163cebc4588c7824748d4ca1
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/091cc55e7d1a9be4fb5fd9c28b8ab2ef.asset
+  - fileID: 677
+    classID: 114
+    packedSize: 2360
+    offset: 66230288
+    sourceAssetGUID: f41d3b65817efd44b995dc0fc4062901
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/0944e6ebe2a0f3a47ac23eb718afb08d.asset
+  - fileID: 678
+    classID: 114
+    packedSize: 15016
+    offset: 66232648
+    sourceAssetGUID: b50cca1d63fc864428ca9cf4340be366
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/10e9104aae523eb4a8710868aa8ef4fc.asset
+  - fileID: 679
+    classID: 114
+    packedSize: 3976
+    offset: 66247664
+    sourceAssetGUID: 65454bca215856f4d9135673e6caa328
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/13a1bea2dc62dd8488f2c92e6957b784.asset
+  - fileID: 680
+    classID: 114
+    packedSize: 2780
+    offset: 66251640
+    sourceAssetGUID: 2419e996baf4f8f4ab733235445dfa24
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/1870b98f48090da47b4cd4488002beb7.asset
+  - fileID: 681
+    classID: 114
+    packedSize: 5388
+    offset: 66254424
+    sourceAssetGUID: 48de6448496525b4e8299138705be7f8
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/18d9dc711b6d3a8469adf5d7c34b15e0.asset
+  - fileID: 682
+    classID: 114
+    packedSize: 7844
+    offset: 66259816
+    sourceAssetGUID: ba1aa71013a75814e8bf5992dc4e5ff9
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/197eb628a68b18b40853aaf63efab6d6.asset
+  - fileID: 683
+    classID: 114
+    packedSize: 7320
+    offset: 66267664
+    sourceAssetGUID: 2f24333cf118d41439a4280492ab5dd0
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/1bcbbc1852ee8624780f26ca4d807af3.asset
+  - fileID: 684
+    classID: 114
+    packedSize: 17704
+    offset: 66274984
+    sourceAssetGUID: 58c36ca7024c5384e95bf28344482bb8
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/1e51f71e2681f4b44ae96d0859b3ba72.asset
+  - fileID: 685
+    classID: 114
+    packedSize: 3980
+    offset: 66292688
+    sourceAssetGUID: 870a561134c23f64aa29039bb7564a69
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/1f62b2cd39a5b6e4fbdfd6de699176c1.asset
+  - fileID: 686
+    classID: 114
+    packedSize: 2576
+    offset: 66296672
+    sourceAssetGUID: 31a664e9a4b7df84aa76c14a790a31a2
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/27931ac832e8fc045a1d6db31abf51c8.asset
+  - fileID: 687
+    classID: 114
+    packedSize: 7892
+    offset: 66299248
+    sourceAssetGUID: e2d98d0dc1f09774a9b35d1f2682c8d9
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/2aac3803d0e08d742929b488c40f6fc0.asset
+  - fileID: 688
+    classID: 114
+    packedSize: 12060
+    offset: 66307144
+    sourceAssetGUID: f1e410aa696db334099b3772f044640c
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/2b1d5375364b64642948f4f73d5a4728.asset
+  - fileID: 689
+    classID: 114
+    packedSize: 11448
+    offset: 66319208
+    sourceAssetGUID: f6367b6216943c749aa9fc7d3f4191af
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/2f4ac540d80095a45b5f0da27e2f3900.asset
+  - fileID: 690
+    classID: 114
+    packedSize: 8636
+    offset: 66330656
+    sourceAssetGUID: eaa01697d04f97344852177fca31d2b4
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/3bc9c8ec4ca6f5940bb23473c2020c1c.asset
+  - fileID: 691
+    classID: 114
+    packedSize: 6348
+    offset: 66339296
+    sourceAssetGUID: 8cc43dbaf38d33e40a927b6155535f30
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/3c9c6d4c17932b844b7dc728c4537888.asset
+  - fileID: 692
+    classID: 114
+    packedSize: 2732
+    offset: 66345648
+    sourceAssetGUID: ca21003713e1dd8449528dca20d655e0
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/413e3fb392016bd409011689390b27af.asset
+  - fileID: 693
+    classID: 114
+    packedSize: 2468
+    offset: 66348384
+    sourceAssetGUID: afddb8a605b82784387140a8e596efc9
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/41e8d8dc6fb75fa44a9b0110e97f3a68.asset
+  - fileID: 694
+    classID: 114
+    packedSize: 1560
+    offset: 66350856
+    sourceAssetGUID: 76c088ad6f336f04d97138f066329ee6
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/4715e20276be3b141a6a216230cab4e9.asset
+  - fileID: 695
+    classID: 114
+    packedSize: 1532
+    offset: 66352416
+    sourceAssetGUID: 599305cf261e8ef46a6df814d97b78af
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/4a7e2df91ce585247a1741bd6749d398.asset
+  - fileID: 696
+    classID: 114
+    packedSize: 3260
+    offset: 66353952
+    sourceAssetGUID: 3f4f1268077efb3479e57a5217acb7e6
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/4b4a77bbb333d484e8c31b308418f83b.asset
+  - fileID: 697
+    classID: 114
+    packedSize: 2460
+    offset: 66357216
+    sourceAssetGUID: 44bda2be598809740b6f61917a68678f
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/4e19f8148afab4b4e9e4ac9145ef0a67.asset
+  - fileID: 698
+    classID: 114
+    packedSize: 6284
+    offset: 66359680
+    sourceAssetGUID: 27531b3649ca4684fa65a0d6f8d40fc3
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/524bb645e825b934d90bb80a9be3a530.asset
+  - fileID: 699
+    classID: 114
+    packedSize: 6188
+    offset: 66365968
+    sourceAssetGUID: 80da12f32e3706240bf50d4521bd13a7
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/52f4ec6c7e9720c4cbbc4908dbceb5a4.asset
+  - fileID: 700
+    classID: 114
+    packedSize: 5276
+    offset: 66372160
+    sourceAssetGUID: b5b7b0cbbbee3474883352d212dd74ce
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/5307e54e032da6f4d96f13094e37a697.asset
+  - fileID: 701
+    classID: 114
+    packedSize: 2828
+    offset: 66377440
+    sourceAssetGUID: 9394e4ff972379149bb9c845610f511c
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/566cc00e27d5822449529a3785eae366.asset
+  - fileID: 702
+    classID: 114
+    packedSize: 3960
+    offset: 66380272
+    sourceAssetGUID: 65d9dd065dcf5da46a04d87f6c650ee0
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/59ddbd5e4187da7449636588eceb0ab1.asset
+  - fileID: 703
+    classID: 114
+    packedSize: 1488
+    offset: 66384232
+    sourceAssetGUID: 7273a7e6e99050a4393ebbbde023272a
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/5a07988e46bea6440a33adc6c7606445.asset
+  - fileID: 704
+    classID: 114
+    packedSize: 3652
+    offset: 66385720
+    sourceAssetGUID: e8338d58978cd444381e7e8f909d0cf2
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/5e22074e7e229254a9b68ded2f6137b3.asset
+  - fileID: 705
+    classID: 114
+    packedSize: 11916
+    offset: 66389376
+    sourceAssetGUID: 7219bc192b0343341842b6e318aefe8e
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/67770a65bd9578644885b80da78cd99e.asset
+  - fileID: 706
+    classID: 114
+    packedSize: 2576
+    offset: 66401296
+    sourceAssetGUID: ae1cf96fc34de724b8691703b9d32545
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/691926b9e9eb96f4eb499a211965adad.asset
+  - fileID: 707
+    classID: 114
+    packedSize: 2852
+    offset: 66403872
+    sourceAssetGUID: cd8f4fb73b8ce224cae45bbd7be9e200
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/6f4fdbf03cb5ba642bf41c487845a039.asset
+  - fileID: 708
+    classID: 114
+    packedSize: 1624
+    offset: 66406728
+    sourceAssetGUID: 02ea7ac5eb13faf4abd511cca2c91d4c
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/70cb86b85fa6f144e9428519b9118d71.asset
+  - fileID: 709
+    classID: 114
+    packedSize: 4504
+    offset: 66408352
+    sourceAssetGUID: 3b2d33951d38c9946ac4f761e490e2d7
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/7406ad75b38df1345b1ba36d1ad1250a.asset
+  - fileID: 710
+    classID: 114
+    packedSize: 13904
+    offset: 66412856
+    sourceAssetGUID: 9650e4da686476e4ca1d9ac91d5b6b9b
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/76dd3b6e3bdfe6e478c856aa2e323fe7.asset
+  - fileID: 711
+    classID: 114
+    packedSize: 4260
+    offset: 66426760
+    sourceAssetGUID: 5446c76a863c76a49a2498f2a7198226
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/7b1d7ae09da18fe4984eba428514468c.asset
+  - fileID: 712
+    classID: 114
+    packedSize: 4912
+    offset: 66431024
+    sourceAssetGUID: 8d9a8b6571e019749ba5166116554461
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/7eaae89580430594ea70c38858e0e3d1.asset
+  - fileID: 713
+    classID: 114
+    packedSize: 9988
+    offset: 66435936
+    sourceAssetGUID: 40dfb99a8caeb1a4a93ec108f84c0bd6
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/936d21c325d7f90499f5fcb03277909b.asset
+  - fileID: 714
+    classID: 114
+    packedSize: 4428
+    offset: 66445928
+    sourceAssetGUID: 648830b39752c98429e1a4dc61e38a32
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/9671320526ca42047ba237ea68ef9471.asset
+  - fileID: 715
+    classID: 114
+    packedSize: 2464
+    offset: 66450360
+    sourceAssetGUID: 946ea92f4fd62f648a87a5634f09f0a2
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/99c644acc6133cd4db06a23ccc19c176.asset
+  - fileID: 716
+    classID: 114
+    packedSize: 8156
+    offset: 66452824
+    sourceAssetGUID: 4e8484966650cd748ae81b3048cc9f16
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/a5c2a9fafe0e7294cbd400a20152583f.asset
+  - fileID: 717
+    classID: 114
+    packedSize: 2552
+    offset: 66460984
+    sourceAssetGUID: 897f891c62c27ab4c84f94605164b7f3
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/a8553d687b871554a99aefa6fff4cc90.asset
+  - fileID: 718
+    classID: 114
+    packedSize: 2456
+    offset: 66463536
+    sourceAssetGUID: ba2483bad759ba3498eb27cc943a2769
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/ab85b51b161b4cb4d857064201f34ab4.asset
+  - fileID: 719
+    classID: 114
+    packedSize: 2428
+    offset: 66465992
+    sourceAssetGUID: 0e5da1e47d09f2c4b88f090899869182
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/aced95cc444aa364a8e88601752cdaa6.asset
+  - fileID: 720
+    classID: 114
+    packedSize: 5408
+    offset: 66468424
+    sourceAssetGUID: 5e4e0ccfbc066df4f9fb3a71b9c944d3
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/b0973fcc42d38ea419779026c77d67d8.asset
+  - fileID: 721
+    classID: 114
+    packedSize: 2928
+    offset: 66473832
+    sourceAssetGUID: 75fa9620ac5c1f1478ebeda232e8cd3f
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/b893eeea51cc5c74083baee2c7d39a2a.asset
+  - fileID: 722
+    classID: 114
+    packedSize: 2292
+    offset: 66476760
+    sourceAssetGUID: c30f6a5d12865c74bbadf3f830d759b1
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/b8d2ec7d735b05447aa703e6b994e2a0.asset
+  - fileID: 723
+    classID: 114
+    packedSize: 4684
+    offset: 66479056
+    sourceAssetGUID: 758666d6e93402e4e996c00375209b81
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/bc01bef6216cf5b4f951ecaea85bd57b.asset
+  - fileID: 724
+    classID: 114
+    packedSize: 3236
+    offset: 66483744
+    sourceAssetGUID: 3b0926c21abe8024aad96e849c8bcf6d
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/c3be5f938693b62459d99deccdf31de9.asset
+  - fileID: 725
+    classID: 114
+    packedSize: 1648
+    offset: 66486984
+    sourceAssetGUID: 0c55722e81b6ec84b9d180b1b3ccf79e
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/c8df303ceb45ae84f85a11591f741734.asset
+  - fileID: 726
+    classID: 114
+    packedSize: 6380
+    offset: 66488632
+    sourceAssetGUID: a90844502d4096641b0097b09c61b759
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/ca24a3fce1eca70408a25c0cba49aeb0.asset
+  - fileID: 727
+    classID: 114
+    packedSize: 1328
+    offset: 66495016
+    sourceAssetGUID: 98d191f896f22e34d937c8f206c87a95
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/ca495d5383e95c845a5f9af1dda6b800.asset
+  - fileID: 728
+    classID: 114
+    packedSize: 2592
+    offset: 66496344
+    sourceAssetGUID: de1049424d65f884488807f8a100449a
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/ce337db156799d845b8f76ea33f5939f.asset
+  - fileID: 729
+    classID: 114
+    packedSize: 1604
+    offset: 66498936
+    sourceAssetGUID: 5b4cc9be4d700a145a93d302f92ac494
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/d1a10b00d457b8c4bbffbb94a137066f.asset
+  - fileID: 730
+    classID: 114
+    packedSize: 3720
+    offset: 66500544
+    sourceAssetGUID: b81f78963b43c3143a00eacc3e6246ec
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/d1e2f76e2398b8d488defa10cde451f3.asset
+  - fileID: 731
+    classID: 114
+    packedSize: 3672
+    offset: 66504264
+    sourceAssetGUID: 6e05cfeb46fde3141bcba2abb9ac3dbd
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/d4dceec920855374fa6cb4eebd579d71.asset
+  - fileID: 732
+    classID: 114
+    packedSize: 11040
+    offset: 66507936
+    sourceAssetGUID: af79a2e4b89eec54381f87b911399791
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/d51491621fb98214096162c1b8960a4a.asset
+  - fileID: 733
+    classID: 114
+    packedSize: 2464
+    offset: 66518976
+    sourceAssetGUID: a8fb5e45ce6bd614fbfeb8d6adb5498b
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/d7135b20f002f244d8f9c6e061aa2ec3.asset
+  - fileID: 734
+    classID: 114
+    packedSize: 4248
+    offset: 66521440
+    sourceAssetGUID: add27f8347a365a4f86cd9c615bc0057
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/d9155b83ac7a1504dab205ea524b21b8.asset
+  - fileID: 735
+    classID: 114
+    packedSize: 1732
+    offset: 66525688
+    sourceAssetGUID: b0632e8d4bd0e3445af89280de5ebd75
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/da8e642e07a95b9418cfd9ba8296d202.asset
+  - fileID: 736
+    classID: 114
+    packedSize: 2256
+    offset: 66527424
+    sourceAssetGUID: 8e66c1591db37db4b97dd11a05f1e3c4
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/dc89c668351f65b498c9f3249a79bbc0.asset
+  - fileID: 737
+    classID: 114
+    packedSize: 3348
+    offset: 66529680
+    sourceAssetGUID: fb04f3d1dfa59b44abfa545e839d7ef1
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/dddcaa5c0a83ef547a239d616a45f5e8.asset
+  - fileID: 738
+    classID: 114
+    packedSize: 10900
+    offset: 66533032
+    sourceAssetGUID: 96c6453c69e3e6143a406388babe57b5
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/de1b0bad461be42428fa4cdf4f5746a2.asset
+  - fileID: 739
+    classID: 114
+    packedSize: 2740
+    offset: 66543936
+    sourceAssetGUID: 9770d23b632ebf54889760ecd6705e34
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/e748759bdeadafe458bb7ed458659d94.asset
+  - fileID: 740
+    classID: 114
+    packedSize: 9960
+    offset: 66546680
+    sourceAssetGUID: 6cd8f2f7408f96348bc6f0d8210a3d34
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/e7ae49ba40ac45a46aedfaf6ede3aef8.asset
+  - fileID: 741
+    classID: 114
+    packedSize: 8136
+    offset: 66556640
+    sourceAssetGUID: d75bc0f14cba63b45b1089788262bb10
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/e98ede68823bacc448cfec60ecd46de5.asset
+  - fileID: 742
+    classID: 114
+    packedSize: 3192
+    offset: 66564776
+    sourceAssetGUID: 6572c654cd943f34cb4b1f98094c32e9
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/ecfd0f6ec1a09224eb19e4abbcf6b619.asset
+  - fileID: 743
+    classID: 114
+    packedSize: 1520
+    offset: 66567968
+    sourceAssetGUID: a08a1737e72a2a544b6b821ad03a07cb
+    buildTimeAssetPath: Assets/SerializedUdonPrograms/fb308a641250a1046a182b88cd3035c0.asset
+  - fileID: 744
+    classID: 114
+    packedSize: 3156
+    offset: 66569488
+    sourceAssetGUID: 2e498d1c8094910479dc3e1b768306a4
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF - Fallback.asset
+  - fileID: 745
+    classID: 114
+    packedSize: 28764
+    offset: 66572648
+    sourceAssetGUID: 8f586378b4e144a9851e7b34d9b748ee
+    buildTimeAssetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans
+      SDF.asset
+  - fileID: 746
+    classID: 114
+    packedSize: 96
+    offset: 66601416
+    sourceAssetGUID: ca9f5fa95ffab41fb9a615ab714db018
+    buildTimeAssetPath: Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+  - fileID: 747
+    classID: 114
+    packedSize: 92
+    offset: 66601512
+    sourceAssetGUID: ca9f5fa95ffab41fb9a615ab714db018
+    buildTimeAssetPath: Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+  - fileID: 748
+    classID: 114
+    packedSize: 100
+    offset: 66601608
+    sourceAssetGUID: ca9f5fa95ffab41fb9a615ab714db018
+    buildTimeAssetPath: Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+  - fileID: 749
+    classID: 114
+    packedSize: 108
+    offset: 66601712
+    sourceAssetGUID: ca9f5fa95ffab41fb9a615ab714db018
+    buildTimeAssetPath: Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+  - fileID: 750
+    classID: 114
+    packedSize: 96
+    offset: 66601824
+    sourceAssetGUID: ca9f5fa95ffab41fb9a615ab714db018
+    buildTimeAssetPath: Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+  - fileID: 751
+    classID: 114
+    packedSize: 112
+    offset: 66601920
+    sourceAssetGUID: ca9f5fa95ffab41fb9a615ab714db018
+    buildTimeAssetPath: Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions

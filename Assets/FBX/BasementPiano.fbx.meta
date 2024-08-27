@@ -1,0 +1,394 @@
+fileFormatVersion: 2
+guid: 2807ee06db17b824f95e47496f494ffe
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface11
+    second: {fileID: 2100000, guid: debc07b2b50a93d4ea6e34258b1e04e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface52
+    second: {fileID: 2100000, guid: 5a09b4bf54710494088a9601cd20afd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bajo_escalera
+    second: {fileID: 2100000, guid: 8ee63ecf67f013547b1cdae881058283, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barril1
+    second: {fileID: 2100000, guid: fbc5cf1cf197c7f44a6c748385f8f065, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: biga_escalera1
+    second: {fileID: 2100000, guid: 37e3bde512025884bbde6d64984ba37d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: botell3
+    second: {fileID: 2100000, guid: 6864c86343fe68f489f85305a659de26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: botella3
+    second: {fileID: 2100000, guid: 67887b8f02167b840b60a2c8e9b47781, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: botella4
+    second: {fileID: 2100000, guid: cac25f7abed46b645b6004880fe4dd0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: botella_vino1
+    second: {fileID: 2100000, guid: 45ce52865f9a0e348899b14520ed760d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: caja_carton_1
+    second: {fileID: 2100000, guid: 1e04a94940bd15544a088b9208eb124c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: caja_de_carton2
+    second: {fileID: 2100000, guid: 9633cfaffaa3e204d8993aab07ebd1f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: caja_de_herramintas
+    second: {fileID: 2100000, guid: 4307b076fbe9cf341bd9f85564d983b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: caja_de_madera
+    second: {fileID: 2100000, guid: 4dda114ef94adf047a10eb0983b1b4fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: calentador1
+    second: {fileID: 2100000, guid: e13369072b5d72743bf53059f6197b3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: closet1
+    second: {fileID: 2100000, guid: b5923ebec0b91c34c9e7e0dee27e2442, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cojin_silla
+    second: {fileID: 2100000, guid: f20ddaace548e8649952aff17034fae8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: columna_techo
+    second: {fileID: 2100000, guid: e25733af12dbaa948b3c9b17d1919cad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: contador_electrico
+    second: {fileID: 2100000, guid: b4a0fe12f5137f345bd6e0f5427aa57d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuadro_pez1
+    second: {fileID: 2100000, guid: e4e19eaaad9cad647be7e7ae0cda3022, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuadro_villadiego1
+    second: {fileID: 2100000, guid: b993ddfb6f3d1134eaac755dd834b865, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: escalera_de_mano_metal
+    second: {fileID: 2100000, guid: 7ca87b3ff5a891c42a32d862e2fe6b6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: escalon
+    second: {fileID: 2100000, guid: 6668382fd9f9bad41a8b266b7b7b5e76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: extintor1
+    second: {fileID: 2100000, guid: a1e9e443d1eac15498acabcef643001d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frasco
+    second: {fileID: 2100000, guid: 6f973c9796f93f14aa7b030574e5be85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frasco_2
+    second: {fileID: 2100000, guid: 80e92cd61d316f14382db096c0537940, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: galon1
+    second: {fileID: 2100000, guid: 9fd59393a7acd7c44ba20c09812c9aa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hacha1
+    second: {fileID: 2100000, guid: fcc2174bc585dc744afbe638e5024b84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: ab4d21ecab2906c4abd425a3c07ad068, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lampara
+    second: {fileID: 2100000, guid: 5d19b2d6c231bab4da86e43f95f2709a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: linea_tapa_piano1
+    second: {fileID: 2100000, guid: 488780e8d9429404089098b750c806f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: linea_tecla_piano2
+    second: {fileID: 2100000, guid: ca2b9c7caf2a5f94fbb089dc4dc2ee88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: liston_tecla
+    second: {fileID: 2100000, guid: fa6d615cceaf55f488f0f13234585c45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: llanta_tyre_lambert2
+    second: {fileID: 2100000, guid: a566c91b303c86042a4431ffedac89a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: llanta_tyre_rimchrome
+    second: {fileID: 2100000, guid: 47dd52d6e21e1f04489f0ad9a59c969c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: llanta_tyre_rimscrew
+    second: {fileID: 2100000, guid: bb9de023d9e17694f9348e6cc63704e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: llanta_tyre_tyres
+    second: {fileID: 2100000, guid: dde136bcdebaf0148a26244fcfcaefea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera_techo_horiz
+    second: {fileID: 2100000, guid: ccc46729b92ef6049a86838478fafb63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: madera_techo_vert
+    second: {fileID: 2100000, guid: e336f02598dfa4947b5c9ebd37aae175, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paral_andamio
+    second: {fileID: 2100000, guid: 45caf620b600ebe4db753613d9a9661f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pared_fuera
+    second: {fileID: 2100000, guid: a8244e84a08283d49a7e8c0fdefebdf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasamano_escalera_arriba
+    second: {fileID: 2100000, guid: ff6b9d90b32b1314fa36035b25ae806d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasamano_escalera_bajo
+    second: {fileID: 2100000, guid: 1d15a7109e91789459274c33434dc880, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pata_piano3
+    second: {fileID: 2100000, guid: ea5f4ad7d9aa7cf4dad441a6ac2bb092, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano1
+    second: {fileID: 2100000, guid: a797b08048cbe3849a0d0435e6df6612, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piano_nuevo_lambert3
+    second: {fileID: 2100000, guid: 414e355994c828543979cf84b1a3c9fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piso_pared_y_techo1
+    second: {fileID: 2100000, guid: 5b565fd287dd01942b39953225e7bc2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plancon_andamio
+    second: {fileID: 2100000, guid: b35de2dae46e1c948b53b5f3dcb80e3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: silla1
+    second: {fileID: 2100000, guid: bbc853a8d34aab743a919c88cbf3e1b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: soporte_escalera1
+    second: {fileID: 2100000, guid: e3c3a5b9d2022754dbf14f443e4c54d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tecla_negra1
+    second: {fileID: 2100000, guid: 0a8f66527a6920045a38ce29056f3d71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teclas_blancas1
+    second: {fileID: 2100000, guid: d655bc29671e39a46bad56a306e85c9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: valde_amarillo1
+    second: {fileID: 2100000, guid: 42a34b8d129a6584a98be6569b3e9129, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: valde_azul1
+    second: {fileID: 2100000, guid: d277001ce6631c845aedfdee2497eceb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: valde_grande
+    second: {fileID: 2100000, guid: dc4c5f1e372919d469cf7b9e49d9e100, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: valde_pequeno
+    second: {fileID: 2100000, guid: 6093c7fab75e3be48a34ecea9ef3b26a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: valde_rojo
+    second: {fileID: 2100000, guid: 62005f2759b6dc042a8c92ee168b9288, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: valde_rojo1
+    second: {fileID: 2100000, guid: 66c3c791dddaef14da8fe932ec53d2e1, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

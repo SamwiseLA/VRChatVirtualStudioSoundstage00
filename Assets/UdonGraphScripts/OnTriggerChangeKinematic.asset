@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
+  m_Name: OnTriggerChangeKinematic
+  m_EditorClassIdentifier: 
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 4276115e4a29bba41a6f61a009b4ccb4,
+    type: 2}
+  udonAssembly: ".data_start\r\n\r\n    \r\n    __player_0: %VRCSDKBaseVRCPlayerApi,
+    null\r\n    __obj_0: %UnityEngineGameObject, this\r\n    __GameObject_0: %UnityEngineGameObject,
+    this\r\n    __instance_0: %UnityEngineRigidbody, null\r\n    __value_0: %SystemBoolean,
+    null\r\n    __instance_1: %UnityEngineTransform, this\r\n    __type_0: %SystemType,
+    null\r\n    __instance_2: %UnityEngineGameObject, this\r\n    __Type_0: %SystemType,
+    null\r\n    __player_1: %VRCSDKBaseVRCPlayerApi, null\r\n    __obj_1: %UnityEngineGameObject,
+    this\r\n    __GameObject_1: %UnityEngineGameObject, this\r\n    __instance_3:
+    %UnityEngineRigidbody, null\r\n    __value_1: %SystemBoolean, null\r\n    __instance_4:
+    %UnityEngineTransform, this\r\n    __type_1: %SystemType, null\r\n    __instance_5:
+    %UnityEngineGameObject, this\r\n    __Type_1: %SystemType, null\r\n\r\n.data_end\r\n\r\n.code_start\r\n\r\n   
+    .export _onTriggerEnter\r\n    \r\n    _onTriggerEnter:\r\n    \r\n        PUSH,
+    __player_0\r\n        EXTERN, \"VRCSDKBaseNetworking.__get_LocalPlayer__VRCSDKBaseVRCPlayerApi\"\r\n       
+    PUSH, __GameObject_0\r\n        PUSH, __obj_0\r\n        COPY\r\n        PUSH,
+    __player_0\r\n        PUSH, __obj_0\r\n        EXTERN, \"VRCSDKBaseNetworking.__SetOwner__VRCSDKBaseVRCPlayerApi_UnityEngineGameObject__SystemVoid\"\r\n       
+    PUSH, __instance_2\r\n        PUSH, __instance_1\r\n        EXTERN, \"UnityEngineGameObject.__get_transform__UnityEngineTransform\"\r\n       
+    PUSH, __Type_0\r\n        PUSH, __type_0\r\n        COPY\r\n        PUSH, __instance_1\r\n       
+    PUSH, __type_0\r\n        PUSH, __instance_0\r\n        EXTERN, \"UnityEngineTransform.__GetComponent__SystemType__UnityEngineComponent\"\r\n       
+    PUSH, __instance_0\r\n        PUSH, __value_0\r\n        EXTERN, \"UnityEngineRigidbody.__set_isKinematic__SystemBoolean__SystemVoid\"\r\n       
+    JUMP, 0xFFFFFFFC\r\n    \r\n    .export _onTriggerExit\r\n    \r\n    _onTriggerExit:\r\n   
+    \r\n        PUSH, __player_1\r\n        EXTERN, \"VRCSDKBaseNetworking.__get_LocalPlayer__VRCSDKBaseVRCPlayerApi\"\r\n       
+    PUSH, __GameObject_1\r\n        PUSH, __obj_1\r\n        COPY\r\n        PUSH,
+    __player_1\r\n        PUSH, __obj_1\r\n        EXTERN, \"VRCSDKBaseNetworking.__SetOwner__VRCSDKBaseVRCPlayerApi_UnityEngineGameObject__SystemVoid\"\r\n       
+    PUSH, __instance_5\r\n        PUSH, __instance_4\r\n        EXTERN, \"UnityEngineGameObject.__get_transform__UnityEngineTransform\"\r\n       
+    PUSH, __Type_1\r\n        PUSH, __type_1\r\n        COPY\r\n        PUSH, __instance_4\r\n       
+    PUSH, __type_1\r\n        PUSH, __instance_3\r\n        EXTERN, \"UnityEngineTransform.__GetComponent__SystemType__UnityEngineComponent\"\r\n       
+    PUSH, __instance_3\r\n        PUSH, __value_1\r\n        EXTERN, \"UnityEngineRigidbody.__set_isKinematic__SystemBoolean__SystemVoid\"\r\n       
+    JUMP, 0xFFFFFFFC\r\n    \r\n\r\n.code_end\r\n"
+  assemblyError: 
+  graphData:
+    name: 
+    description: 
+    nodes:
+    - fullName: VRCSDKBaseNetworking.__SetOwner__VRCSDKBaseVRCPlayerApi_UnityEngineGameObject__SystemVoid
+      uid: fc93a7d4-e0f6-44b4-908a-a704e100803a
+      position: {x: 251.96002, y: 730.39996}
+      nodeUIDs:
+      - 422669a0-60b6-4e46-a703-5707322cd8d0|0
+      - 12712477-a8c5-4d4e-aadc-9e7e6cff6990|0
+      flowUIDs:
+      - 640908d4-0293-4e42-9082-76f98bb83aaa
+      nodeValues:
+      - unityObjectValue: {fileID: 0}
+        stringValue: 
+      - unityObjectValue: {fileID: 0}
+        stringValue: 
+    - fullName: VRCSDKBaseNetworking.__get_LocalPlayer__VRCSDKBaseVRCPlayerApi
+      uid: 422669a0-60b6-4e46-a703-5707322cd8d0
+      position: {x: 251.96002, y: 863.2}
+      nodeUIDs: []
+      flowUIDs: []
+      nodeValues: []
+    - fullName: UnityEngineGameObject.__get_transform__UnityEngineTransform
+      uid: b9e7afc5-fd6b-45df-b1c6-b7e891c4396b
+      position: {x: 666.4, y: 1063.2001}
+      nodeUIDs:
+      - 
+      flowUIDs: []
+      nodeValues:
+      - unityObjectValue: {fileID: 0}
+        stringValue: 
+    - fullName: UnityEngineRigidbody.__set_isKinematic__SystemBoolean__SystemVoid
+      uid: 640908d4-0293-4e42-9082-76f98bb83aaa
+      position: {x: 668, y: 713.6}
+      nodeUIDs:
+      - 38d20eed-24c0-4148-acc0-0673850d8de6|0
+      - 
+      flowUIDs: []
+      nodeValues:
+      - unityObjectValue: {fileID: 0}
+        stringValue: 
+      - unityObjectValue: {fileID: 0}
+        stringValue: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral,
+          PublicKeyToken=b77a5c561934e089|False
+    - fullName: UnityEngineTransform.__GetComponent__SystemType__UnityEngineComponent
+      uid: 38d20eed-24c0-4148-acc0-0673850d8de6
+      position: {x: 666.4, y: 846.39996}
+      nodeUIDs:
+      - b9e7afc5-fd6b-45df-b1c6-b7e891c4396b|0
+      - 991862a4-9b52-49c6-acea-ebcfb4dbfad9|0
+      flowUIDs: []
+      nodeValues:
+      - unityObjectValue: {fileID: 0}
+        stringValue: 
+      - unityObjectValue: {fileID: 0}
+        stringValue: 
+    - fullName: Type_UnityEngineRigidbody
+      uid: 991862a4-9b52-49c6-acea-ebcfb4dbfad9
+      position: {x: 666.4, y: 973.6}
+      nodeUIDs: []
+      flowUIDs: []
+      nodeValues: []
+    - fullName: Event_OnTriggerEnter
+      uid: 31dfc408-5d73-406b-a055-0075e7add74f
+      position: {x: -266.40002, y: 730.39996}
+      nodeUIDs: []
+      flowUIDs:
+      - fc93a7d4-e0f6-44b4-908a-a704e100803a
+      nodeValues: []
+    - fullName: Const_This
+      uid: 12712477-a8c5-4d4e-aadc-9e7e6cff6990
+      position: {x: 251.96002, y: 948}
+      nodeUIDs:
+      - 
+      flowUIDs: []
+      nodeValues:
+      - unityObjectValue: {fileID: 0}
+        stringValue: 
+    - fullName: Event_OnTriggerExit
+      uid: 5d203759-f0bc-4b5f-b97f-ad65a5d8635e
+      position: {x: -252.04866, y: 1462.5044}
+      nodeUIDs: []
+      flowUIDs:
+      - e5228d71-7293-4931-b19f-b85ccd107a9d
+      nodeValues: []
+    - fullName: Type_UnityEngineRigidbody
+      uid: a3815c58-6f6e-4856-af45-0ba1bf829e40
+      position: {x: 722.3513, y: 1705.7045}
+      nodeUIDs: []
+      flowUIDs: []
+      nodeValues: []
+    - fullName: UnityEngineTransform.__GetComponent__SystemType__UnityEngineComponent
+      uid: f477874d-05e5-49e4-9b19-826f95a9ef06
+      position: {x: 722.3513, y: 1578.5044}
+      nodeUIDs:
+      - e992001f-808e-4c5b-9f37-294e88c1ec16
+      - a3815c58-6f6e-4856-af45-0ba1bf829e40
+      flowUIDs: []
+      nodeValues:
+      - unityObjectValue: {fileID: 0}
+        stringValue: 
+      - unityObjectValue: {fileID: 0}
+        stringValue: 
+    - fullName: UnityEngineRigidbody.__set_isKinematic__SystemBoolean__SystemVoid
+      uid: 95de17b0-cfd0-4478-9003-ea707336c3db
+      position: {x: 723.95135, y: 1445.7045}
+      nodeUIDs:
+      - f477874d-05e5-49e4-9b19-826f95a9ef06
+      - 
+      flowUIDs: []
+      nodeValues:
+      - unityObjectValue: {fileID: 0}
+        stringValue: 
+      - unityObjectValue: {fileID: 0}
+        stringValue: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral,
+          PublicKeyToken=b77a5c561934e089|True
+    - fullName: UnityEngineGameObject.__get_transform__UnityEngineTransform
+      uid: e992001f-808e-4c5b-9f37-294e88c1ec16
+      position: {x: 722.3513, y: 1795.3044}
+      nodeUIDs:
+      - 
+      flowUIDs: []
+      nodeValues:
+      - unityObjectValue: {fileID: 0}
+        stringValue: 
+    - fullName: VRCSDKBaseNetworking.__get_LocalPlayer__VRCSDKBaseVRCPlayerApi
+      uid: 8584374a-665c-42cf-a9bf-8bb77ce1bf31
+      position: {x: 307.95135, y: 1595.3044}
+      nodeUIDs: []
+      flowUIDs: []
+      nodeValues: []
+    - fullName: VRCSDKBaseNetworking.__SetOwner__VRCSDKBaseVRCPlayerApi_UnityEngineGameObject__SystemVoid
+      uid: e5228d71-7293-4931-b19f-b85ccd107a9d
+      position: {x: 307.95135, y: 1462.5044}
+      nodeUIDs:
+      - 8584374a-665c-42cf-a9bf-8bb77ce1bf31
+      - a9e7e4b1-ca2b-4a1f-91c8-db78df7a9d34
+      flowUIDs:
+      - 95de17b0-cfd0-4478-9003-ea707336c3db
+      nodeValues:
+      - unityObjectValue: {fileID: 0}
+        stringValue: 
+      - unityObjectValue: {fileID: 0}
+        stringValue: 
+    - fullName: Const_This
+      uid: a9e7e4b1-ca2b-4a1f-91c8-db78df7a9d34
+      position: {x: 307.95135, y: 1680.1044}
+      nodeUIDs:
+      - 
+      flowUIDs: []
+      nodeValues:
+      - unityObjectValue: {fileID: 0}
+        stringValue: 
+    updateOrder: 0
+  graphElementData:
+  - type: 2
+    uid: cd2d62d8-227a-49ec-a015-158c77d5527f
+    jsonData: '{"uid":"cd2d62d8-227a-49ec-a015-158c77d5527f","layout":{"serializedVersion":"2","x":-292.0,"y":653.5999755859375,"width":1205.5999755859375,"height":604.7999877929688},"containedElements":["991862a4-9b52-49c6-acea-ebcfb4dbfad9","38d20eed-24c0-4148-acc0-0673850d8de6","640908d4-0293-4e42-9082-76f98bb83aaa","b9e7afc5-fd6b-45df-b1c6-b7e891c4396b","8ce36d23-390a-4b85-a85e-cdefac48c228","422669a0-60b6-4e46-a703-5707322cd8d0","fc93a7d4-e0f6-44b4-908a-a704e100803a","31dfc408-5d73-406b-a055-0075e7add74f","12712477-a8c5-4d4e-aadc-9e7e6cff6990"],"title":"OnTriggerEnter","layer":-1,"elementTypeColor":{"r":0.0,"g":0.0,"b":0.0,"a":1.0}}'
+  - type: 2
+    uid: 722d014d-1202-4e02-ac17-5368c6e8f793
+    jsonData: '{"uid":"722d014d-1202-4e02-ac17-5368c6e8f793","layout":{"serializedVersion":"2","x":-277.5999755859375,"y":1385.600341796875,"width":1247.199951171875,"height":604.7999267578125},"containedElements":["a9e7e4b1-ca2b-4a1f-91c8-db78df7a9d34","e5228d71-7293-4931-b19f-b85ccd107a9d","8584374a-665c-42cf-a9bf-8bb77ce1bf31","ffd05adc-707b-4d7b-b828-7e4092c30cb3","e992001f-808e-4c5b-9f37-294e88c1ec16","95de17b0-cfd0-4478-9003-ea707336c3db","f477874d-05e5-49e4-9b19-826f95a9ef06","a3815c58-6f6e-4856-af45-0ba1bf829e40","5d203759-f0bc-4b5f-b97f-ad65a5d8635e"],"title":"OnTriggerExit","layer":-1,"elementTypeColor":{"r":0.0,"g":0.0,"b":0.0,"a":1.0}}'
+  version: 1.0.0
+  showAssembly: 0

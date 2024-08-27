@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
+  m_Name: OnPickupHoldSyncTransforms
+  m_EditorClassIdentifier: 
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 5a9ba9d5af17c5943a1f7744c3370ebb,
+    type: 2}
+  udonAssembly: ".data_start\r\n\r\n    \r\n    __Boolean_0: %SystemBoolean, null\r\n   
+    __Boolean_1: %SystemBoolean, null\r\n    __Boolean_2: %SystemBoolean, null\r\n   
+    isHolding: %SystemBoolean, null\r\n\r\n.data_end\r\n\r\n.code_start\r\n\r\n   
+    .export _onPickup\r\n    \r\n    _onPickup:\r\n    \r\n        PUSH, __Boolean_0\r\n       
+    PUSH, isHolding\r\n        COPY\r\n        JUMP, 0xFFFFFFFC\r\n    \r\n    .export
+    _onDrop\r\n    \r\n    _onDrop:\r\n    \r\n        PUSH, __Boolean_1\r\n       
+    PUSH, isHolding\r\n        COPY\r\n        JUMP, 0xFFFFFFFC\r\n    \r\n    .export
+    _fixedUpdate\r\n    \r\n    _fixedUpdate:\r\n    \r\n        PUSH, isHolding\r\n       
+    JUMP_IF_FALSE, 0x00000058\r\n        EXTERN, \"UnityEnginePhysics.__SyncTransforms__SystemVoid\"\r\n       
+    JUMP, 0x00000058\r\n        JUMP, 0xFFFFFFFC\r\n    \r\n\r\n.code_end\r\n"
+  assemblyError: 
+  graphData:
+    name: 
+    description: 
+    nodes:
+    - fullName: Event_OnPickup
+      uid: aa172d01-bb26-466e-a5ac-bff44a754b13
+      position: {x: 425.6118, y: -26.531649}
+      nodeUIDs: []
+      flowUIDs:
+      - ecab1b73-2717-45e3-b429-ffa1e1b12a16
+      nodeValues: []
+    - fullName: Variable_SystemBoolean
+      uid: b701e190-64ec-4108-aeee-3e0cc23659fc
+      position: {x: -676.67847, y: -49.13418}
+      nodeUIDs:
+      - 
+      - 
+      - 
+      - 
+      - 
+      flowUIDs: []
+      nodeValues:
+      - unityObjectValue: {fileID: 0}
+        stringValue: 
+      - unityObjectValue: {fileID: 0}
+        stringValue: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|isHolding
+      - unityObjectValue: {fileID: 0}
+        stringValue: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral,
+          PublicKeyToken=b77a5c561934e089|False
+      - unityObjectValue: {fileID: 0}
+        stringValue: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral,
+          PublicKeyToken=b77a5c561934e089|False
+      - unityObjectValue: {fileID: 0}
+        stringValue: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|none
+    - fullName: Set_Variable
+      uid: ecab1b73-2717-45e3-b429-ffa1e1b12a16
+      position: {x: 676.557, y: -26.531631}
+      nodeUIDs:
+      - 
+      - 2b7ad473-3b63-4bc6-a7fe-490a9adaa287|0
+      - 
+      flowUIDs: []
+      nodeValues:
+      - unityObjectValue: {fileID: 0}
+        stringValue: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|b701e190-64ec-4108-aeee-3e0cc23659fc
+      - unityObjectValue: {fileID: 0}
+        stringValue: 
+      - unityObjectValue: {fileID: 0}
+        stringValue: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral,
+          PublicKeyToken=b77a5c561934e089|False
+    - fullName: Const_SystemBoolean
+      uid: 2b7ad473-3b63-4bc6-a7fe-490a9adaa287
+      position: {x: 676.7999, y: 124.79999}
+      nodeUIDs:
+      - 
+      flowUIDs: []
+      nodeValues:
+      - unityObjectValue: {fileID: 0}
+        stringValue: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral,
+          PublicKeyToken=b77a5c561934e089|True
+    - fullName: Event_OnDrop
+      uid: 6040baef-8b02-4fbc-99a1-3cf2139b67a6
+      position: {x: 425.6, y: 232.5907}
+      nodeUIDs: []
+      flowUIDs:
+      - 53c67dd2-0181-4d9c-b5a5-d313af5e2cec
+      nodeValues: []
+    - fullName: Set_Variable
+      uid: 53c67dd2-0181-4d9c-b5a5-d313af5e2cec
+      position: {x: 676.80005, y: 232}
+      nodeUIDs:
+      - 
+      - 68c27906-0459-47d5-87b6-9faf3664de7f
+      - 
+      flowUIDs: []
+      nodeValues:
+      - unityObjectValue: {fileID: 0}
+        stringValue: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|b701e190-64ec-4108-aeee-3e0cc23659fc
+      - unityObjectValue: {fileID: 0}
+        stringValue: 
+      - unityObjectValue: {fileID: 0}
+        stringValue: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral,
+          PublicKeyToken=b77a5c561934e089|False
+    - fullName: Const_SystemBoolean
+      uid: 68c27906-0459-47d5-87b6-9faf3664de7f
+      position: {x: 676.80005, y: 384}
+      nodeUIDs:
+      - 
+      flowUIDs: []
+      nodeValues:
+      - unityObjectValue: {fileID: 0}
+        stringValue: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral,
+          PublicKeyToken=b77a5c561934e089|False
+    - fullName: Event_Update
+      uid: 4db3adc6-b6da-4c27-8c64-340979123eaa
+      position: {x: 1060.4001, y: 155.20001}
+      nodeUIDs: []
+      flowUIDs:
+      - 
+      nodeValues: []
+    - fullName: Branch
+      uid: aab23b61-5a01-4819-81f7-71e4c940d04f
+      position: {x: 1243.2003, y: 155.20004}
+      nodeUIDs:
+      - 03fcf17f-048a-431a-a9cd-3591d8d0a304|0
+      flowUIDs:
+      - 0bf83abd-d49d-43ad-99b2-453d68fc8e1b
+      nodeValues:
+      - unityObjectValue: {fileID: 0}
+        stringValue: System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral,
+          PublicKeyToken=b77a5c561934e089|False
+    - fullName: Get_Variable
+      uid: 03fcf17f-048a-431a-a9cd-3591d8d0a304
+      position: {x: 1078.2401, y: 306.36002}
+      nodeUIDs:
+      - 
+      flowUIDs: []
+      nodeValues:
+      - unityObjectValue: {fileID: 0}
+        stringValue: System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|b701e190-64ec-4108-aeee-3e0cc23659fc
+      - unityObjectValue: {fileID: 0}
+        stringValue: 
+    - fullName: UnityEnginePhysics.__SyncTransforms__SystemVoid
+      uid: 0bf83abd-d49d-43ad-99b2-453d68fc8e1b
+      position: {x: 1443.8401, y: 155.20001}
+      nodeUIDs: []
+      flowUIDs: []
+      nodeValues: []
+    - fullName: Event_FixedUpdate
+      uid: 430e5ffe-6687-4f31-8160-5c4d6d9d3c5e
+      position: {x: 1013.6001, y: -26.400024}
+      nodeUIDs: []
+      flowUIDs:
+      - aab23b61-5a01-4819-81f7-71e4c940d04f
+      nodeValues: []
+    updateOrder: 0
+  graphElementData: []
+  version: 1.0.0
+  showAssembly: 0
